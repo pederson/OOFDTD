@@ -1,0 +1,9395 @@
+mkdir: cannot create directory `weak_scaling': File exists
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 0.000258532
+nnodesx: 46.4159
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+The proc grid looks like this: 
+Size (1 x 1 x 1)
+(0, 0, 0) ===> Proc #0
+Proc #0 ---> RED
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 10.1348
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 0.000205197
+nnodesx: 58.4804
+ 
+1.25992********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+
+1.25992
+The proc grid looks like this: 
+Size (1 x 1 x 2)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #1
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 10.5684
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 0.000162865
+nnodesx: 73.6806
+1.58741.5874
+
+1.5874
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+1.5874
+The proc grid looks like this: 
+Size (2 x 1 x 2)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #2
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #3
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> BLACK
+Proc #3 ---> RED
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 10.4894
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10222
+2
+
+
+22
+
+2
+ wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 0.000129266
+nnodesx: 92.8318
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+2
+The proc grid looks like this: 
+Size (2 x 2 x 2)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #4
+(0, 1, 0) ===> Proc #2
+(0, 1, 1) ===> Proc #6
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #5
+(1, 1, 0) ===> Proc #3
+(1, 1, 1) ===> Proc #7
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> BLACK
+Proc #3 ---> RED
+Proc #4 ---> BLACK
+Proc #5 ---> RED
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.4775
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+2.51984freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 0.000102599
+nnodesx: 116.961
+2.51984
+
+2.51984
+2.51984
+2.519842.519842.51984
+2.51984
+
+
+2.51984
+2.51984
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+2.51984
+2.51984
+2.519842.51984
+
+2.51984
+2.51984
+The proc grid looks like this: 
+Size (4 x 2 x 2)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #8
+(0, 1, 0) ===> Proc #4
+(0, 1, 1) ===> Proc #12
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #9
+(1, 1, 0) ===> Proc #5
+(1, 1, 1) ===> Proc #13
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #10
+(2, 1, 0) ===> Proc #6
+(2, 1, 1) ===> Proc #14
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #11
+(3, 1, 0) ===> Proc #7
+(3, 1, 1) ===> Proc #15
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> BLACK
+Proc #5 ---> RED
+Proc #6 ---> BLACK
+Proc #7 ---> RED
+Proc #8 ---> BLACK
+Proc #9 ---> RED
+Proc #10 ---> BLACK
+Proc #11 ---> RED
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.382
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 8.61774e-05
+nnodesx: 139.248
+3
+3
+3
+3
+3
+3
+ 
+********* Parametric Model 3D Summary **********
+Model Name: 3Empty
+*********************************************
+ 
+
+3
+33
+
+3
+3
+3
+3
+3
+3
+The proc grid looks like this: 
+Size (3 x 3 x 3)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #9
+(0, 0, 2) ===> Proc #18
+(0, 1, 0) ===> Proc #3
+(0, 1, 1) ===> Proc #12
+(0, 1, 2) ===> Proc #21
+(0, 2, 0) ===> Proc #6
+(0, 2, 1) ===> Proc #15
+(0, 2, 2) ===> Proc #24
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #10
+(1, 0, 2) ===> Proc #19
+(1, 1, 0) ===> Proc #4
+(1, 1, 1) ===> Proc #13
+(1, 1, 2) ===> Proc #22
+(1, 2, 0) ===> Proc #7
+(1, 2, 1) ===> Proc #16
+(1, 2, 2) ===> Proc #25
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #11
+(2, 0, 2) ===> Proc #20
+(2, 1, 0) ===> Proc #5
+(2, 1, 1) ===> Proc #14
+(2, 1, 2) ===> Proc #23
+(2, 2, 0) ===> Proc #8
+(2, 2, 1) ===> Proc #17
+(2, 2, 2) ===> Proc #26
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> RED
+Proc #11 ---> BLACK
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> RED
+Proc #19 ---> BLACK
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+333333333
+
+
+33
+
+
+
+
+
+
+
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_15][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_7][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_4][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_10][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_3][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_12][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_11][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_6][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_9][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_1][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_13][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_5][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpispawn_0][readline] Unexpected End-Of-File on file descriptor 19. MPI process died?
+[c402-302.stampede.tacc.utexas.edu:mpispawn_0][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_2][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_14][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpi_rank_8][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-302.stampede.tacc.utexas.edu:mpispawn_0][child_handler] MPI process (rank: 15, pid: 58981) terminated with signal 11 -> abort job
+on time step 1/99[c402-701.stampede.tacc.utexas.edu:mpi_rank_25][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_26][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_24][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_17][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpispawn_1][readline] Unexpected End-Of-File on file descriptor 11. MPI process died?
+[c402-701.stampede.tacc.utexas.edu:mpispawn_1][mtpmi_processops] Error while reading PMI socket. MPI process died?
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_19][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_22][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_16][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_20][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_23][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_18][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpi_rank_21][error_sighandler] Caught error: Segmentation fault (signal 11)
+[c402-701.stampede.tacc.utexas.edu:mpispawn_1][child_handler] MPI process (rank: 25, pid: 41263) terminated with signal 11 -> abort job
+[c402-302.stampede.tacc.utexas.edu:mpirun_rsh][process_mpispawn_connection] mpispawn_0 from node c402-302 aborted: Error while reading a PMI socket (4)
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+freq(Hz): 5e+10 wavelen(m): 40.00644
+
+
+
+lx: 0.012 ly: 0.012
+dx: 6.4633e-05
+nnodesx: 185.664
+4
+4
+4
+4
+4
+4
+4
+4
+ 4
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+
+*********************************************
+ 
+44
+
+4
+4
+4
+4
+44
+
+4
+4
+4
+4
+4
+44
+
+4
+4
+4
+44
+
+444444
+444
+44
+
+4
+
+4
+
+44
+4
+
+
+
+
+
+
+44444444444
+
+4
+
+
+
+
+
+44
+
+
+
+
+
+4
+4
+The proc grid looks like this: 
+Size (4 x 4 x 4)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #16
+(0, 0, 2) ===> Proc #32
+(0, 0, 3) ===> Proc #48
+(0, 1, 0) ===> Proc #4
+(0, 1, 1) ===> Proc #20
+(0, 1, 2) ===> Proc #36
+(0, 1, 3) ===> Proc #52
+(0, 2, 0) ===> Proc #8
+(0, 2, 1) ===> Proc #24
+(0, 2, 2) ===> Proc #40
+(0, 2, 3) ===> Proc #56
+(0, 3, 0) ===> Proc #12
+(0, 3, 1) ===> Proc #28
+(0, 3, 2) ===> Proc #44
+(0, 3, 3) ===> Proc #60
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #17
+(1, 0, 2) ===> Proc #33
+(1, 0, 3) ===> Proc #49
+(1, 1, 0) ===> Proc #5
+(1, 1, 1) ===> Proc #21
+(1, 1, 2) ===> Proc #37
+(1, 1, 3) ===> Proc #53
+(1, 2, 0) ===> Proc #9
+(1, 2, 1) ===> Proc #25
+(1, 2, 2) ===> Proc #41
+(1, 2, 3) ===> Proc #57
+(1, 3, 0) ===> Proc #13
+(1, 3, 1) ===> Proc #29
+(1, 3, 2) ===> Proc #45
+(1, 3, 3) ===> Proc #61
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #18
+(2, 0, 2) ===> Proc #34
+(2, 0, 3) ===> Proc #50
+(2, 1, 0) ===> Proc #6
+(2, 1, 1) ===> Proc #22
+(2, 1, 2) ===> Proc #38
+(2, 1, 3) ===> Proc #54
+(2, 2, 0) ===> Proc #10
+(2, 2, 1) ===> Proc #26
+(2, 2, 2) ===> Proc #42
+(2, 2, 3) ===> Proc #58
+(2, 3, 0) ===> Proc #14
+(2, 3, 1) ===> Proc #30
+(2, 3, 2) ===> Proc #46
+(2, 3, 3) ===> Proc #62
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #19
+(3, 0, 2) ===> Proc #35
+(3, 0, 3) ===> Proc #51
+(3, 1, 0) ===> Proc #7
+(3, 1, 1) ===> Proc #23
+(3, 1, 2) ===> Proc #39
+(3, 1, 3) ===> Proc #55
+(3, 2, 0) ===> Proc #11
+(3, 2, 1) ===> Proc #27
+(3, 2, 2) ===> Proc #43
+(3, 2, 3) ===> Proc #59
+(3, 3, 0) ===> Proc #15
+(3, 3, 1) ===> Proc #31
+(3, 3, 2) ===> Proc #47
+(3, 3, 3) ===> Proc #63
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> BLACK
+Proc #5 ---> RED
+Proc #6 ---> BLACK
+Proc #7 ---> RED
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> RED
+Proc #11 ---> BLACK
+Proc #12 ---> BLACK
+Proc #13 ---> RED
+Proc #14 ---> BLACK
+Proc #15 ---> RED
+Proc #16 ---> BLACK
+Proc #17 ---> RED
+Proc #18 ---> BLACK
+Proc #19 ---> RED
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> BLACK
+Proc #25 ---> RED
+Proc #26 ---> BLACK
+Proc #27 ---> RED
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> RED
+Proc #31 ---> BLACK
+Proc #32 ---> RED
+Proc #33 ---> BLACK
+Proc #34 ---> RED
+Proc #35 ---> BLACK
+Proc #36 ---> BLACK
+Proc #37 ---> RED
+Proc #38 ---> BLACK
+Proc #39 ---> RED
+Proc #40 ---> RED
+Proc #41 ---> BLACK
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> BLACK
+Proc #45 ---> RED
+Proc #46 ---> BLACK
+Proc #47 ---> RED
+Proc #48 ---> BLACK
+Proc #49 ---> RED
+Proc #50 ---> BLACK
+Proc #51 ---> RED
+Proc #52 ---> RED
+Proc #53 ---> BLACK
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> BLACK
+Proc #57 ---> RED
+Proc #58 ---> BLACK
+Proc #59 ---> RED
+Proc #60 ---> RED
+Proc #61 ---> BLACK
+Proc #62 ---> RED
+Proc #63 ---> BLACK
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 20.5103
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+555555
+
+5555555
+
+
+
+
+
+
+
+
+
+
+5
+5
+5
+55
+
+5
+5
+5
+55
+
+5
+5
+5
+5
+5
+5
+555
+
+
+55
+
+5
+5
+5
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 5.17064e-05
+nnodesx: 232.079
+5
+5
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+5
+5
+5
+5
+5
+5
+555
+
+
+5
+55
+
+5
+5
+5
+5
+5
+5
+5
+5
+55
+
+55
+
+55
+
+5
+5
+55
+
+5
+5
+555
+
+
+5
+5
+5
+555555555555
+55
+
+
+
+
+
+
+
+5
+
+5
+
+
+
+
+The proc grid looks like this: 
+Size (5 x 5 x 5)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #25
+(0, 0, 2) ===> Proc #50
+(0, 0, 3) ===> Proc #75
+(0, 0, 4) ===> Proc #100
+(0, 1, 0) ===> Proc #5
+(0, 1, 1) ===> Proc #30
+(0, 1, 2) ===> Proc #55
+(0, 1, 3) ===> Proc #80
+(0, 1, 4) ===> Proc #105
+(0, 2, 0) ===> Proc #10
+(0, 2, 1) ===> Proc #35
+(0, 2, 2) ===> Proc #60
+(0, 2, 3) ===> Proc #85
+(0, 2, 4) ===> Proc #110
+(0, 3, 0) ===> Proc #15
+(0, 3, 1) ===> Proc #40
+(0, 3, 2) ===> Proc #65
+(0, 3, 3) ===> Proc #90
+(0, 3, 4) ===> Proc #115
+(0, 4, 0) ===> Proc #20
+(0, 4, 1) ===> Proc #45
+(0, 4, 2) ===> Proc #70
+(0, 4, 3) ===> Proc #95
+(0, 4, 4) ===> Proc #120
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #26
+(1, 0, 2) ===> Proc #51
+(1, 0, 3) ===> Proc #76
+(1, 0, 4) ===> Proc #101
+(1, 1, 0) ===> Proc #6
+(1, 1, 1) ===> Proc #31
+(1, 1, 2) ===> Proc #56
+(1, 1, 3) ===> Proc #81
+(1, 1, 4) ===> Proc #106
+(1, 2, 0) ===> Proc #11
+(1, 2, 1) ===> Proc #36
+(1, 2, 2) ===> Proc #61
+(1, 2, 3) ===> Proc #86
+(1, 2, 4) ===> Proc #111
+(1, 3, 0) ===> Proc #16
+(1, 3, 1) ===> Proc #41
+(1, 3, 2) ===> Proc #66
+(1, 3, 3) ===> Proc #91
+(1, 3, 4) ===> Proc #116
+(1, 4, 0) ===> Proc #21
+(1, 4, 1) ===> Proc #46
+(1, 4, 2) ===> Proc #71
+(1, 4, 3) ===> Proc #96
+(1, 4, 4) ===> Proc #121
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #27555555555555555
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+(2, 0, 2) ===> Proc #52
+(2, 0, 3) ===> Proc #77
+(2, 0, 4) ===> Proc #102
+(2, 1, 0) ===> Proc #7
+(2, 1, 1) ===> Proc #32
+(2, 1, 2) ===> Proc #57
+(2, 1, 3) ===> Proc #82
+(2, 1, 4) ===> Proc #107
+(2, 2, 0) ===> Proc #12
+(2, 2, 1) ===> Proc #37
+(2, 2, 2) ===> Proc #62
+(2, 2, 3) ===> Proc #87
+(2, 2, 4) ===> Proc #112
+(2, 3, 0) ===> Proc #17
+(2, 3, 1) ===> Proc #42
+(2, 3, 2) ===> Proc #67
+(2, 3, 3) ===> Proc #92
+(2, 3, 4) ===> Proc #117
+(2, 4, 0) ===> Proc #22
+(2, 4, 1) ===> Proc #47
+(2, 4, 2) ===> Proc #72
+(2, 4, 3) ===> Proc #97
+(2, 4, 4) ===> Proc #122
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #28
+(3, 0, 2) ===> Proc #53
+(3, 0, 3) ===> Proc #78
+(3, 0, 4) ===> Proc #103
+(3, 1, 0) ===> Proc #8
+(3, 1, 1) ===> Proc #33
+(3, 1, 2) ===> Proc #58
+(3, 1, 3) ===> Proc #83
+(3, 1, 4) ===> Proc #108
+(3, 2, 0) ===> Proc #13
+(3, 2, 1) ===> Proc #38
+(3, 2, 2) ===> Proc #63
+(3, 2, 3) ===> Proc #88
+(3, 2, 4) ===> Proc #113
+(3, 3, 0) ===> Proc #18
+(3, 3, 1) ===> Proc #43
+(3, 3, 2) ===> Proc #68
+(3, 3, 3) ===> Proc #93
+(3, 3, 4) ===> Proc #118
+(3, 4, 0) ===> Proc #23
+(3, 4, 1) ===> Proc #48
+(3, 4, 2) ===> Proc #73
+(3, 4, 3) ===> Proc #98
+(3, 4, 4) ===> Proc #123
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #29
+(4, 0, 2) ===> Proc #54
+(4, 0, 3) ===> Proc #79
+(4, 0, 4) ===> Proc #104
+(4, 1, 0) ===> Proc #9
+(4, 1, 1) ===> Proc #34
+(4, 1, 2) ===> Proc #59
+(4, 1, 3) ===> Proc #84
+(4, 1, 4) ===> Proc #109
+(4, 2, 0) ===> Proc #14
+(4, 2, 1) ===> Proc #39
+(4, 2, 2) ===> Proc #64
+(4, 2, 3) ===> Proc #89
+(4, 2, 4) ===> Proc #114
+(4, 3, 0) ===> Proc #19
+(4, 3, 1) ===> Proc #44
+(4, 3, 2) ===> Proc #69
+(4, 3, 3) ===> Proc #94
+(4, 3, 4) ===> Proc #119
+(4, 4, 0) ===> Proc #24
+(4, 4, 1) ===> Proc #49
+(4, 4, 2) ===> Proc #74
+(4, 4, 3) ===> Proc #99
+(4, 4, 4) ===> Proc #124
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> RED
+Proc #11 ---> BLACK
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> RED
+Proc #19 ---> BLACK
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+Proc #27 ---> BLACK
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> RED
+Proc #31 ---> BLACK
+Proc #32 ---> RED
+Proc #33 ---> BLACK
+Proc #34 ---> RED
+Proc #35 ---> BLACK
+Proc #36 ---> RED
+Proc #37 ---> BLACK
+Proc #38 ---> RED
+Proc #39 ---> BLACK
+Proc #40 ---> RED
+Proc #41 ---> BLACK
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> RED
+Proc #45 ---> BLACK
+Proc #46 ---> RED
+Proc #47 ---> BLACK
+Proc #48 ---> RED
+Proc #49 ---> BLACK
+Proc #50 ---> RED
+Proc #51 ---> BLACK
+Proc #52 ---> RED
+Proc #53 ---> BLACK
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> RED
+Proc #57 ---> BLACK
+Proc #58 ---> RED
+Proc #59 ---> BLACK
+Proc #60 ---> RED
+Proc #61 ---> BLACK
+Proc #62 ---> RED
+Proc #63 ---> BLACK
+Proc #64 ---> RED
+Proc #65 ---> BLACK
+Proc #66 ---> RED
+Proc #67 ---> BLACK
+Proc #68 ---> RED
+Proc #69 ---> BLACK
+Proc #70 ---> RED
+Proc #71 ---> BLACK
+Proc #72 ---> RED
+Proc #73 ---> BLACK
+Proc #74 ---> RED
+Proc #75 ---> BLACK
+Proc #76 ---> RED
+Proc #77 ---> BLACK
+Proc #78 ---> RED
+Proc #79 ---> BLACK
+Proc #80 ---> RED
+Proc #81 ---> BLACK
+Proc #82 ---> RED
+Proc #83 ---> BLACK
+Proc #84 ---> RED
+Proc #85 ---> BLACK
+Proc #86 ---> RED
+Proc #87 ---> BLACK
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> RED
+Proc #91 ---> BLACK
+Proc #92 ---> RED
+Proc #93 ---> BLACK
+Proc #94 ---> RED
+Proc #95 ---> BLACK
+Proc #96 ---> RED
+Proc #97 ---> BLACK
+Proc #98 ---> RED
+Proc #99 ---> BLACK
+Proc #100 ---> RED
+Proc #101 ---> BLACK
+Proc #102 ---> RED
+Proc #103 ---> BLACK
+Proc #104 ---> RED
+Proc #105 ---> BLACK
+Proc #106 ---> RED
+Proc #107 ---> BLACK
+Proc #108 ---> RED
+Proc #109 ---> BLACK
+Proc #110 ---> RED
+Proc #111 ---> BLACK
+Proc #112 ---> RED
+Proc #113 ---> BLACK
+Proc #114 ---> RED
+Proc #115 ---> BLACK
+Proc #116 ---> RED
+Proc #117 ---> BLACK
+Proc #118 ---> RED
+Proc #119 ---> BLACK
+Proc #120 ---> RED
+Proc #121 ---> BLACK
+Proc #122 ---> RED
+Proc #123 ---> BLACK
+Proc #124 ---> RED
+555555555
+
+5
+
+
+555
+5
+5
+
+
+
+
+
+
+
+5
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 22.0513
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+66666666
+
+
+
+
+
+
+
+6
+66
+
+6
+6
+6
+66
+
+6
+66
+
+6
+6
+6
+6
+6
+6
+66
+
+6
+66
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 4.30887e-05
+nnodesx: 278.495
+6
+6
+6
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+66
+
+6
+6
+66
+
+6
+6
+6
+6
+66
+6
+
+6
+6
+6
+6
+66
+
+6
+6
+6666666666666
+
+6
+
+
+6
+
+
+
+6
+
+
+
+
+
+
+6
+666
+
+
+66
+
+6
+6
+6
+6
+6
+6
+6
+6
+66
+
+6
+6
+6
+66
+
+6
+6
+6
+66
+
+6
+6
+6
+6
+6
+6
+6
+6
+66
+6
+
+66
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+666666666
+6
+
+
+
+6
+
+666
+6
+6
+
+
+
+
+
+
+The proc grid looks like this: 
+Size (6 x 6 x 6)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #36
+(0, 0, 2) ===> Proc #72
+(0, 0, 3) ===> Proc #108
+(0, 0, 4) ===> Proc #144
+(0, 0, 5) ===> Proc #180
+(0, 1, 0) ===> Proc #6
+(0, 1, 1) ===> Proc #42
+(0, 1, 2) ===> Proc #78
+(0, 1, 3) ===> Proc #114
+(0, 1, 4) ===> Proc #150
+(0, 1, 5) ===> Proc #186
+(0, 2, 0) ===> Proc #12
+(0, 2, 1) ===> Proc #48
+(0, 2, 2) ===> Proc #84
+(0, 6666666666666
+6
+
+66
+
+
+
+
+
+
+
+
+
+
+
+
+2, 3) ===> Proc #120
+(0, 2, 4) ===> Proc #156
+(0, 2, 5) ===> Proc #192
+(0, 3, 0) ===> Proc #18
+(0, 3, 1) ===> Proc #54
+(66666666666666
+
+6
+
+
+
+
+
+
+
+
+6
+
+
+
+
+0, 3, 2) ===> Proc #90
+(0, 3, 3) ===> Proc #126
+(0, 3, 4) ===> Proc #162
+(0, 3, 5) ===> Proc #198
+(0, 4, 0) ===> Proc #24
+(0, 4, 1) ===> Proc #60
+(0, 4, 2) ===> Proc #96
+(0, 4, 3) ===> Proc #132
+(0, 4, 4) ===> Proc #168
+(0, 4, 5) ===> Proc #204
+(0, 5, 0) ===> Proc #30
+(0, 5, 1) ===> Proc #66
+(0, 5, 2) ===> Proc #102
+(0, 5, 3) ===> Proc #138
+(0, 5, 4) ===> Proc #174
+(0, 5, 5) ===> Proc #210
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #37
+(1, 0, 2) ===> Proc #73
+(1, 0, 3) ===> Proc #109
+(1, 0, 4) ===> Proc #145
+(1, 0, 5) ===> Proc #181
+(1, 1, 0) ===> Proc #7
+(1, 1, 1) ===> Proc #43
+(1, 1, 2) ===> Proc #79
+(1, 1, 3) ===> Proc #115
+(1, 1, 4) ===> Proc #151
+(1, 1, 5) ===> Proc #187
+(1, 2, 0) ===> Proc #13
+(1, 2, 1) ===> Proc #49
+(1, 2, 2) ===> Proc #85
+(1, 2, 3) ===> Proc #121
+(1, 2, 4) ===> Proc #157
+(1, 2, 5) ===> Proc #193
+(1, 3, 0) ===> Proc #19
+(1, 3, 1) ===> Proc #55
+(1, 3, 2) ===> Proc #91
+(1, 3, 3) ===> Proc #127
+(1, 3, 4) ===> Proc #163
+(1, 3, 5) ===> Proc #199
+(1, 4, 0) ===> Proc #25
+(1, 4, 1) ===> Proc #61
+(1, 4, 2) ===> Proc #97
+(1, 4, 3) ===> Proc #133
+(1, 4, 4) ===> Proc #169
+(1, 4, 5) ===> Proc #205
+(1, 5, 0) ===> Proc #31
+(1, 5, 1) ===> Proc #67
+(1, 5, 2) ===> Proc #103
+(1, 5, 3) ===> Proc #139
+(1, 5, 4) ===> Proc #175
+(1, 5, 5) ===> Proc #211
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #38
+(2, 0, 2) ===> Proc #74
+(2, 0, 3) ===> Proc #110
+(2, 0, 4) ===> Proc #146
+(2, 0, 5) ===> Proc #182
+(2, 1, 0) ===> Proc #8
+(2, 1, 1) ===> Proc #44
+(2, 1, 2) ===> Proc #80
+(2, 1, 3) ===> Proc #116
+(2, 1, 4) ===> Proc #152
+(2, 1, 5) ===> Proc #188
+(2, 2, 0) ===> Proc #14
+(2, 2, 1) ===> Proc #50
+(2, 2, 2) ===> Proc #86
+(2, 2, 3) ===> Proc #122
+(2, 2, 4) ===> Proc #158
+(2, 2, 5) ===> Proc #194
+(2, 3, 0) ===> Proc #20
+(2, 3, 1) ===> Proc #56
+(2, 3, 2) ===> Proc #92
+(2, 3, 3) ===> Proc #128
+(2, 3, 4) ===> Proc #164
+(2, 3, 5) ===> Proc #200
+(2, 4, 0) ===> Proc #26
+(2, 4, 1) ===> Proc #62
+(2, 4, 2) ===> Proc #98
+(2, 4, 3) ===> Proc #134
+(2, 4, 4) ===> Proc #170
+(2, 4, 5) ===> Proc #206
+(2, 5, 0) ===> Proc #32
+(2, 5, 1) ===> Proc #68
+(2, 5, 2) ===> Proc #104
+(2, 5, 3) ===> Proc #140
+(2, 5, 4) ===> Proc #176
+(2, 5, 5) ===> Proc #212
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #39
+(3, 0, 2) ===> Proc #75
+(3, 0, 3) ===> Proc #111
+(3, 0, 4) ===> Proc #147
+(3, 0, 5) ===> Proc #183
+(3, 1, 0) ===> Proc #9
+(3, 1, 1) ===> Proc #45
+(3, 1, 2) ===> Proc #81
+(3, 1, 3) ===> Proc #117
+(3, 1, 4) ===> Proc #153
+(3, 1, 5) ===> Proc #189
+(3, 2, 0) ===> Proc #15
+(3, 2, 1) ===> Proc #51
+(3, 2, 2) ===> Proc #87
+(3, 2, 3) ===> Proc #123
+(3, 2, 4) ===> Proc #159
+(3, 2, 5) ===> Proc #195
+(3, 3, 0) ===> Proc #21
+(3, 3, 1) ===> Proc #57
+(3, 3, 2) ===> Proc #93
+(3, 3, 3) ===> Proc #129
+(3, 3, 4) ===> Proc #165
+(3, 3, 5) ===> Proc #201
+(3, 4, 0) ===> Proc #27
+(3, 4, 1) ===> Proc #63
+(3, 4, 2) ===> Proc #99
+(3, 4, 3) ===> Proc #135
+(3, 4, 4) ===> Proc #171
+(3, 4, 5) ===> Proc #207
+(3, 5, 0) ===> Proc #33
+(3, 5, 1) ===> Proc #69
+(3, 5, 2) ===> Proc #105
+(3, 5, 3) ===> Proc #141
+(3, 5, 4) ===> Proc #177
+(3, 5, 5) ===> Proc #213
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #40
+(4, 0, 2) ===> Proc #76
+(4, 0, 3) ===> Proc #112
+(4, 0, 4) ===> Proc #148
+(4, 0, 5) ===> Proc #184
+(4, 1, 0) ===> Proc #10
+(4, 1, 1) ===> Proc #46
+(4, 1, 2) ===> Proc #82
+(4, 1, 3) ===> Proc #118
+(4, 1, 4) ===> Proc #154
+(4, 1, 5) ===> Proc #190
+(4, 2, 0) ===> Proc #16
+(4, 2, 1) ===> Proc #52
+(4, 2, 2) ===> Proc #88
+(4, 2, 3) ===> Proc #124
+(4, 2, 4) ===> Proc #160
+(4, 2, 5) ===> Proc #196
+(4, 3, 0) ===> Proc #22
+(4, 3, 1) ===> Proc #58
+(4, 3, 2) ===> Proc #94
+(4, 3, 3) ===> Proc #130
+(4, 3, 4) ===> Proc #166
+(4, 3, 5) ===> Proc #202
+(4, 4, 0) ===> Proc #28
+(4, 4, 1) ===> Proc #64
+(4, 4, 2) ===> Proc #100
+(4, 4, 3) ===> Proc #136
+(4, 4, 4) ===> Proc #172
+(4, 4, 5) ===> Proc #208
+(4, 5, 0) ===> Proc #34
+(4, 5, 1) ===> Proc #70
+(4, 5, 2) ===> Proc #106
+(4, 5, 3) ===> Proc #142
+(4, 5, 4) ===> Proc #178
+(4, 5, 5) ===> Proc #214
+(5, 0, 0) ===> Proc #5
+(5, 0, 1) ===> Proc #41
+(5, 0, 2) ===> Proc #77
+(5, 0, 3) ===> Proc #113
+(5, 0, 4) ===> Proc #149
+(5, 0, 5) ===> Proc #185
+(5, 1, 0) ===> Proc #11
+(5, 1, 1) ===> Proc #47
+(5, 1, 2) ===> Proc #83
+(5, 1, 3) ===> Proc #119
+(5, 1, 4) ===> Proc #155
+(5, 1, 5) ===> Proc #191
+(5, 2, 0) ===> Proc #17
+(5, 2, 1) ===> Proc #53
+(5, 2, 2) ===> Proc #89
+(5, 2, 3) ===> Proc #125
+(5, 2, 4) ===> Proc #161
+(5, 2, 5) ===> Proc #197
+(5, 3, 0) ===> Proc #23
+(5, 3, 1) ===> Proc #59
+(5, 3, 2) ===> Proc #95
+(5, 3, 3) ===> Proc #131
+(5, 3, 4) ===> Proc #167
+(5, 3, 5) ===> Proc #203
+(5, 4, 0) ===> Proc #29
+(5, 4, 1) ===> Proc #65
+(5, 4, 2) ===> Proc #101
+(5, 4, 3) ===> Proc #137
+(5, 4, 4) ===> Proc #173
+(5, 4, 5) ===> Proc #209
+(5, 5, 0) ===> Proc #35
+(5, 5, 1) ===> Proc #71
+(5, 5, 2) ===> Proc #107
+(5, 5, 3) ===> Proc #143
+(5, 5, 4) ===> Proc #179
+(5, 5, 5) ===> Proc #215
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> BLACK
+Proc #7 ---> RED
+Proc #8 ---> BLACK
+Proc #9 ---> RED
+Proc #10 ---> BLACK
+Proc #11 ---> RED
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> BLACK
+Proc #19 ---> RED
+Proc #20 ---> BLACK
+Proc #21 ---> RED
+Proc #22 ---> BLACK
+Proc #23 ---> RED
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+Proc #27 ---> BLACK
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> BLACK
+Proc #31 ---> RED
+Proc #32 ---> BLACK
+Proc #33 ---> RED
+Proc #34 ---> BLACK
+Proc #35 ---> RED
+Proc #36 ---> BLACK
+Proc #37 ---> RED
+Proc #38 ---> BLACK
+Proc #39 ---> RED
+Proc #40 ---> BLACK
+Proc #41 ---> RED
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> RED
+Proc #45 ---> BLACK
+Proc #46 ---> RED
+Proc #47 ---> BLACK
+Proc #48 ---> BLACK
+Proc #49 ---> RED
+Proc #50 ---> BLACK
+Proc #51 ---> RED
+Proc #52 ---> BLACK
+Proc #53 ---> RED
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> RED
+Proc #57 ---> BLACK
+Proc #58 ---> RED
+Proc #59 ---> BLACK
+Proc #60 ---> BLACK
+Proc #61 ---> RED
+Proc #62 ---> BLACK
+Proc #63 ---> RED
+Proc #64 ---> BLACK
+Proc #65 ---> RED
+Proc #66 ---> RED
+Proc #67 ---> BLACK
+Proc #68 ---> RED
+Proc #69 ---> BLACK
+Proc #70 ---> RED
+Proc #71 ---> BLACK
+Proc #72 ---> RED
+Proc #73 ---> BLACK
+Proc #74 ---> RED
+Proc #75 ---> BLACK
+Proc #76 ---> RED
+Proc #77 ---> BLACK
+Proc #78 ---> BLACK
+Proc #79 ---> RED
+Proc #80 ---> BLACK
+Proc #81 ---> RED
+Proc #82 ---> BLACK
+Proc #83 ---> RED
+Proc #84 ---> RED
+Proc #85 ---> BLACK
+Proc #86 ---> RED
+Proc #87 ---> BLACK
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> BLACK
+Proc #91 ---> RED
+Proc #92 ---> BLACK
+Proc #93 ---> RED
+Proc #94 ---> BLACK
+Proc #95 ---> RED
+Proc #96 ---> RED
+Proc #97 ---> BLACK
+Proc #98 ---> RED
+Proc #99 ---> BLACK
+Proc #100 ---> RED
+Proc #101 ---> BLACK
+Proc #102 ---> BLACK
+Proc #103 ---> RED
+Proc #104 ---> BLACK
+Proc #105 ---> RED
+Proc #106 ---> BLACK
+Proc #107 ---> RED
+Proc #108 ---> BLACK
+Proc #109 ---> RED
+Proc #110 ---> BLACK
+Proc #111 ---> RED
+Proc #112 ---> BLACK
+Proc #113 ---> RED
+Proc #114 ---> RED
+Proc #115 ---> BLACK
+Proc #116 ---> RED
+Proc #117 ---> BLACK
+Proc #118 ---> RED
+Proc #119 ---> BLACK
+Proc #120 ---> BLACK
+Proc #121 ---> RED
+Proc #122 ---> BLACK
+Proc #123 ---> RED
+Proc #124 ---> BLACK
+Proc #125 ---> RED
+Proc #126 ---> RED
+Proc #127 ---> BLACK
+Proc #128 ---> RED
+Proc #129 ---> BLACK
+Proc #130 ---> RED
+Proc #131 ---> BLACK
+Proc #132 ---> BLACK
+Proc #133 ---> RED
+Proc #134 ---> BLACK
+Proc #135 ---> RED
+Proc #136 ---> BLACK
+Proc #137 ---> RED
+Proc #138 ---> RED
+Proc #139 ---> BLACK
+Proc #140 ---> RED
+Proc #141 ---> BLACK
+Proc #142 ---> RED
+Proc #143 ---> BLACK
+Proc #144 ---> RED
+Proc #145 ---> BLACK
+Proc #146 ---> RED
+Proc #147 ---> BLACK
+Proc #148 ---> RED
+Proc #149 ---> BLACK
+Proc #150 ---> BLACK
+Proc #151 ---> RED
+Proc #152 ---> BLACK
+Proc #153 ---> RED
+Proc #154 ---> BLACK
+Proc #155 ---> RED
+Proc #156 ---> RED
+Proc #157 ---> BLACK
+Proc #158 ---> RED
+Proc #159 ---> BLACK
+Proc #160 ---> RED
+Proc #161 ---> BLACK
+Proc #162 ---> BLACK
+Proc #163 ---> RED
+Proc #164 ---> BLACK
+Proc #165 ---> RED
+Proc #166 ---> BLACK
+Proc #167 ---> RED
+Proc #168 ---> RED
+Proc #169 ---> BLACK
+Proc #170 ---> RED
+Proc #171 ---> BLACK
+Proc #172 ---> RED
+Proc #173 ---> BLACK
+Proc #174 ---> BLACK
+Proc #175 ---> RED
+Proc #176 ---> BLACK
+Proc #177 ---> RED
+Proc #178 ---> BLACK
+Proc #179 ---> RED
+Proc #180 ---> BLACK
+Proc #181 ---> RED
+Proc #182 ---> BLACK
+Proc #183 ---> RED
+Proc #184 ---> BLACK
+Proc #185 ---> RED
+Proc #186 ---> RED
+Proc #187 ---> BLACK
+Proc #188 ---> RED
+Proc #189 ---> BLACK
+Proc #190 ---> RED
+Proc #191 ---> BLACK
+Proc #192 ---> BLACK
+Proc #193 ---> RED
+Proc #194 ---> BLACK
+Proc #195 ---> RED
+Proc #196 ---> BLACK
+Proc #197 ---> RED
+Proc #198 ---> RED
+Proc #199 ---> BLACK
+Proc #200 ---> RED
+Proc #201 ---> BLACK
+Proc #202 ---> RED
+Proc #203 ---> BLACK
+Proc #204 ---> BLACK
+Proc #205 ---> RED
+Proc #206 ---> BLACK
+Proc #207 ---> RED
+Proc #208 ---> BLACK
+Proc #209 ---> RED
+Proc #210 ---> RED
+Proc #211 ---> BLACK
+Proc #212 ---> RED
+Proc #213 ---> BLACK
+Proc #214 ---> RED
+Proc #215 ---> BLACK
+6666666
+6
+6
+666
+6
+
+6
+
+6
+6
+
+
+
+
+
+
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 16.8409
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+7777777
+
+
+
+
+
+
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+77
+
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+777
+
+
+7
+7
+7
+77777777777
+
+77
+7
+
+
+77
+
+
+
+
+
+
+
+
+
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 3.69332e-05
+nnodesx: 324.911
+77
+
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+77
+
+77
+
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+77777777777777
+
+
+7
+
+
+
+
+
+
+
+
+
+7
+
+
+7
+7777
+
+
+
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+777
+
+7
+
+777
+
+
+777
+
+
+7
+77
+
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+7
+7
+7
+777
+
+
+77
+
+7
+7
+777
+
+
+7
+7
+7
+7
+77
+
+7
+7
+77
+
+7
+777
+
+
+77
+
+7
+7
+7
+7
+7
+7
+77
+
+7
+7
+7
+The proc grid looks like this: 
+Size (7 x 7 x 7)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #49
+(0, 0, 2) ===> Proc #98
+(0, 0, 3) ===> Proc #147
+(0, 0, 4) ===> Proc #196
+(0, 0, 5) ===> Proc #245
+(0, 0, 6) ===> Proc #294
+(0, 1, 0) ===> Proc #7
+(0, 1, 1) ===> Proc #56
+(0, 1, 2) ===> Proc #105
+(0, 1, 3) ===> Proc #154
+(0, 1, 4) ===> Proc #203
+(0, 1, 5) ===> Proc #252
+(0, 1, 6) ===> Proc #301
+(0, 2, 0) ===> Proc #14
+(0, 2, 1) ===> Proc #63
+(0, 2, 2) ===> Proc #112
+(0, 2, 3) ===> Proc #161
+(0, 2, 4) ===> Proc #210
+(0, 2, 5) ===> Proc #259
+(0, 2, 6) ===> Proc #308
+(0, 3, 0) ===> Proc #21
+(0, 3, 1) ===> Proc #70
+(0, 3, 2) ===> Proc #119
+(0, 3, 3) ===> Proc #168
+(0, 3, 4) ===> Proc #217
+(0, 3, 5) ===> Proc #266
+(0, 3, 6) ===> Proc #315
+(0, 4, 0) ===> Proc #28
+(0, 4, 1) ===> Proc #77
+(0, 4, 2) ===> Proc #126
+(0, 4, 3) ===> Proc #175
+(0, 4, 4) ===> Proc #224
+(0, 4, 5) ===> Proc #273
+(0, 4, 6) ===> Proc #322
+(0, 5, 0) ===> Proc #35
+(0, 5, 1) ===> Proc #84
+(0, 5, 2) ===> Proc #133
+(077777
+
+777
+
+
+777
+
+7
+
+7
+
+
+
+777
+
+
+, 5, 3) ===> Proc #182
+(0, 5, 4) ===> Proc #231
+(0, 5, 5) ===> Proc #280
+(0, 5, 6) ===> Proc #329
+(0, 6, 0) ===> Proc #42
+(0, 6, 1) ===> Proc #91
+(0, 6, 2) ===> Proc #140
+(0, 6, 3) ===> Proc #189
+(0, 6, 4) ===> Proc #238
+(0, 6, 5) ===> Proc #287
+(0, 6, 6) ===> Proc #336
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #50
+(1, 0, 2) ===> Proc #99
+(1, 0, 3) ===> Proc #148
+(1, 0, 4) ===> Proc #197
+(1, 0, 5) ===> Proc #246
+(1, 0, 6) ===> Proc #295
+(1, 1, 0) ===> Proc #8
+(1, 1, 1) ===> Proc #57
+(1, 1, 2) ===> Proc #106
+(1, 1, 3) ===> Proc #155
+(1, 1, 4) ===> Proc #204
+(1, 1, 5) ===> Proc #253
+(1, 1, 6) ===> Proc #302
+(1, 2, 0) ===> Proc #15
+(1, 2, 1) ===> Proc #64
+(1, 2, 2) ===> Proc #113
+(1, 2, 3) ===> Proc #162
+(1, 2, 4) ===> Proc #211
+(1, 2, 5) ===> Proc #260
+(1, 2, 6) ===> Proc #309
+(1, 3, 0) ===> Proc #22
+(1, 3, 1) ===> Proc #71
+(1, 3, 2) ===> Proc #120
+(1, 3, 3) ===> Proc #169
+(1, 3, 4) ===> Proc #218
+(1, 3, 5) ===> Proc #267
+(1, 3, 6) ===> Proc #316
+(1, 4, 0) ===> Proc #29
+(1, 4, 1) ===> Proc #78
+(1, 4, 2) ===> Proc #127
+(1, 4, 3) ===> Proc #176
+(1, 4, 4) ===> Proc #225
+(1, 4, 5) ===> Proc #274
+(1, 4, 6) ===> Proc #323
+(1, 5, 0) ===> Proc #36
+(1, 5, 1) ===> Proc #85
+(1, 5, 2) ===> Proc #134
+(1, 5, 3) ===> Proc #183
+(1, 5, 4) ===> Proc #232
+(1, 5, 5) ===> Proc #281
+(1, 5, 6) ===> Proc #330
+(1, 6, 0) ===> Proc #43
+(1, 6, 1) ===> Proc #92
+(1, 6, 2) ===> Proc #141
+(1, 6, 3) ===> Proc #190
+(1, 6, 4) ===> Proc #239
+(1, 6, 5) ===> Proc #288
+(1, 6, 6) ===> Proc #337
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #51
+(2, 0, 2) ===> Proc #100
+(2, 0, 3) ===> Proc #149
+(2, 0, 4) ===> Proc #198
+(2, 0, 5) ===> Proc #247
+(2, 0, 6) ===> Proc #296
+(2, 1, 0) ===> Proc #9
+(2, 1, 1) ===> Proc #58
+(2, 1, 2) ===> Proc #107
+(2, 1, 3) ===> Proc #156
+(2, 1, 4) ===> Proc #205
+(2, 1, 5) ===> Proc #254
+(2, 1, 6) ===> Proc #303
+(2, 2, 0) ===> Proc #16
+(2, 2, 1) ===> Proc #65
+(2, 2, 2) ===> Proc #114
+(2, 2, 3) ===> Proc #163
+(2, 2, 4) ===> Proc #212
+(2, 2, 5) ===> Proc #261
+(2, 2, 6) ===> Proc #310
+(2, 3, 0) ===> Proc #23
+(2, 3, 1) ===> Proc #72
+(2, 3, 2) ===> Proc #121
+(2, 3, 3) ===> Proc #170
+(2, 3, 4) ===> Proc #219
+(2, 3, 5) ===> Proc #268
+(2, 3, 6) ===> Proc #317
+(2, 4, 0) ===> Proc #30
+(2, 4, 1) ===> Proc #79
+(2, 4, 2) ===> Proc #128
+(2, 4, 3) ===> Proc #177
+(2, 4, 4) ===> Proc #226
+(2, 4, 5) ===> Proc #275
+(2, 4, 6) ===> Proc #324
+(2, 5, 0) ===> Proc #37
+(2, 5, 1) ===> Proc #86
+(2, 5, 2) ===> Proc #135
+(2, 5, 3) ===> Proc #184
+(2, 5, 4) ===> Proc #233
+(2, 5, 5) ===> Proc #282
+(2, 5, 6) ===> Proc #331
+(2, 6, 0) ===> Proc #44
+(2, 6, 1) ===> Proc #93
+(2, 6, 2) ===> Proc #142
+(2, 6, 3) ===> Proc #191
+(2, 6, 4) ===> Proc #240
+(2, 6, 5) ===> Proc #289
+(2, 6, 6) ===> Proc #338
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #52
+(3, 0, 2) ===> Proc #101
+(3, 0, 3) ===> Proc #150
+(3, 0, 4) ===> Proc #199
+(3, 0, 5) ===> Proc #248
+(3, 0, 6) ===> Proc #297
+(3, 1, 0) ===> Proc #10
+(3, 1, 1) ===> Proc #59
+(3, 1, 2) ===> Proc #108
+(3, 1, 3) ===> Proc #157
+(3, 1, 4) ===> Proc #206
+(3, 1, 5) ===> Proc #255
+(3, 1, 6) ===> Proc #304
+(3, 2, 0) ===> Proc #17
+(3, 2, 1) ===> Proc #66
+(3, 2, 2) ===> Proc #115
+(3, 2, 3) ===> Proc #164
+(3, 2, 4) ===> Proc #213
+(3, 2, 5) ===> Proc #262
+(3, 2, 6) ===> Proc #311
+(3, 3, 0) ===> Proc #24
+(3, 3, 1) ===> Proc #73
+(3, 3, 2) ===> Proc #122
+(3, 3, 3) ===> Proc #171
+(3, 3, 4) ===> Proc #220
+(3, 3, 5) ===> Proc #269
+(3, 3, 6) ===> Proc #318
+(3, 4, 0) ===> Proc #31
+(3, 4, 1) ===> Proc #80
+(3, 4, 2) ===> Proc #129
+(3, 4, 3) ===> Proc #178
+(3, 4, 4) ===> Proc #227
+(3, 4, 5) ===> Proc #276
+(3, 4, 6) ===> Proc #325
+(3, 5, 0) ===> Proc #38
+(3, 5, 1) ===> Proc #87
+(3, 5, 2) ===> Proc #136
+(3, 5, 3) ===> Proc #185
+(3, 5, 4) ===> Proc #234
+(3, 5, 5) ===> Proc #283
+(3, 5, 6) ===> Proc #332
+(3, 6, 0) ===> Proc #45
+(3, 6, 1) ===> Proc #94
+(3, 6, 2) ===> Proc #143
+(3, 6, 3) ===> Proc #192
+(3, 6, 4) ===> Proc #241
+(3, 6, 5) ===> Proc #290
+(3, 6, 6) ===> Proc #339
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #53
+(4, 0, 2) ===> Proc #102
+(4, 0, 3) ===> Proc #151
+(4, 0, 4) ===> Proc #200
+(4, 0, 5) ===> Proc #249
+(4, 0, 6) ===> Proc #298
+(4, 1, 0) ===> Proc #11
+(4, 1, 1) ===> Proc #60
+(4, 1, 2) ===> Proc #109
+(4, 1, 3) ===> Proc #158
+(4, 1, 4) ===> Proc #207
+(4, 1, 5) ===> Proc #256
+(4, 1, 6) ===> Proc #305
+(4, 2, 0) ===> Proc #18
+(4, 2, 1) ===> Proc #67
+(4, 2, 2) ===> Proc #116
+(4, 2, 3) ===> Proc #165
+(4, 2, 4) ===> Proc #214
+(4, 2, 5) ===> Proc #263
+(4, 2, 6) ===> Proc #312
+(4, 3, 0) ===> Proc #25
+(4, 3, 1) ===> Proc #74
+(4, 3, 2) ===> Proc #123
+(4, 3, 3) ===> Proc #172
+(4, 3, 4) ===> Proc #221
+(4, 3, 5) ===> Proc #270
+(4, 3, 6) ===> Proc #319
+(4, 4, 0) ===> Proc #32
+(4, 4, 1) ===> Proc #81
+(4, 4, 2) ===> Proc #130
+(4, 4, 3) ===> Proc #179
+(4, 4, 4) ===> Proc #228
+(4, 4, 5) ===> Proc #277
+(4, 4, 6) ===> Proc #326
+(4, 5, 0) ===> Proc #39
+(4, 5, 1) ===> Proc #88
+(4, 5, 2) ===> Proc #137
+(4, 5, 3) ===> Proc #186
+(4, 5, 4) ===> Proc #235
+(4, 5, 5) ===> Proc #284
+(4, 5, 6) ===> Proc #333
+(4, 6, 0) ===> Proc #46
+(4, 6, 1) ===> Proc #95
+(4, 6, 2) ===> Proc #144
+(4, 6, 3) ===> Proc #193
+(4, 6, 4) ===> Proc #242
+(4, 6, 5) ===> Proc #291
+(4, 6, 6) ===> Proc #340
+(5, 0, 0) ===> Proc #5
+(5, 0, 1) ===> Proc #54
+(5, 0, 2) ===> Proc #103
+(5, 0, 3) ===> Proc #152
+(5, 0, 4) ===> Proc #201
+(5, 0, 5) ===> Proc #250
+(5, 0, 6) ===> Proc #299
+(5, 1, 0) ===> Proc #12
+(5, 1, 1) ===> Proc #61
+(5, 1, 2) ===> Proc #110
+(5, 1, 3) ===> Proc #159
+(5, 1, 4) ===> Proc #208
+(5, 1, 5) ===> Proc #257
+(5, 1, 6) ===> Proc #306
+(5, 2, 0) ===> Proc #19
+(5, 2, 1) ===> Proc #68
+(5, 2, 2) ===> Proc #117
+(5, 2, 3) ===> Proc #166
+(5, 2, 4) ===> Proc #215
+(5, 2, 5) ===> Proc #264
+(5, 2, 6) ===> Proc #313
+(5, 3, 0) ===> Proc #26
+(5, 3, 1) ===> Proc #75
+(5, 3, 2) ===> Proc #124
+(5, 3, 3) ===> Proc #173
+(5, 3, 4) ===> Proc #222
+(5, 3, 5) ===> Proc #271
+(5, 3, 6) ===> Proc #320
+(5, 4, 0) ===> Proc #33
+(5, 4, 1) ===> Proc #82
+(5, 4, 2) ===> Proc #131
+(5, 4, 3) ===> Proc #180
+(5, 4, 4) ===> Proc #229
+(5, 4, 5) ===> Proc #278
+(5, 4, 6) ===> Proc #327
+(5, 5, 0) ===> Proc #40
+(5, 5, 1) ===> Proc #89
+(5, 5, 2) ===> Proc #138
+(5, 5, 3) ===> Proc #187
+(5, 5, 4) ===> Proc #236
+(5, 5, 5) ===> Proc #285
+(5, 5, 6) ===> Proc #334
+(5, 6, 0) ===> Proc #47
+(5, 6, 1) ===> Proc #96
+(5, 6, 2) ===> Proc #145
+(5, 6, 3) ===> Proc #194
+(5, 6, 4) ===> Proc #243
+(5, 6, 5) ===> Proc #292
+(5, 6, 6) ===> Proc #341
+(6, 0, 0) ===> Proc #6
+(6, 0, 1) ===> Proc #55
+(6, 0, 2) ===> Proc #104
+(6, 0, 3) ===> Proc #153
+(6, 0, 4) ===> Proc #202
+(6, 0, 5) ===> Proc #251
+(6, 0, 6) ===> Proc #300
+(6, 1, 0) ===> Proc #13
+(6, 1, 1) ===> Proc #62
+(6, 1, 2) ===> Proc #111
+(6, 1, 3) ===> Proc #160
+(6, 1, 4) ===> Proc #209
+(6, 1, 5) ===> Proc #258
+(6, 1, 6) ===> Proc #307
+(6, 2, 0) ===> Proc #20
+(6, 2, 1) ===> Proc #69
+(6, 2, 2) ===> Proc #118
+(6, 2, 3) ===> Proc #167
+(6, 2, 4) ===> Proc #216
+(6, 2, 5) ===> Proc #265
+(6, 2, 6) ===> Proc #314
+(6, 3, 0) ===> Proc #27
+(6, 3, 1) ===> Proc #76
+(6, 3, 2) ===> Proc #125
+(6, 3, 3) ===> Proc #174
+(6, 3, 4) ===> Proc #223
+(6, 3, 5) ===> Proc #272
+(6, 3, 6) ===> Proc #321
+(6, 4, 0) ===> Proc #34
+(6, 4, 1) ===> Proc #83
+(6, 4, 2) ===> Proc #132
+(6, 4, 3) ===> Proc #181
+(6, 4, 4) ===> Proc #230
+(6, 4, 5) ===> Proc #279
+(6, 4, 6) ===> Proc #328
+(6, 5, 0) ===> Proc #41
+(6, 5, 1) ===> Proc #90
+(6, 5, 2) ===> Proc #139
+(6, 5, 3) ===> Proc #188
+(6, 5, 4) ===> Proc #237
+(6, 5, 5) ===> Proc #286
+(6, 5, 6) ===> Proc #335
+(6, 6, 0) ===> Proc #48
+(6, 6, 1) ===> Proc #97
+(6, 6, 2) ===> Proc #146
+(6, 6, 3) ===> Proc #195
+(6, 6, 4) ===> Proc #244
+(6, 6, 5) ===> Proc #293
+(6, 6, 6) ===> Proc #342
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> RED
+Proc #11 ---> BLACK
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> RED
+Proc #19 ---> BLACK
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+Proc #27 ---> BLACK
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> RED
+Proc #31 ---> BLACK
+Proc #32 ---> RED
+Proc #33 ---> BLACK
+Proc #34 ---> RED
+Proc #35 ---> BLACK
+Proc #36 ---> RED
+Proc #37 ---> BLACK
+Proc #38 ---> RED
+Proc #39 ---> BLACK
+Proc #40 ---> RED
+Proc #41 ---> BLACK
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> RED
+Proc #45 ---> BLACK
+Proc #46 ---> RED
+Proc #47 ---> BLACK
+Proc #48 ---> RED
+Proc #49 ---> BLACK
+Proc #50 ---> RED
+Proc #51 ---> BLACK
+Proc #52 ---> RED
+Proc #53 ---> BLACK
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> RED
+Proc #57 ---> BLACK
+Proc #58 ---> RED
+Proc #59 ---> BLACK
+Proc #60 ---> RED
+Proc #61 ---> BLACK
+Proc #62 ---> RED
+Proc #63 ---> BLACK
+Proc #64 ---> RED
+Proc #65 ---> BLACK
+Proc #66 ---> RED
+Proc #67 ---> BLACK
+Proc #68 ---> RED
+Proc #69 ---> BLACK
+Proc #70 ---> RED
+Proc #71 ---> BLACK
+Proc #72 ---> RED
+Proc #73 ---> BLACK
+Proc #74 ---> RED
+Proc #75 ---> BLACK
+Proc #76 ---> RED
+Proc #77 ---> BLACK
+Proc #78 ---> RED
+Proc #79 ---> BLACK
+Proc #80 ---> RED
+Proc #81 ---> BLACK
+Proc #82 ---> RED
+Proc #83 ---> BLACK
+Proc #84 ---> RED
+Proc #85 ---> BLACK
+Proc #86 ---> RED
+Proc #87 ---> BLACK
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> RED
+Proc #91 ---> BLACK
+Proc #92 ---> RED
+Proc #93 ---> BLACK
+Proc #94 ---> RED
+Proc #95 ---> BLACK
+Proc #96 ---> RED
+Proc #97 ---> BLACK
+Proc #98 ---> RED
+Proc #99 ---> BLACK
+Proc #100 ---> RED
+Proc #101 ---> BLACK
+Proc #102 ---> RED
+Proc #103 ---> BLACK
+Proc #104 ---> RED
+Proc #105 ---> BLACK
+Proc #106 ---> RED
+Proc #107 ---> BLACK
+Proc #108 ---> RED
+Proc #109 ---> BLACK
+Proc #110 ---> RED
+Proc #111 ---> BLACK
+Proc #112 ---> RED
+Proc #113 ---> BLACK
+Proc #114 ---> RED
+Proc #115 ---> BLACK
+Proc #116 ---> RED
+Proc #117 ---> BLACK
+Proc #118 ---> RED
+Proc #119 ---> BLACK
+Proc #120 ---> RED
+Proc #121 ---> BLACK
+Proc #122 ---> RED
+Proc #123 ---> BLACK
+Proc #124 ---> RED
+Proc #125 ---> BLACK
+Proc #126 ---> RED
+Proc #127 ---> BLACK
+Proc #128 ---> RED
+Proc #129 ---> BLACK
+Proc #130 ---> RED
+Proc #131 ---> BLACK
+Proc #132 ---> RED
+Proc #133 ---> BLACK
+Proc #134 ---> RED
+Proc #135 ---> BLACK
+Proc #136 ---> RED
+Proc #137 ---> BLACK
+Proc #138 ---> RED
+Proc #139 ---> BLACK
+Proc #140 ---> RED
+Proc #141 ---> BLACK
+Proc #142 ---> RED
+Proc #143 ---> BLACK
+Proc #144 ---> RED
+Proc #145 ---> BLACK
+Proc #146 ---> RED
+Proc #147 ---> BLACK
+Proc #148 ---> RED
+Proc #149 ---> BLACK
+Proc #150 ---> RED
+Proc #151 ---> BLACK
+Proc #152 ---> RED
+Proc #153 ---> BLACK
+Proc #154 ---> RED
+Proc #155 ---> BLACK
+Proc #156 ---> RED
+Proc #157 ---> BLACK
+Proc #158 ---> RED
+Proc #159 ---> BLACK
+Proc #160 ---> RED
+Proc #161 ---> BLACK
+Proc #162 ---> RED
+Proc #163 ---> BLACK
+Proc #164 ---> RED
+Proc #165 ---> BLACK
+Proc #166 ---> RED
+Proc #167 ---> BLACK
+Proc #168 ---> RED
+Proc #169 ---> BLACK
+Proc #170 ---> RED
+Proc #171 ---> BLACK
+Proc #172 ---> RED
+Proc #173 ---> BLACK
+Proc #174 ---> RED
+Proc #175 ---> BLACK
+Proc #176 ---> RED
+Proc #177 ---> BLACK
+Proc #178 ---> RED
+Proc #179 ---> BLACK
+Proc #180 ---> RED
+Proc #181 ---> BLACK
+Proc #182 ---> RED
+Proc #183 ---> BLACK
+Proc #184 ---> RED
+Proc #185 ---> BLACK
+Proc #186 ---> RED
+Proc #187 ---> BLACK
+Proc #188 ---> RED
+Proc #189 ---> BLACK
+Proc #190 ---> RED
+Proc #191 ---> BLACK
+Proc #192 ---> RED
+Proc #193 ---> BLACK
+Proc #194 ---> RED
+Proc #195 ---> BLACK
+Proc #196 ---> RED
+Proc #197 ---> BLACK
+Proc #198 ---> RED
+Proc #199 ---> BLACK
+Proc #200 ---> RED
+Proc #201 ---> BLACK
+Proc #202 ---> RED
+Proc #203 ---> BLACK
+Proc #204 ---> RED
+Proc #205 ---> BLACK
+Proc #206 ---> RED
+Proc #207 ---> BLACK
+Proc #208 ---> RED
+Proc #209 ---> BLACK
+Proc #210 ---> RED
+Proc #211 ---> BLACK
+Proc #212 ---> RED
+Proc #213 ---> BLACK
+Proc #214 ---> RED
+Proc #215 ---> BLACK
+Proc #216 ---> RED
+Proc #217 ---> BLACK
+Proc #218 ---> RED
+Proc #219 ---> BLACK
+Proc #220 ---> RED
+Proc #221 ---> BLACK
+Proc #222 ---> RED
+Proc #223 ---> BLACK
+Proc #224 ---> RED
+Proc #225 ---> BLACK
+Proc #226 ---> RED
+Proc #227 ---> BLACK
+Proc #228 ---> RED
+Proc #229 ---> BLACK
+Proc #230 ---> RED
+Proc #231 ---> BLACK
+Proc #232 ---> RED
+Proc #233 ---> BLACK
+Proc #234 ---> RED
+Proc #235 ---> BLACK
+Proc #236 ---> RED
+Proc #237 ---> BLACK
+Proc #238 ---> RED
+Proc #239 ---> BLACK
+Proc #240 ---> RED
+Proc #241 ---> BLACK
+Proc #242 ---> RED
+Proc #243 ---> BLACK
+Proc #244 ---> RED
+Proc #245 ---> BLACK
+Proc #246 ---> RED
+Proc #247 ---> BLACK
+Proc #248 ---> RED
+Proc #249 ---> BLACK
+Proc #250 ---> RED
+Proc #251 ---> BLACK
+Proc #252 ---> RED
+Proc #253 ---> BLACK
+Proc #254 ---> RED
+Proc #255 ---> BLACK
+Proc #256 ---> RED
+Proc #257 ---> BLACK
+Proc #258 ---> RED
+Proc #259 ---> BLACK
+Proc #260 ---> RED
+Proc #261 ---> BLACK
+Proc #262 ---> RED
+Proc #263 ---> BLACK
+Proc #264 ---> RED
+Proc #265 ---> BLACK
+Proc #266 ---> RED
+Proc #267 ---> BLACK
+Proc #268 ---> RED
+Proc #269 ---> BLACK
+Proc #270 ---> RED
+Proc #271 ---> BLACK
+Proc #272 ---> RED
+Proc #273 ---> BLACK
+Proc #274 ---> RED
+Proc #275 ---> BLACK
+Proc #276 ---> RED
+Proc #277 ---> BLACK
+Proc #278 ---> RED
+Proc #279 ---> BLACK
+Proc #280 ---> RED
+Proc #281 ---> BLACK
+Proc #282 ---> RED
+Proc #283 ---> BLACK
+Proc #284 ---> RED
+Proc #285 ---> BLACK
+Proc #286 ---> RED
+Proc #287 ---> BLACK
+Proc #288 ---> RED
+Proc #289 ---> BLACK
+Proc #290 ---> RED
+Proc #291 ---> BLACK
+Proc #292 ---> RED
+Proc #293 ---> BLACK
+Proc #294 ---> RED
+Proc #295 ---> BLACK
+Proc #296 ---> RED
+Proc #297 ---> BLACK
+Proc #298 ---> RED
+Proc #299 ---> BLACK
+Proc #300 ---> RED
+Proc #301 ---> BLACK
+Proc #302 ---> RED
+Proc #303 ---> BLACK
+Proc #304 ---> RED
+Proc #305 ---> BLACK
+Proc #306 ---> RED
+Proc #307 ---> BLACK
+Proc #308 ---> RED
+Proc #309 ---> BLACK
+Proc #310 ---> RED
+Proc #311 ---> BLACK
+Proc #312 ---> RED
+Proc #313 ---> BLACK
+Proc #314 ---> RED
+Proc #315 ---> BLACK
+Proc #316 ---> RED
+Proc #317 ---> BLACK
+Proc #318 ---> RED
+Proc #319 ---> BLACK
+Proc #320 ---> RED
+Proc #321 ---> BLACK
+Proc #322 ---> RED
+Proc #323 ---> BLACK
+Proc #324 ---> RED
+Proc #325 ---> BLACK
+Proc #326 ---> RED
+Proc #327 ---> BLACK
+Proc #328 ---> RED
+Proc #329 ---> BLACK
+Proc #330 ---> RED
+Proc #331 ---> BLACK
+Proc #332 ---> RED
+Proc #333 ---> BLACK
+Proc #334 ---> RED
+Proc #335 ---> BLACK
+Proc #336 ---> RED
+Proc #337 ---> BLACK
+Proc #338 ---> RED
+Proc #339 ---> BLACK
+Proc #340 ---> RED
+Proc #341 ---> BLACK
+Proc #342 ---> RED
+777777
+
+777
+7
+7
+7
+7
+
+
+
+
+7
+77
+
+
+
+777777777777777
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+777777777
+
+
+
+
+
+7
+
+77
+7
+7
+7
+
+
+7
+
+777777777777777
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.6919
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+8
+8
+8
+88
+
+8
+8
+8
+8
+8
+88
+
+8
+88
+
+8
+88
+
+8
+8
+888
+
+
+8
+8
+8
+8
+88
+
+8
+8
+8
+888888888
+
+
+
+
+
+
+
+8888
+
+8
+8
+
+
+8
+
+88
+
+8
+8
+88
+
+8
+88
+
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+888
+
+
+88
+8
+
+8
+8
+888
+
+
+88
+
+8
+8
+8
+8
+8
+8freq(Hz): 
+5e+10 wavelen(m): 0.0068
+
+lx: 0.012 ly: 0.012
+dx: 3.23165e-05
+nnodesx: 371.327
+8
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+8
+8
+8
+8
+8
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+888888
+
+
+
+
+
+8
+8
+88
+88
+
+88
+8
+88
+
+
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+888
+
+
+8
+8
+8
+8
+8
+88
+
+8
+8
+8
+88
+
+8
+8
+88
+
+8
+8
+8
+888
+
+
+8
+8
+88
+
+88
+
+8
+8
+8
+8
+8
+8
+88
+
+8
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+888
+
+8
+
+8
+8
+88
+
+8
+88
+
+8
+8
+88888888
+
+8
+
+
+
+8
+888
+
+8
+8
+
+8
+
+
+
+8
+888888888888888
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+888
+
+
+8
+8
+8
+8
+8
+8
+88
+
+8
+8
+88
+
+8
+8
+8
+888
+
+
+8
+8
+8
+888
+
+
+88
+
+8
+8
+8
+8
+8
+88
+
+8
+88
+
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+88
+
+88
+
+88
+
+8
+888
+
+
+8
+8
+8
+8
+8
+8
+88
+
+88888
+8888
+
+8
+
+88
+8
+
+
+8
+88
+
+
+
+
+
+8
+8
+88
+8
+8
+
+8
+88
+
+8
+8
+8
+88
+
+88
+
+888
+
+
+8
+8
+88
+8
+
+8
+8
+8
+8
+88
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+88
+
+8
+8
+8
+88
+
+888
+
+
+8
+8
+8
+88
+
+8
+8
+8
+8
+8
+8
+88888888888
+8
+8
+8
+
+
+
+
+
+
+8
+
+
+
+
+8
+8
+8
+88
+8
+
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+888888888
+
+
+
+
+
+
+
+888
+8
+8
+
+8
+8
+
+
+The proc grid looks like this: 
+Size (8 x 8 x 8)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #64
+(0, 0, 2) ===> Proc #128
+(0, 0, 3) ===> Proc #192
+(0, 0, 4) ===> Proc #256
+(0, 0, 5) ===> Proc #320
+(0, 0, 6) ===> Proc #384
+(0, 0, 7) ===> Proc #448
+(0, 1, 0) ===> Proc #8
+(0, 1, 1) ===> Proc #72
+(0, 1, 2) ===> Proc #136
+(0, 1, 3) ===> Proc #200
+(0, 1, 4) ===> Proc #264
+(0, 1, 5) ===> Proc #328
+(0, 1, 6) ===> Proc #392
+(0, 1, 7) ===> Proc #456
+(0, 2, 0) ===> Proc #16
+(0, 2, 1) ===> Proc #80
+(0, 2, 2) ===> Proc #144
+(0, 2, 3) ===> Proc #208
+(0, 2, 4) ===> Proc #272
+(0, 2, 5) ===> Proc #336
+(0, 2, 6) ===> Proc #400
+(0, 2, 7) ===> Proc #464
+(0, 3, 0) ===> Proc #24
+(0, 3, 1) ===> Proc #88
+(0, 3, 2) ===> Proc #152
+(0, 3, 3) ===> Proc #216
+(0, 3, 4) ===> Proc #280
+(0, 3, 5) ===> Proc #344
+(0, 3, 6) ===> Proc #408
+(0, 3, 7) ===> Proc #472
+(0, 4, 0) ===> Proc #32
+(0, 4, 1) ===> Proc #96
+(0, 4, 2) ===> Proc #160
+(0, 4, 3) ===> Proc #224
+(0, 4, 4) ===> Proc #288
+(0, 4, 5) ===> Proc #352
+(0, 4, 6) ===> Proc #416
+(0, 4, 7) ===> Proc #480
+(0, 58888888888
+
+
+88
+8
+
+8
+
+88
+
+
+
+
+
+
+
+, 0) ===> Proc #40
+(0, 5, 1) ===> Proc #104
+(0, 5, 2) ===> Proc #168
+(0, 5, 3) ===> Proc #232
+(0, 5, 4) ===> Proc #296
+(0, 5, 5) ===> Proc #360
+(0, 5, 6) ===> Proc #424
+(0, 5, 7) ===> Proc #488
+(0, 6, 0) ===> Proc #48
+(0, 6, 1) ===> Proc #112
+(0, 888888
+
+8
+
+88
+
+8
+88
+
+8
+88
+8
+
+
+
+
+6, 2) ===> Proc #176
+(0, 6, 3) ===> Proc #240
+(0, 6, 4) ===> Proc #304
+(0, 6, 5) ===> Proc #368
+(0, 6, 6) ===> Proc #432
+(0, 6, 7) ===> Proc #496
+(0, 7, 0) ===> Proc #56
+(0, 7, 1) ===> Proc #120
+(0, 7, 2) ===> Proc #184
+(0, 7, 3) ===> Proc #248
+(0, 7, 4) ===> Proc #312
+(0, 7, 5) ===> Proc #376
+(0, 7, 6) ===> Proc #440
+(0, 7, 7) ===> Proc #504
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #65
+(1, 0, 2) ===> Proc #129
+(1, 0, 3) ===> Proc #193
+(1, 0, 4) ===> Proc #257
+(1, 0, 5) ===> Proc #321
+(1, 0, 6) ===> Proc #385
+(1, 0, 7) ===> Proc #449
+(1, 1, 0) ===> Proc #9
+(1, 1, 1) ===> Proc #73
+(1, 1, 2) ===> Proc #137
+(1, 1, 3) ===> Proc #201
+(1, 1, 4) ===> Proc #265
+(1, 1, 5) ===> Proc #329
+(1, 1, 6) ===> Proc #393
+(1, 1, 7) ===> Proc #457
+(1, 2, 0) ===> Proc #17
+(1, 2, 1) ===> Proc #81
+(1, 2, 2) ===> Proc #145
+(1, 2, 3) ===> Proc #209
+(1, 2, 4) ===> Proc #273
+(1, 2, 5) ===> Proc #337
+(1, 2, 6) ===> Proc #401
+(1, 2, 7) ===> Proc #465
+(1, 3, 0) ===> Proc #25
+(1, 3, 1) ===> Proc #89
+(1, 3, 2) ===> Proc #153
+(1, 3, 3) ===> Proc #217
+(1, 3, 4) ===> Proc #281
+(1, 3, 5) ===> Proc #345
+(1, 3, 6) ===> Proc #409
+(1, 3, 7) ===> Proc #473
+(1, 4, 0) ===> Proc #33
+(1, 4, 1) ===> Proc #97
+(1, 4, 2) ===> Proc #161
+(1, 4, 3) ===> Proc #225
+(1, 4, 4) ===> Proc #289
+(1, 4, 5) ===> Proc #353
+(1, 4, 6) ===> Proc #417
+(1, 4, 7) ===> Proc #481
+(1, 5, 0) ===> Proc #41
+(1, 5, 1) ===> Proc #105
+(1, 5, 2) ===> Proc #169
+(1, 5, 3) ===> Proc #233
+(1, 5, 4) ===> Proc #297
+(1, 5, 5) ===> Proc #361
+(1, 5, 6) ===> Proc #425
+(1, 5, 7) ===> Proc #489
+(1, 6, 0) ===> Proc #49
+(1, 6, 1) ===> Proc #113
+(1, 6, 2) ===> Proc #177
+(1, 6, 3) ===> Proc #241
+(1, 6, 4) ===> Proc #305
+(1, 6, 5) ===> Proc #369
+(1, 6, 6) ===> Proc #433
+(1, 6, 7) ===> Proc #497
+(1, 7, 0) ===> Proc #57
+(1, 7, 1) ===> Proc #121
+(1, 7, 2) ===> Proc #185
+(1, 7, 3) ===> Proc #249
+(1, 7, 4) ===> Proc #313
+(1, 7, 5) ===> Proc #377
+(1, 7, 6) ===> Proc #441
+(1, 7, 7) ===> Proc #505
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #66
+(2, 0, 2) ===> Proc #130
+(2, 0, 3) ===> Proc #194
+(2, 0, 4) ===> Proc #258
+(2, 0, 5) ===> Proc #322
+(2, 0, 6) ===> Proc #386
+(2, 0, 7) ===> Proc #450
+(2, 1, 0) ===> Proc #10
+(2, 1, 1) ===> Proc #74
+(2, 1, 2) ===> Proc #138
+(2, 1, 3) ===> Proc #202
+(2, 1, 4) ===> Proc #266
+(2, 1, 5) ===> Proc #330
+(2, 1, 6) ===> Proc #394
+(2, 1, 7) ===> Proc #458
+(2, 2, 0) ===> Proc #18
+(2, 2, 1) ===> Proc #82
+(2, 2, 2) ===> Proc #146
+(2, 2, 3) ===> Proc #210
+(2, 2, 4) ===> Proc #274
+(2, 2, 5) ===> Proc #338
+(2, 2, 6) ===> Proc #402
+(2, 2, 7) ===> Proc #466
+(2, 3, 0) ===> Proc #26
+(2, 3, 1) ===> Proc #90
+(2, 3, 2) ===> Proc #154
+(2, 3, 3) ===> Proc #218
+(2, 3, 4) ===> Proc #282
+(2, 3, 5) ===> Proc #346
+(2, 3, 6) ===> Proc #410
+(2, 3, 7) ===> Proc #474
+(2, 4, 0) ===> Proc #34
+(2, 4, 1) ===> Proc #98
+(2, 4, 2) ===> Proc #162
+(2, 4, 3) ===> Proc #226
+(2, 4, 4) ===> Proc #290
+(2, 4, 5) ===> Proc #354
+(2, 4, 6) ===> Proc #418
+(2, 4, 7) ===> Proc #482
+(2, 5, 0) ===> Proc #42
+(2, 5, 1) ===> Proc #106
+(2, 5, 2) ===> Proc #170
+(2, 5, 3) ===> Proc #234
+(2, 5, 4) ===> Proc #298
+(2, 5, 5) ===> Proc #362
+(2, 5, 6) ===> Proc #426
+(2, 5, 7) ===> Proc #490
+(2, 6, 0) ===> Proc #50
+(2, 6, 1) ===> Proc #114
+(2, 6, 2) ===> Proc #178
+(2, 6, 3) ===> Proc #242
+(2, 6, 4) ===> Proc #306
+(2, 6, 5) ===> Proc #370
+(2, 6, 6) ===> Proc #434
+(2, 6, 7) ===> Proc #498
+(2, 7, 0) ===> Proc #58
+(2, 7, 1) ===> Proc #122
+(2, 7, 2) ===> Proc #186
+(2, 7, 3) ===> Proc #250
+(2, 7, 4) ===> Proc #314
+(2, 7, 5) ===> Proc #378
+(2, 7, 6) ===> Proc #442
+(2, 7, 7) ===> Proc #506
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #67
+(3, 0, 2) ===> Proc #131
+(3, 0, 3) ===> Proc #195
+(3, 0, 4) ===> Proc #259
+(3, 0, 5) ===> Proc #323
+(3, 0, 6) ===> Proc #387
+(3, 0, 7) ===> Proc #451
+(3, 1, 0) ===> Proc #11
+(3, 1, 1) ===> Proc #75
+(3, 1, 2) ===> Proc #139
+(3, 1, 3) ===> Proc #203
+(3, 1, 4) ===> Proc #267
+(3, 1, 5) ===> Proc #331
+(3, 1, 6) ===> Proc #395
+(3, 1, 7) ===> Proc #459
+(3, 2, 0) ===> Proc #19
+(3, 2, 1) ===> Proc #83
+(3, 2, 2) ===> Proc #147
+(3, 2, 3) ===> Proc #211
+(3, 2, 4) ===> Proc #275
+(3, 2, 5) ===> Proc #339
+(3, 2, 6) ===> Proc #403
+(3, 2, 7) ===> Proc #467
+(3, 3, 0) ===> Proc #27
+(3, 3, 1) ===> Proc #91
+(3, 3, 2) ===> Proc #155
+(3, 3, 3) ===> Proc #219
+(3, 3, 4) ===> Proc #283
+(3, 3, 5) ===> Proc #347
+(3, 3, 6) ===> Proc #411
+(3, 3, 7) ===> Proc #475
+(3, 4, 0) ===> Proc #35
+(3, 4, 1) ===> Proc #99
+(3, 4, 2) ===> Proc #163
+(3, 4, 3) ===> Proc #227
+(3, 4, 4) ===> Proc #291
+(3, 4, 5) ===> Proc #355
+(3, 4, 6) ===> Proc #419
+(3, 4, 7) ===> Proc #483
+(3, 5, 0) ===> Proc #43
+(3, 5, 1) ===> Proc #107
+(3, 5, 2) ===> Proc #171
+(3, 5, 3) ===> Proc #235
+(3, 5, 4) ===> Proc #299
+(3, 5, 5) ===> Proc #363
+(3, 5, 6) ===> Proc #427
+(3, 5, 7) ===> Proc #491
+(3, 6, 0) ===> Proc #51
+(3, 6, 1) ===> Proc #115
+(3, 6, 2) ===> Proc #179
+(3, 6, 3) ===> Proc #243
+(3, 6, 4) ===> Proc #307
+(3, 6, 5) ===> Proc #371
+(3, 6, 6) ===> Proc #435
+(3, 6, 7) ===> Proc #499
+(3, 7, 0) ===> Proc #59
+(3, 7, 1) ===> Proc #123
+(3, 7, 2) ===> Proc #187
+(3, 7, 3) ===> Proc #251
+(3, 7, 4) ===> Proc #315
+(3, 7, 5) ===> Proc #379
+(3, 7, 6) ===> Proc #443
+(3, 7, 7) ===> Proc #507
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #68
+(4, 0, 2) ===> Proc #132
+(4, 0, 3) ===> Proc #196
+(4, 0, 4) ===> Proc #260
+(4, 0, 5) ===> Proc #324
+(4, 0, 6) ===> Proc #388
+(4, 0, 7) ===> Proc #452
+(4, 1, 0) ===> Proc #12
+(4, 1, 1) ===> Proc #76
+(4, 1, 2) ===> Proc #140
+(4, 1, 3) ===> Proc #204
+(4, 1, 4) ===> Proc #268
+(4, 1, 5) ===> Proc #332
+(4, 1, 6) ===> Proc #396
+(4, 1, 7) ===> Proc #460
+(4, 2, 0) ===> Proc #20
+(4, 2, 1) ===> Proc #84
+(4, 2, 2) ===> Proc #148
+(4, 2, 3) ===> Proc #212
+(4, 2, 4) ===> Proc #276
+(4, 2, 5) ===> Proc #340
+(4, 2, 6) ===> Proc #404
+(4, 2, 7) ===> Proc #468
+(4, 3, 0) ===> Proc #28
+(4, 3, 1) ===> Proc #92
+(4, 3, 2) ===> Proc #156
+(4, 3, 3) ===> Proc #220
+(4, 3, 4) ===> Proc #284
+(4, 3, 5) ===> Proc #348
+(4, 3, 6) ===> Proc #412
+(4, 3, 7) ===> Proc #476
+(4, 4, 0) ===> Proc #36
+(4, 4, 1) ===> Proc #100
+(4, 4, 2) ===> Proc #164
+(4, 4, 3) ===> Proc #228
+(4, 4, 4) ===> Proc #292
+(4, 4, 5) ===> Proc #356
+(4, 4, 6) ===> Proc #420
+(4, 4, 7) ===> Proc #484
+(4, 5, 0) ===> Proc #44
+(4, 5, 1) ===> Proc #108
+(4, 5, 2) ===> Proc #172
+(4, 5, 3) ===> Proc #236
+(4, 5, 4) ===> Proc #300
+(4, 5, 5) ===> Proc #364
+(4, 5, 6) ===> Proc #428
+(4, 5, 7) ===> Proc #492
+(4, 6, 0) ===> Proc #52
+(4, 6, 1) ===> Proc #116
+(4, 6, 2) ===> Proc #180
+(4, 6, 3) ===> Proc #244
+(4, 6, 4) ===> Proc #308
+(4, 6, 5) ===> Proc #372
+(4, 6, 6) ===> Proc #436
+(4, 6, 7) ===> Proc #500
+(4, 7, 0) ===> Proc #60
+(4, 7, 1) ===> Proc #124
+(4, 7, 2) ===> Proc #188
+(4, 7, 3) ===> Proc #252
+(4, 7, 4) ===> Proc #316
+(4, 7, 5) ===> Proc #380
+(4, 7, 6) ===> Proc #444
+(4, 7, 7) ===> Proc #508
+(5, 0, 0) ===> Proc #5
+(5, 0, 1) ===> Proc #69
+(5, 0, 2) ===> Proc #133
+(5, 0, 3) ===> Proc #197
+(5, 0, 4) ===> Proc #261
+(5, 0, 5) ===> Proc #325
+(5, 0, 6) ===> Proc #389
+(5, 0, 7) ===> Proc #453
+(5, 1, 0) ===> Proc #13
+(5, 1, 1) ===> Proc #77
+(5, 1, 2) ===> Proc #141
+(5, 1, 3) ===> Proc #205
+(5, 1, 4) ===> Proc #269
+(5, 1, 5) ===> Proc #333
+(5, 1, 6) ===> Proc #397
+(5, 1, 7) ===> Proc #461
+(5, 2, 0) ===> Proc #21
+(5, 2, 1) ===> Proc #85
+(5, 2, 2) ===> Proc #149
+(5, 2, 3) ===> Proc #213
+(5, 2, 4) ===> Proc #277
+(5, 2, 5) ===> Proc #341
+(5, 2, 6) ===> Proc #405
+(5, 2, 7) ===> Proc #469
+(5, 3, 0) ===> Proc #29
+(5, 3, 1) ===> Proc #93
+(5, 3, 2) ===> Proc #157
+(5, 3, 3) ===> Proc #221
+(5, 3, 4) ===> Proc #285
+(5, 3, 5) ===> Proc #349
+(5, 3, 6) ===> Proc #413
+(5, 3, 7) ===> Proc #477
+(5, 4, 0) ===> Proc #37
+(5, 4, 1) ===> Proc #101
+(5, 4, 2) ===> Proc #165
+(5, 4, 3) ===> Proc #229
+(5, 4, 4) ===> Proc #293
+(5, 4, 5) ===> Proc #357
+(5, 4, 6) ===> Proc #421
+(5, 4, 7) ===> Proc #485
+(5, 5, 0) ===> Proc #45
+(5, 5, 1) ===> Proc #109
+(5, 5, 2) ===> Proc #173
+(5, 5, 3) ===> Proc #237
+(5, 5, 4) ===> Proc #301
+(5, 5, 5) ===> Proc #365
+(5, 5, 6) ===> Proc #429
+(5, 5, 7) ===> Proc #493
+(5, 6, 0) ===> Proc #53
+(5, 6, 1) ===> Proc #117
+(5, 6, 2) ===> Proc #181
+(5, 6, 3) ===> Proc #245
+(5, 6, 4) ===> Proc #309
+(5, 6, 5) ===> Proc #373
+(5, 6, 6) ===> Proc #437
+(5, 6, 7) ===> Proc #501
+(5, 7, 0) ===> Proc #61
+(5, 7, 1) ===> Proc #125
+(5, 7, 2) ===> Proc #189
+(5, 7, 3) ===> Proc #253
+(5, 7, 4) ===> Proc #317
+(5, 7, 5) ===> Proc #381
+(5, 7, 6) ===> Proc #445
+(5, 7, 7) ===> Proc #509
+(6, 0, 0) ===> Proc #6
+(6, 0, 1) ===> Proc #70
+(6, 0, 2) ===> Proc #134
+(6, 0, 3) ===> Proc #198
+(6, 0, 4) ===> Proc #262
+(6, 0, 5) ===> Proc #326
+(6, 0, 6) ===> Proc #390
+(6, 0, 7) ===> Proc #454
+(6, 1, 0) ===> Proc #14
+(6, 1, 1) ===> Proc #78
+(6, 1, 2) ===> Proc #142
+(6, 1, 3) ===> Proc #206
+(6, 1, 4) ===> Proc #270
+(6, 1, 5) ===> Proc #334
+(6, 1, 6) ===> Proc #398
+(6, 1, 7) ===> Proc #462
+(6, 2, 0) ===> Proc #22
+(6, 2, 1) ===> Proc #86
+(6, 2, 2) ===> Proc #150
+(6, 2, 3) ===> Proc #214
+(6, 2, 4) ===> Proc #278
+(6, 2, 5) ===> Proc #342
+(6, 2, 6) ===> Proc #406
+(6, 2, 7) ===> Proc #470
+(6, 3, 0) ===> Proc #30
+(6, 3, 1) ===> Proc #94
+(6, 3, 2) ===> Proc #158
+(6, 3, 3) ===> Proc #222
+(6, 3, 4) ===> Proc #286
+(6, 3, 5) ===> Proc #350
+(6, 3, 6) ===> Proc #414
+(6, 3, 7) ===> Proc #478
+(6, 4, 0) ===> Proc #38
+(6, 4, 1) ===> Proc #102
+(6, 4, 2) ===> Proc #166
+(6, 4, 3) ===> Proc #230
+(6, 4, 4) ===> Proc #294
+(6, 4, 5) ===> Proc #358
+(6, 4, 6) ===> Proc #422
+(6, 4, 7) ===> Proc #486
+(6, 5, 0) ===> Proc #46
+(6, 5, 1) ===> Proc #110
+(6, 5, 2) ===> Proc #174
+(6, 5, 3) ===> Proc #238
+(6, 5, 4) ===> Proc #302
+(6, 5, 5) ===> Proc #366
+(6, 5, 6) ===> Proc #430
+(6, 5, 7) ===> Proc #494
+(6, 6, 0) ===> Proc #54
+(6, 6, 1) ===> Proc #118
+(6, 6, 2) ===> Proc #182
+(6, 6, 3) ===> Proc #246
+(6, 6, 4) ===> Proc #310
+(6, 6, 5) ===> Proc #374
+(6, 6, 6) ===> Proc #438
+(6, 6, 7) ===> Proc #502
+(6, 7, 0) ===> Proc #62
+(6, 7, 1) ===> Proc #126
+(6, 7, 2) ===> Proc #190
+(6, 7, 3) ===> Proc #254
+(6, 7, 4) ===> Proc #318
+(6, 7, 5) ===> Proc #382
+(6, 7, 6) ===> Proc #446
+(6, 7, 7) ===> Proc #510
+(7, 0, 0) ===> Proc #7
+(7, 0, 1) ===> Proc #71
+(7, 0, 2) ===> Proc #135
+(7, 0, 3) ===> Proc #199
+(7, 0, 4) ===> Proc #263
+(7, 0, 5) ===> Proc #327
+(7, 0, 6) ===> Proc #391
+(7, 0, 7) ===> Proc #455
+(7, 1, 0) ===> Proc #15
+(7, 1, 1) ===> Proc #79
+(7, 1, 2) ===> Proc #143
+(7, 1, 3) ===> Proc #207
+(7, 1, 4) ===> Proc #271
+(7, 1, 5) ===> Proc #335
+(7, 1, 6) ===> Proc #399
+(7, 1, 7) ===> Proc #463
+(7, 2, 0) ===> Proc #23
+(7, 2, 1) ===> Proc #87
+(7, 2, 2) ===> Proc #151
+(7, 2, 3) ===> Proc #215
+(7, 2, 4) ===> Proc #279
+(7, 2, 5) ===> Proc #343
+(7, 2, 6) ===> Proc #407
+(7, 2, 7) ===> Proc #471
+(7, 3, 0) ===> Proc #31
+(7, 3, 1) ===> Proc #95
+(7, 3, 2) ===> Proc #159
+(7, 3, 3) ===> Proc #223
+(7, 3, 4) ===> Proc #287
+(7, 3, 5) ===> Proc #351
+(7, 3, 6) ===> Proc #415
+(7, 3, 7) ===> Proc #479
+(7, 4, 0) ===> Proc #39
+(7, 4, 1) ===> Proc #103
+(7, 4, 2) ===> Proc #167
+(7, 4, 3) ===> Proc #231
+(7, 4, 4) ===> Proc #295
+(7, 4, 5) ===> Proc #359
+(7, 4, 6) ===> Proc #423
+(7, 4, 7) ===> Proc #487
+(7, 5, 0) ===> Proc #47
+(7, 5, 1) ===> Proc #111
+(7, 5, 2) ===> Proc #175
+(7, 5, 3) ===> Proc #239
+(7, 5, 4) ===> Proc #303
+(7, 5, 5) ===> Proc #367
+(7, 5, 6) ===> Proc #431
+(7, 5, 7) ===> Proc #495
+(7, 6, 0) ===> Proc #55
+(7, 6, 1) ===> Proc #119
+(7, 6, 2) ===> Proc #183
+(7, 6, 3) ===> Proc #247
+(7, 6, 4) ===> Proc #311
+(7, 6, 5) ===> Proc #375
+(7, 6, 6) ===> Proc #439
+(7, 6, 7) ===> Proc #503
+(7, 7, 0) ===> Proc #63
+(7, 7, 1) ===> Proc #127
+(7, 7, 2) ===> Proc #191
+(7, 7, 3) ===> Proc #255
+(7, 7, 4) ===> Proc #319
+(7, 7, 5) ===> Proc #383
+(7, 7, 6) ===> Proc #447
+(7, 7, 7) ===> Proc #511
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> BLACK
+Proc #9 ---> RED
+Proc #10 ---> BLACK
+Proc #11 ---> RED
+Proc #12 ---> BLACK
+Proc #13 ---> RED
+Proc #14 ---> BLACK
+Proc #15 ---> RED
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> RED
+Proc #19 ---> BLACK
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> BLACK
+Proc #25 ---> RED
+Proc #26 ---> BLACK
+Proc #27 ---> RED
+Proc #28 ---> BLACK
+Proc #29 ---> RED
+Proc #30 ---> BLACK
+Proc #31 ---> RED
+Proc #32 ---> RED
+Proc #33 ---> BLACK
+Proc #34 ---> RED
+Proc #35 ---> BLACK
+Proc #36 ---> RED
+Proc #37 ---> BLACK
+Proc #38 ---> RED
+Proc #39 ---> BLACK
+Proc #40 ---> BLACK
+Proc #41 ---> RED
+Proc #42 ---> BLACK
+Proc #43 ---> RED
+Proc #44 ---> BLACK
+Proc #45 ---> RED
+Proc #46 ---> BLACK
+Proc #47 ---> RED
+Proc #48 ---> RED
+Proc #49 ---> BLACK
+Proc #50 ---> RED
+Proc #51 ---> BLACK
+Proc #52 ---> RED
+Proc #53 ---> BLACK
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> BLACK
+Proc #57 ---> RED
+Proc #58 ---> BLACK
+Proc #59 ---> RED
+Proc #60 ---> BLACK
+Proc #61 ---> RED
+Proc #62 ---> BLACK
+Proc #63 ---> RED
+Proc #64 ---> BLACK
+Proc #65 ---> RED
+Proc #66 ---> BLACK
+Proc #67 ---> RED
+Proc #68 ---> BLACK
+Proc #69 ---> RED
+Proc #70 ---> BLACK
+Proc #71 ---> RED
+Proc #72 ---> RED
+Proc #73 ---> BLACK
+Proc #74 ---> RED
+Proc #75 ---> BLACK
+Proc #76 ---> RED
+Proc #77 ---> BLACK
+Proc #78 ---> RED
+Proc #79 ---> BLACK
+Proc #80 ---> BLACK
+Proc #81 ---> RED
+Proc #82 ---> BLACK
+Proc #83 ---> RED
+Proc #84 ---> BLACK
+Proc #85 ---> RED
+Proc #86 ---> BLACK
+Proc #87 ---> RED
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> RED
+Proc #91 ---> BLACK
+Proc #92 ---> RED
+Proc #93 ---> BLACK
+Proc #94 ---> RED
+Proc #95 ---> BLACK
+Proc #96 ---> BLACK
+Proc #97 ---> RED
+Proc #98 ---> BLACK
+Proc #99 ---> RED
+Proc #100 ---> BLACK
+Proc #101 ---> RED
+Proc #102 ---> BLACK
+Proc #103 ---> RED
+Proc #104 ---> RED
+Proc #105 ---> BLACK
+Proc #106 ---> RED
+Proc #107 ---> BLACK
+Proc #108 ---> RED
+Proc #109 ---> BLACK
+Proc #110 ---> RED
+Proc #111 ---> BLACK
+Proc #112 ---> BLACK
+Proc #113 ---> RED
+Proc #114 ---> BLACK
+Proc #115 ---> RED
+Proc #116 ---> BLACK
+Proc #117 ---> RED
+Proc #118 ---> BLACK
+Proc #119 ---> RED
+Proc #120 ---> RED
+Proc #121 ---> BLACK
+Proc #122 ---> RED
+Proc #123 ---> BLACK
+Proc #124 ---> RED
+Proc #125 ---> BLACK
+Proc #126 ---> RED
+Proc #127 ---> BLACK
+Proc #128 ---> RED
+Proc #129 ---> BLACK
+Proc #130 ---> RED
+Proc #131 ---> BLACK
+Proc #132 ---> RED
+Proc #133 ---> BLACK
+Proc #134 ---> RED
+Proc #135 ---> BLACK
+Proc #136 ---> BLACK
+Proc #137 ---> RED
+Proc #138 ---> BLACK
+Proc #139 ---> RED
+Proc #140 ---> BLACK
+Proc #141 ---> RED
+Proc #142 ---> BLACK
+Proc #143 ---> RED
+Proc #144 ---> RED
+Proc #145 ---> BLACK
+Proc #146 ---> RED
+Proc #147 ---> BLACK
+Proc #148 ---> RED
+Proc #149 ---> BLACK
+Proc #150 ---> RED
+Proc #151 ---> BLACK
+Proc #152 ---> BLACK
+Proc #153 ---> RED
+Proc #154 ---> BLACK
+Proc #155 ---> RED
+Proc #156 ---> BLACK
+Proc #157 ---> RED
+Proc #158 ---> BLACK
+Proc #159 ---> RED
+Proc #160 ---> RED
+Proc #161 ---> BLACK
+Proc #162 ---> RED
+Proc #163 ---> BLACK
+Proc #164 ---> RED
+Proc #165 ---> BLACK
+Proc #166 ---> RED
+Proc #167 ---> BLACK
+Proc #168 ---> BLACK
+Proc #169 ---> RED
+Proc #170 ---> BLACK
+Proc #171 ---> RED
+Proc #172 ---> BLACK
+Proc #173 ---> RED
+Proc #174 ---> BLACK
+Proc #175 ---> RED
+Proc #176 ---> RED
+Proc #177 ---> BLACK
+Proc #178 ---> RED
+Proc #179 ---> BLACK
+Proc #180 ---> RED
+Proc #181 ---> BLACK
+Proc #182 ---> RED
+Proc #183 ---> BLACK
+Proc #184 ---> BLACK
+Proc #185 ---> RED
+Proc #186 ---> BLACK
+Proc #187 ---> RED
+Proc #188 ---> BLACK
+Proc #189 ---> RED
+Proc #190 ---> BLACK
+Proc #191 ---> RED
+Proc #192 ---> BLACK
+Proc #193 ---> RED
+Proc #194 ---> BLACK
+Proc #195 ---> RED
+Proc #196 ---> BLACK
+Proc #197 ---> RED
+Proc #198 ---> BLACK
+Proc #199 ---> RED
+Proc #200 ---> RED
+Proc #201 ---> BLACK
+Proc #202 ---> RED
+Proc #203 ---> BLACK
+Proc #204 ---> RED
+Proc #205 ---> BLACK
+Proc #206 ---> RED
+Proc #207 ---> BLACK
+Proc #208 ---> BLACK
+Proc #209 ---> RED
+Proc #210 ---> BLACK
+Proc #211 ---> RED
+Proc #212 ---> BLACK
+Proc #213 ---> RED
+Proc #214 ---> BLACK
+Proc #215 ---> RED
+Proc #216 ---> RED
+Proc #217 ---> BLACK
+Proc #218 ---> RED
+Proc #219 ---> BLACK
+Proc #220 ---> RED
+Proc #221 ---> BLACK
+Proc #222 ---> RED
+Proc #223 ---> BLACK
+Proc #224 ---> BLACK
+Proc #225 ---> RED
+Proc #226 ---> BLACK
+Proc #227 ---> RED
+Proc #228 ---> BLACK
+Proc #229 ---> RED
+Proc #230 ---> BLACK
+Proc #231 ---> RED
+Proc #232 ---> RED
+Proc #233 ---> BLACK
+Proc #234 ---> RED
+Proc #235 ---> BLACK
+Proc #236 ---> RED
+Proc #237 ---> BLACK
+Proc #238 ---> RED
+Proc #239 ---> BLACK
+Proc #240 ---> BLACK
+Proc #241 ---> RED
+Proc #242 ---> BLACK
+Proc #243 ---> RED
+Proc #244 ---> BLACK
+Proc #245 ---> RED
+Proc #246 ---> BLACK
+Proc #247 ---> RED
+Proc #248 ---> RED
+Proc #249 ---> BLACK
+Proc #250 ---> RED
+Proc #251 ---> BLACK
+Proc #252 ---> RED
+Proc #253 ---> BLACK
+Proc #254 ---> RED
+Proc #255 ---> BLACK
+Proc #256 ---> RED
+Proc #257 ---> BLACK
+Proc #258 ---> RED
+Proc #259 ---> BLACK
+Proc #260 ---> RED
+Proc #261 ---> BLACK
+Proc #262 ---> RED
+Proc #263 ---> BLACK
+Proc #264 ---> BLACK
+Proc #265 ---> RED
+Proc #266 ---> BLACK
+Proc #267 ---> RED
+Proc #268 ---> BLACK
+Proc #269 ---> RED
+Proc #270 ---> BLACK
+Proc #271 ---> RED
+Proc #272 ---> RED
+Proc #273 ---> BLACK
+Proc #274 ---> RED
+Proc #275 ---> BLACK
+Proc #276 ---> RED
+Proc #277 ---> BLACK
+Proc #278 ---> RED
+Proc #279 ---> BLACK
+Proc #280 ---> BLACK
+Proc #281 ---> RED
+Proc #282 ---> BLACK
+Proc #283 ---> RED
+Proc #284 ---> BLACK
+Proc #285 ---> RED
+Proc #286 ---> BLACK
+Proc #287 ---> RED
+Proc #288 ---> RED
+Proc #289 ---> BLACK
+Proc #290 ---> RED
+Proc #291 ---> BLACK
+Proc #292 ---> RED
+Proc #293 ---> BLACK
+Proc #294 ---> RED
+Proc #295 ---> BLACK
+Proc #296 ---> BLACK
+Proc #297 ---> RED
+Proc #298 ---> BLACK
+Proc #299 ---> RED
+Proc #300 ---> BLACK
+Proc #301 ---> RED
+Proc #302 ---> BLACK
+Proc #303 ---> RED
+Proc #304 ---> RED
+Proc #305 ---> BLACK
+Proc #306 ---> RED
+Proc #307 ---> BLACK
+Proc #308 ---> RED
+Proc #309 ---> BLACK
+Proc #310 ---> RED
+Proc #311 ---> BLACK
+Proc #312 ---> BLACK
+Proc #313 ---> RED
+Proc #314 ---> BLACK
+Proc #315 ---> RED
+Proc #316 ---> BLACK
+Proc #317 ---> RED
+Proc #318 ---> BLACK
+Proc #319 ---> RED
+Proc #320 ---> BLACK
+Proc #321 ---> RED
+Proc #322 ---> BLACK
+Proc #323 ---> RED
+Proc #324 ---> BLACK
+Proc #325 ---> RED
+Proc #326 ---> BLACK
+Proc #327 ---> RED
+Proc #328 ---> RED
+Proc #329 ---> BLACK
+Proc #330 ---> RED
+Proc #331 ---> BLACK
+Proc #332 ---> RED
+Proc #333 ---> BLACK
+Proc #334 ---> RED
+Proc #335 ---> BLACK
+Proc #336 ---> BLACK
+Proc #337 ---> RED
+Proc #338 ---> BLACK
+Proc #339 ---> RED
+Proc #340 ---> BLACK
+Proc #341 ---> RED
+Proc #342 ---> BLACK
+Proc #343 ---> RED
+Proc #344 ---> RED
+Proc #345 ---> BLACK
+Proc #346 ---> RED
+Proc #347 ---> BLACK
+Proc #348 ---> RED
+Proc #349 ---> BLACK
+Proc #350 ---> RED
+Proc #351 ---> BLACK
+Proc #352 ---> BLACK
+Proc #353 ---> RED
+Proc #354 ---> BLACK
+Proc #355 ---> RED
+Proc #356 ---> BLACK
+Proc #357 ---> RED
+Proc #358 ---> BLACK
+Proc #359 ---> RED
+Proc #360 ---> RED
+Proc #361 ---> BLACK
+Proc #362 ---> RED
+Proc #363 ---> BLACK
+Proc #364 ---> RED
+Proc #365 ---> BLACK
+Proc #366 ---> RED
+Proc #367 ---> BLACK
+Proc #368 ---> BLACK
+Proc #369 ---> RED
+Proc #370 ---> BLACK
+Proc #371 ---> RED
+Proc #372 ---> BLACK
+Proc #373 ---> RED
+Proc #374 ---> BLACK
+Proc #375 ---> RED
+Proc #376 ---> RED
+Proc #377 ---> BLACK
+Proc #378 ---> RED
+Proc #379 ---> BLACK
+Proc #380 ---> RED
+Proc #381 ---> BLACK
+Proc #382 ---> RED
+Proc #383 ---> BLACK
+Proc #384 ---> RED
+Proc #385 ---> BLACK
+Proc #386 ---> RED
+Proc #387 ---> BLACK
+Proc #388 ---> RED
+Proc #389 ---> BLACK
+Proc #390 ---> RED
+Proc #391 ---> BLACK
+Proc #392 ---> BLACK
+Proc #393 ---> RED
+Proc #394 ---> BLACK
+Proc #395 ---> RED
+Proc #396 ---> BLACK
+Proc #397 ---> RED
+Proc #398 ---> BLACK
+Proc #399 ---> RED
+Proc #400 ---> RED
+Proc #401 ---> BLACK
+Proc #402 ---> RED
+Proc #403 ---> BLACK
+Proc #404 ---> RED
+Proc #405 ---> BLACK
+Proc #406 ---> RED
+Proc #407 ---> BLACK
+Proc #408 ---> BLACK
+Proc #409 ---> RED
+Proc #410 ---> BLACK
+Proc #411 ---> RED
+Proc #412 ---> BLACK
+Proc #413 ---> RED
+Proc #414 ---> BLACK
+Proc #415 ---> RED
+Proc #416 ---> RED
+Proc #417 ---> BLACK
+Proc #418 ---> RED
+Proc #419 ---> BLACK
+Proc #420 ---> RED
+Proc #421 ---> BLACK
+Proc #422 ---> RED
+Proc #423 ---> BLACK
+Proc #424 ---> BLACK
+Proc #425 ---> RED
+Proc #426 ---> BLACK
+Proc #427 ---> RED
+Proc #428 ---> BLACK
+Proc #429 ---> RED
+Proc #430 ---> BLACK
+Proc #431 ---> RED
+Proc #432 ---> RED
+Proc #433 ---> BLACK
+Proc #434 ---> RED
+Proc #435 ---> BLACK
+Proc #436 ---> RED
+Proc #437 ---> BLACK
+Proc #438 ---> RED
+Proc #439 ---> BLACK
+Proc #440 ---> BLACK
+Proc #441 ---> RED
+Proc #442 ---> BLACK
+Proc #443 ---> RED
+Proc #444 ---> BLACK
+Proc #445 ---> RED
+Proc #446 ---> BLACK
+Proc #447 ---> RED
+Proc #448 ---> BLACK
+Proc #449 ---> RED
+Proc #450 ---> BLACK
+Proc #451 ---> RED
+Proc #452 ---> BLACK
+Proc #453 ---> RED
+Proc #454 ---> BLACK
+Proc #455 ---> RED
+Proc #456 ---> RED
+Proc #457 ---> BLACK
+Proc #458 ---> RED
+Proc #459 ---> BLACK
+Proc #460 ---> RED
+Proc #461 ---> BLACK
+Proc #462 ---> RED
+Proc #463 ---> BLACK
+Proc #464 ---> BLACK
+Proc #465 ---> RED
+Proc #466 ---> BLACK
+Proc #467 ---> RED
+Proc #468 ---> BLACK
+Proc #469 ---> RED
+Proc #470 ---> BLACK
+Proc #471 ---> RED
+Proc #472 ---> RED
+Proc #473 ---> BLACK
+Proc #474 ---> RED
+Proc #475 ---> BLACK
+Proc #476 ---> RED
+Proc #477 ---> BLACK
+Proc #478 ---> RED
+Proc #479 ---> BLACK
+Proc #480 ---> BLACK
+Proc #481 ---> RED
+Proc #482 ---> BLACK
+Proc #483 ---> RED
+Proc #484 ---> BLACK
+Proc #485 ---> RED
+Proc #486 ---> BLACK
+Proc #487 ---> RED
+Proc #488 ---> RED
+Proc #489 ---> BLACK
+Proc #490 ---> RED
+Proc #491 ---> BLACK
+Proc #492 ---> RED
+Proc #493 ---> BLACK
+Proc #494 ---> RED
+Proc #495 ---> BLACK
+Proc #496 ---> BLACK
+Proc #497 ---> RED
+Proc #498 ---> BLACK
+Proc #499 ---> RED
+Proc #500 ---> BLACK
+Proc #501 ---> RED
+Proc #502 ---> BLACK
+Proc #503 ---> RED
+Proc #504 ---> RED
+Proc #505 ---> BLACK
+Proc #506 ---> RED
+Proc #507 ---> BLACK
+Proc #508 ---> RED
+Proc #509 ---> BLACK
+Proc #510 ---> RED
+Proc #511 ---> BLACK
+888888888888
+
+88
+
+
+
+
+
+
+
+
+8
+
+8
+
+
+888888
+8
+
+
+
+8
+
+
+88
+
+888
+
+
+888
+
+
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.8103
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+999
+
+
+999
+
+
+99
+
+9
+9
+9
+9
+9
+9
+99
+
+99
+9
+
+9
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9999999
+
+
+
+
+
+999
+9
+9
+99
+9
+9
+
+
+
+
+999999999999
+9
+
+
+
+
+
+
+
+
+9
+9
+9
+
+
+
+9
+9
+9
+9
+9
+99
+
+9
+9
+999
+
+
+9
+99
+
+9
+99
+99
+
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+999
+
+
+99
+
+9
+9
+9999999999999999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 2.87258e-05
+nnodesx: 417.743
+9
+9
+9
+9
+9
+9
+9
+9
+9
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+99
+9
+9
+
+9999999999999
+
+
+
+
+
+9
+
+
+99
+
+
+
+
+
+
+9
+9
+9
+99
+99
+
+
+9
+9
+9
+9
+9
+9
+999
+
+
+9
+99
+
+99
+
+9
+9999999
+
+9
+
+
+9
+9
+999
+9
+9
+9
+
+
+
+
+
+99
+
+999
+
+
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+999
+
+
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+99
+
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+99
+
+9
+99
+
+9
+9
+9
+9
+9
+9
+999
+
+
+9
+9999999999999999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+9
+9
+9
+99
+
+9
+9
+9
+9
+9
+9
+9
+9
+999
+
+
+9
+9
+9
+9
+9
+9
+99999999
+
+
+9
+
+
+
+9
+9
+
+
+9
+9
+9
+9
+9
+999
+
+
+9
+999
+
+
+9
+9999
+
+
+9
+
+9The proc grid looks like this: 9
+9
+
+Size (9 x 
+9
+99 x 9
+99
+
+9
+
+9
+9)
+(9
+99
+999
+0, 0
+
+
+, 0) ===> Proc #09
+99
+
+9
+(09
+
+9
+99
+
+9
+, 0, 19
+9
+9
+9
+) ===> Proc #81
+9(0, 0
+9
+, 2) ===> Proc #9
+162
+(0, 9
+0, 3) ===> Proc #243
+9
+9
+(0, 0, 4) ===> Proc #324
+(0, 0, 5) ===> Proc #405
+(0, 0, 6) ===> Proc #486
+(0, 0, 9
+99
+9
+
+9
+9
+7) ===> Proc #99
+
+9
+567
+9
+(099
+
+, 09
+, 89
+) ===> Proc #648
+(099
+, 1
+, 0) ===> Proc #9
+(0, 1, 1) ===> Proc #90
+(0, 1, 2) ===> Proc #1719
+
+(0, 91, 
+3) ===> Proc #252
+(09
+, 19
+, 4) ===> Proc #3339
+9
+
+(0, 19
+9
+, 5) ===> Proc #414
+9
+9
+99
+
+(0, 9
+9
+999
+
+
+99
+
+99
+
+1, 6) ===> Proc #9
+99
+
+9
+99
+
+495
+(0, 1, 79
+9
+99
+
+99
+
+9
+9
+9
+9
+) ===> Proc #576
+(9
+0, 1, 8) ===> Proc #6579
+9
+9
+
+(9
+0, 2, 9
+999999999999999
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+99
+
+999
+
+
+0) ===> Proc #
+9
+18
+(0, 2, 1) ===> Proc #99
+(0, 2, 9
+9
+2) ===> Proc #99
+
+180
+9
+(09
+9
+, 29
+, 3) ===> Proc #9
+261
+(0, 2, 4) ===> Proc #342
+99
+
+9
+9
+9
+9
+999
+9
+
+9
+9
+
+999
+
+
+(0, 2, 5) ===> Proc #423
+(0, 29
+9
+9
+9
+9
+, 6) ===> Proc #504
+(0, 2, 7) ===> Proc #5859
+
+(0, 2, 8) ===> Proc #666
+(0, 3, 0) ===> Proc #27
+9
+(0, 3, 1) ===> Proc #108
+(0, 3, 2) ===> Proc #189
+(0, 3, 3) ===> Proc #270
+(0, 3, 4) ===> Proc #351
+(0, 3, 5) ===> Proc #432
+(0, 3, 6) ===> Proc #513
+(0, 3, 7) ===> Proc #594
+(0, 3, 8) ===> Proc #675
+(0, 4, 0) ===> Proc #36
+(0, 4, 1) ===> Proc #117
+(0, 9
+9
+9
+94, 
+2) ===> Proc #1989
+99
+
+
+(99
+0, 499
+
+, 3
+9
+) ===> Proc #279
+99
+
+999
+
+
+9
+999
+
+
+(09
+9
+9
+9
+, 4, 99
+
+9
+4) ===> Proc #36099
+
+9
+9
+9
+9
+
+(0, 49
+9
+, 5) ===> Proc #9
+999
+9
+441
+
+
+999
+
+
+(0, 99
+9
+9999
+
+
+9
+9
+4, 6
+
+) ===> Proc #522
+(99
+99
+
+
+9
+99
+
+9
+0, 49
+9
+, 7) ===> Proc #603
+9
+(0, 4, 8) ===> Proc #684
+(0, 5, 0) ===> Proc #45
+(0, 5, 1) ===> Proc #126
+(0, 59999999999
+
+
+
+
+
+
+
+9
+999
+9
+
+
+
+
+9999999
+
+
+9
+
+9
+
+9
+99
+
+9
+9
+
+9
+
+9
+9
+9999
+
+
+
+9
+9
+9
+9999
+
+
+9
+
+9
+999
+
+
+9
+999
+
+9
+
+9
+99
+
+9999999999999999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+9
+
+9
+9
+9
+9
+9
+9
+9999
+
+
+
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+, 2) ===> Proc #207
+(0, 5, 3) ===> Proc #288
+(0, 5, 4) ===> Proc #369
+(0, 5, 5) ===> Proc #450
+(0, 5, 6) ===> Proc #531
+(0, 5, 7) ===> Proc #612
+(0, 5, 8) ===> Proc #693
+(0, 6, 0) ===> Proc #54
+(0, 6, 1) ===> Proc #135
+(0, 6, 2) ===> Proc #216
+(0, 6, 3) ===> Proc #297
+(0, 6, 4) ===> Proc #378
+(0, 6, 5) ===> Proc #459
+(0, 6, 6) ===> Proc #540
+(0, 6, 7) ===> Proc #621
+(0, 6, 8) ===> Proc #702
+(0, 7, 0) ===> Proc #63
+(0, 7, 1) ===> Proc #144
+(0, 7, 2) ===> Proc #225
+(0, 7, 3) ===> Proc #306
+(0, 7, 4) ===> Proc #387
+(0, 7, 5) ===> Proc #468
+(0, 7, 6) ===> Proc #549
+(0, 7, 7) ===> Proc #630
+(0, 7, 8) ===> Proc #711
+(0, 8, 0) ===> Proc #72
+(0, 8, 1) ===> Proc #153
+(0, 8, 2) ===> Proc #234
+(0, 8, 3) ===> Proc #315
+(0, 8, 4) ===> Proc #396
+(0, 8, 5) ===> Proc #477
+(0, 8, 6) ===> Proc #558
+(0, 8, 7) ===> Proc #639
+(0, 8, 8) ===> Proc #720
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #82
+(1, 0, 2) ===> Proc #163
+(1, 0, 3) ===> Proc #244
+(1, 0, 4) ===> Proc #325
+(1, 0, 5) ===> Proc #406
+(1, 0, 6) ===> Proc #487
+(1, 0, 7) ===> Proc #568
+(1, 0, 8) ===> Proc #649
+(1, 1, 0) ===> Proc #10
+(1, 1, 1) ===> Proc #91
+(1, 1, 2) ===> Proc #172
+(1, 1, 3) ===> Proc #253
+(1, 1, 4) ===> Proc #334
+(1, 1, 5) ===> Proc #415
+(1, 1, 6) ===> Proc #496
+(1, 1, 7) ===> Proc #577
+(1, 1, 8) ===> Proc #658
+(1, 2, 0) ===> Proc #19
+(1, 2, 1) ===> Proc #100
+(1, 2, 2) ===> Proc #181
+(1, 2, 3) ===> Proc #262
+(1, 2, 4) ===> Proc #343
+(1, 2, 5) ===> Proc #424
+(1, 2, 6) ===> Proc #505
+(1, 2, 7) ===> Proc #586
+(1, 2, 8) ===> Proc #667
+(1, 3, 0) ===> Proc #28
+(1, 3, 1) ===> Proc #109
+(1, 3, 2) ===> Proc #190
+(1, 3, 3) ===> Proc #271
+(1, 3, 4) ===> Proc #352
+(1, 3, 5) ===> Proc #433
+(1, 3, 6) ===> Proc #514
+(1, 3, 7) ===> Proc #595
+(1, 3, 8) ===> Proc #676
+(1, 4, 0) ===> Proc #37
+(1, 4, 1) ===> Proc #118
+(1, 4, 2) ===> Proc #199
+(1, 4, 3) ===> Proc #280
+(1, 4, 4) ===> Proc #361
+(1, 4, 5) ===> Proc #442
+(1, 4, 6) ===> Proc #523
+(1, 4, 7) ===> Proc #604
+(1, 4, 8) ===> Proc #685
+(1, 5, 0) ===> Proc #46
+(1, 5, 1) ===> Proc #127
+(1, 5, 2) ===> Proc #208
+(1, 5, 3) ===> Proc #289
+(1, 5, 4) ===> Proc #370
+(1, 5, 5) ===> Proc #451
+(1, 5, 6) ===> Proc #532
+(1, 5, 7) ===> Proc #613
+(1, 5, 8) ===> Proc #694
+(1, 6, 0) ===> Proc #55
+(1, 6, 1) ===> Proc #136
+(1, 6, 2) ===> Proc #217
+(1, 6, 3) ===> Proc #298
+(1, 6, 4) ===> Proc #379
+(1, 6, 5) ===> Proc #460
+(1, 6, 6) ===> Proc #541
+(1, 6, 7) ===> Proc #622
+(1, 6, 8) ===> Proc #703
+(1, 7, 0) ===> Proc #64
+(1, 7, 1) ===> Proc #145
+(1, 7, 2) ===> Proc #226
+(1, 7, 3) ===> Proc #307
+(1, 7, 4) ===> Proc #388
+(1, 7, 5) ===> Proc #469
+(1, 7, 6) ===> Proc #550
+(1, 7, 7) ===> Proc #631
+(1, 7, 8) ===> Proc #712
+(1, 8, 0) ===> Proc #73
+(1, 8, 1) ===> Proc #154
+(1, 8, 2) ===> Proc #235
+(1, 8, 3) ===> Proc #316
+(1, 8, 4) ===> Proc #397
+(1, 8, 5) ===> Proc #478
+(1, 8, 6) ===> Proc #559
+(1, 8, 7) ===> Proc #640
+(1, 8, 8) ===> Proc #721
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #83
+(2, 0, 2) ===> Proc #164
+(2, 0, 3) ===> Proc #245
+(2, 0, 4) ===> Proc #326
+(2, 0, 5) ===> Proc #407
+(2, 0, 6) ===> Proc #488
+(2, 0, 7) ===> Proc #569
+(2, 0, 8) ===> Proc #650
+(2, 1, 0) ===> Proc #11
+(2, 1, 1) ===> Proc #92
+(2, 1, 2) ===> Proc #173
+(2, 1, 3) ===> Proc #254
+(2, 1, 4) ===> Proc #335
+(2, 1, 5) ===> Proc #416
+(2, 1, 6) ===> Proc #497
+(2, 1, 7) ===> Proc #578
+(2, 1, 8) ===> Proc #659
+(2, 2, 0) ===> Proc #20
+(2, 2, 1) ===> Proc #101
+(2, 2, 2) ===> Proc #182
+(2, 2, 3) ===> Proc #263
+(2, 2, 4) ===> Proc #344
+(2, 2, 5) ===> Proc #425
+(2, 2, 6) ===> Proc #506
+(2, 2, 7) ===> Proc #587
+(2, 2, 8) ===> Proc #668
+(2, 3, 0) ===> Proc #29
+(2, 3, 1) ===> Proc #110
+(2, 3, 2) ===> Proc #191
+(2, 3, 3) ===> Proc #272
+(2, 3, 4) ===> Proc #353
+(2, 3, 5) ===> Proc #434
+(2, 3, 6) ===> Proc #515
+(2, 3, 7) ===> Proc #596
+(2, 3, 8) ===> Proc #677
+(2, 4, 0) ===> Proc #38
+(2, 4, 1) ===> Proc #119
+(2, 4, 2) ===> Proc #200
+(2, 4, 3) ===> Proc #281
+(2, 4, 4) ===> Proc #362
+(2, 4, 5) ===> Proc #443
+(2, 4, 6) ===> Proc #524
+(2, 4, 7) ===> Proc #605
+(2, 4, 8) ===> Proc #686
+(2, 5, 0) ===> Proc #47
+(2, 5, 1) ===> Proc #128
+(2, 5, 2) ===> Proc #209
+(2, 5, 3) ===> Proc #290
+(2, 5, 4) ===> Proc #371
+(2, 5, 5) ===> Proc #452
+(2, 5, 6) ===> Proc #533
+(2, 5, 7) ===> Proc #614
+(2, 5, 8) ===> Proc #695
+(2, 6, 0) ===> Proc #56
+(2, 6, 1) ===> Proc #137
+(2, 6, 2) ===> Proc #218
+(2, 6, 3) ===> Proc #299
+(2, 6, 4) ===> Proc #380
+(2, 6, 5) ===> Proc #461
+(2, 6, 6) ===> Proc #542
+(2, 6, 7) ===> Proc #623
+(2, 6, 8) ===> Proc #704
+(2, 7, 0) ===> Proc #65
+(2, 7, 1) ===> Proc #146
+(2, 7, 2) ===> Proc #227
+(2, 7, 3) ===> Proc #308
+(2, 7, 4) ===> Proc #389
+(2, 7, 5) ===> Proc #470
+(2, 7, 6) ===> Proc #551
+(2, 7, 7) ===> Proc #632
+(2, 7, 8) ===> Proc #713
+(2, 8, 0) ===> Proc #74
+(2, 8, 1) ===> Proc #155
+(2, 8, 2) ===> Proc #236
+(2, 8, 3) ===> Proc #317
+(2, 8, 4) ===> Proc #398
+(2, 8, 5) ===> Proc #479
+(2, 8, 6) ===> Proc #560
+(2, 8, 7) ===> Proc #641
+(2, 8, 8) ===> Proc #722
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #84
+(3, 0, 2) ===> Proc #165
+(3, 0, 3) ===> Proc #246
+(3, 0, 4) ===> Proc #327
+(3, 0, 5) ===> Proc #408
+(3, 0, 6) ===> Proc #489
+(3, 0, 7) ===> Proc #570
+(3, 0, 8) ===> Proc #651
+(3, 1, 0) ===> Proc #12
+(3, 1, 1) ===> Proc #93
+(3, 1, 2) ===> Proc #174
+(3, 1, 3) ===> Proc #255
+(3, 1, 4) ===> Proc #336
+(3, 1, 5) ===> Proc #417
+(3, 1, 6) ===> Proc #498
+(3, 1, 7) ===> Proc #579
+(3, 1, 8) ===> Proc #660
+(3, 2, 0) ===> Proc #21
+(3, 2, 1) ===> Proc #102
+(3, 2, 2) ===> Proc #183
+(3, 2, 3) ===> Proc #264
+(3, 2, 4) ===> Proc #345
+(3, 2, 5) ===> Proc #426
+(3, 2, 6) ===> Proc #507
+(3, 2, 7) ===> Proc #588
+(3, 2, 8) ===> Proc #669
+(3, 3, 0) ===> Proc #30
+(3, 3, 1) ===> Proc #111
+(3, 3, 2) ===> Proc #192
+(3, 3, 3) ===> Proc #273
+(3, 3, 4) ===> Proc #354
+(3, 3, 5) ===> Proc #435
+(3, 3, 6) ===> Proc #516
+(3, 3, 7) ===> Proc #597
+(3, 3, 8) ===> Proc #678
+(3, 4, 0) ===> Proc #39
+(3, 4, 1) ===> Proc #120
+(3, 4, 2) ===> Proc #201
+(3, 4, 3) ===> Proc #282
+(3, 4, 4) ===> Proc #363
+(3, 4, 5) ===> Proc #444
+(3, 4, 6) ===> Proc #525
+(3, 4, 7) ===> Proc #606
+(3, 4, 8) ===> Proc #687
+(3, 5, 0) ===> Proc #48
+(3, 5, 1) ===> Proc #129
+(3, 5, 2) ===> Proc #210
+(3, 5, 3) ===> Proc #291
+(3, 5, 4) ===> Proc #372
+(3, 5, 5) ===> Proc #453
+(3, 5, 6) ===> Proc #534
+(3, 5, 7) ===> Proc #615
+(3, 5, 8) ===> Proc #696
+(3, 6, 0) ===> Proc #57
+(3, 6, 1) ===> Proc #138
+(3, 6, 2) ===> Proc #219
+(3, 6, 3) ===> Proc #300
+(3, 6, 4) ===> Proc #381
+(3, 6, 5) ===> Proc #462
+(3, 6, 6) ===> Proc #543
+(3, 6, 7) ===> Proc #624
+(3, 6, 8) ===> Proc #705
+(3, 7, 0) ===> Proc #66
+(3, 7, 1) ===> Proc #147
+(3, 7, 2) ===> Proc #228
+(3, 7, 3) ===> Proc #309
+(3, 7, 4) ===> Proc #390
+(3, 7, 5) ===> Proc #471
+(3, 7, 6) ===> Proc #552
+(3, 7, 7) ===> Proc #633
+(3, 7, 8) ===> Proc #714
+(3, 8, 0) ===> Proc #75
+(3, 8, 1) ===> Proc #156
+(3, 8, 2) ===> Proc #237
+(3, 8, 3) ===> Proc #318
+(3, 8, 4) ===> Proc #399
+(3, 8, 5) ===> Proc #480
+(3, 8, 6) ===> Proc #561
+(3, 8, 7) ===> Proc #642
+(3, 8, 8) ===> Proc #723
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #85
+(4, 0, 2) ===> Proc #166
+(4, 0, 3) ===> Proc #247
+(4, 0, 4) ===> Proc #328
+(4, 0, 5) ===> Proc #409
+(4, 0, 6) ===> Proc #490
+(4, 0, 7) ===> Proc #571
+(4, 0, 8) ===> Proc #652
+(4, 1, 0) ===> Proc #13
+(4, 1, 1) ===> Proc #94
+(4, 1, 2) ===> Proc #175
+(4, 1, 3) ===> Proc #256
+(4, 1, 4) ===> Proc #337
+(4, 1, 5) ===> Proc #418
+(4, 1, 6) ===> Proc #499
+(4, 1, 7) ===> Proc #580
+(4, 1, 8) ===> Proc #661
+(4, 2, 0) ===> Proc #22
+(4, 2, 1) ===> Proc #103
+(4, 2, 2) ===> Proc #184
+(4, 2, 3) ===> Proc #265
+(4, 2, 4) ===> Proc #346
+(4, 2, 5) ===> Proc #427
+(4, 2, 6) ===> Proc #508
+(4, 2, 7) ===> Proc #589
+(4, 2, 8) ===> Proc #670
+(4, 3, 0) ===> Proc #31
+(4, 3, 1) ===> Proc #112
+(4, 3, 2) ===> Proc #193
+(4, 3, 3) ===> Proc #274
+(4, 3, 4) ===> Proc #355
+(4, 3, 5) ===> Proc #436
+(4, 3, 6) ===> Proc #517
+(4, 3, 7) ===> Proc #598
+(4, 3, 8) ===> Proc #679
+(4, 4, 0) ===> Proc #40
+(4, 4, 1) ===> Proc #121
+(4, 4, 2) ===> Proc #202
+(4, 4, 3) ===> Proc #283
+(4, 4, 4) ===> Proc #364
+(4, 4, 5) ===> Proc #445
+(4, 4, 6) ===> Proc #526
+(4, 4, 7) ===> Proc #607
+(4, 4, 8) ===> Proc #688
+(4, 5, 0) ===> Proc #49
+(4, 5, 1) ===> Proc #130
+(4, 5, 2) ===> Proc #211
+(4, 5, 3) ===> Proc #292
+(4, 5, 4) ===> Proc #373
+(4, 5, 5) ===> Proc #454
+(4, 5, 6) ===> Proc #535
+(4, 5, 7) ===> Proc #616
+(4, 5, 8) ===> Proc #697
+(4, 6, 0) ===> Proc #58
+(4, 6, 1) ===> Proc #139
+(4, 6, 2) ===> Proc #220
+(4, 6, 3) ===> Proc #301
+(4, 6, 4) ===> Proc #382
+(4, 6, 5) ===> Proc #463
+(4, 6, 6) ===> Proc #544
+(4, 6, 7) ===> Proc #625
+(4, 6, 8) ===> Proc #706
+(4, 7, 0) ===> Proc #67
+(4, 7, 1) ===> Proc #148
+(4, 7, 2) ===> Proc #229
+(4, 7, 3) ===> Proc #310
+(4, 7, 4) ===> Proc #391
+(4, 7, 5) ===> Proc #472
+(4, 7, 6) ===> Proc #553
+(4, 7, 7) ===> Proc #634
+(4, 7, 8) ===> Proc #715
+(4, 8, 0) ===> Proc #76
+(4, 8, 1) ===> Proc #157
+(4, 8, 2) ===> Proc #238
+(4, 8, 3) ===> Proc #319
+(4, 8, 4) ===> Proc #400
+(4, 8, 5) ===> Proc #481
+(4, 8, 6) ===> Proc #562
+(4, 8, 7) ===> Proc #643
+(4, 8, 8) ===> Proc #724
+(5, 0, 0) ===> Proc #5
+(5, 0, 1) ===> Proc #86
+(5, 0, 2) ===> Proc #167
+(5, 0, 3) ===> Proc #248
+(5, 0, 4) ===> Proc #329
+(5, 0, 5) ===> Proc #410
+(5, 0, 6) ===> Proc #491
+(5, 0, 7) ===> Proc #572
+(5, 0, 8) ===> Proc #653
+(5, 1, 0) ===> Proc #14
+(5, 1, 1) ===> Proc #95
+(5, 1, 2) ===> Proc #176
+(5, 1, 3) ===> Proc #257
+(5, 1, 4) ===> Proc #338
+(5, 1, 5) ===> Proc #419
+(5, 1, 6) ===> Proc #500
+(5, 1, 7) ===> Proc #581
+(5, 1, 8) ===> Proc #662
+(5, 2, 0) ===> Proc #23
+(5, 2, 1) ===> Proc #104
+(5, 2, 2) ===> Proc #185
+(5, 2, 3) ===> Proc #266
+(5, 2, 4) ===> Proc #347
+(5, 2, 5) ===> Proc #428
+(5, 2, 6) ===> Proc #509
+(5, 2, 7) ===> Proc #590
+(5, 2, 8) ===> Proc #671
+(5, 3, 0) ===> Proc #32
+(5, 3, 1) ===> Proc #113
+(5, 3, 2) ===> Proc #194
+(5, 3, 3) ===> Proc #275
+(5, 3, 4) ===> Proc #356
+(5, 3, 5) ===> Proc #437
+(5, 3, 6) ===> Proc #518
+(5, 3, 7) ===> Proc #599
+(5, 3, 8) ===> Proc #680
+(5, 4, 0) ===> Proc #41
+(5, 4, 1) ===> Proc #122
+(5, 4, 2) ===> Proc #203
+(5, 4, 3) ===> Proc #284
+(5, 4, 4) ===> Proc #365
+(5, 4, 5) ===> Proc #446
+(5, 4, 6) ===> Proc #527
+(5, 4, 7) ===> Proc #608
+(5, 4, 8) ===> Proc #689
+(5, 5, 0) ===> Proc #50
+(5, 5, 1) ===> Proc #131
+(5, 5, 2) ===> Proc #212
+(5, 5, 3) ===> Proc #293
+(5, 5, 4) ===> Proc #374
+(5, 5, 5) ===> Proc #455
+(5, 5, 6) ===> Proc #536
+(5, 5, 7) ===> Proc #617
+(5, 5, 8) ===> Proc #698
+(5, 6, 0) ===> Proc #59
+(5, 6, 1) ===> Proc #140
+(5, 6, 2) ===> Proc #221
+(5, 6, 3) ===> Proc #302
+(5, 6, 4) ===> Proc #383
+(5, 6, 5) ===> Proc #464
+(5, 6, 6) ===> Proc #545
+(5, 6, 7) ===> Proc #626
+(5, 6, 8) ===> Proc #707
+(5, 7, 0) ===> Proc #68
+(5, 7, 1) ===> Proc #149
+(5, 7, 2) ===> Proc #230
+(5, 7, 3) ===> Proc #311
+(5, 7, 4) ===> Proc #392
+(5, 7, 5) ===> Proc #473
+(5, 7, 6) ===> Proc #554
+(5, 7, 7) ===> Proc #635
+(5, 7, 8) ===> Proc #716
+(5, 8, 0) ===> Proc #77
+(5, 8, 1) ===> Proc #158
+(5, 8, 2) ===> Proc #239
+(5, 8, 3) ===> Proc #320
+(5, 8, 4) ===> Proc #401
+(5, 8, 5) ===> Proc #482
+(5, 8, 6) ===> Proc #563
+(5, 8, 7) ===> Proc #644
+(5, 8, 8) ===> Proc #725
+(6, 0, 0) ===> Proc #6
+(6, 0, 1) ===> Proc #87
+(6, 0, 2) ===> Proc #168
+(6, 0, 3) ===> Proc #249
+(6, 0, 4) ===> Proc #330
+(6, 0, 5) ===> Proc #411
+(6, 0, 6) ===> Proc #492
+(6, 0, 7) ===> Proc #573
+(6, 0, 8) ===> Proc #654
+(6, 1, 0) ===> Proc #15
+(6, 1, 1) ===> Proc #96
+(6, 1, 2) ===> Proc #177
+(6, 1, 3) ===> Proc #258
+(6, 1, 4) ===> Proc #339
+(6, 1, 5) ===> Proc #420
+(6, 1, 6) ===> Proc #501
+(6, 1, 7) ===> Proc #582
+(6, 1, 8) ===> Proc #663
+(6, 2, 0) ===> Proc #24
+(6, 2, 1) ===> Proc #105
+(6, 2, 2) ===> Proc #186
+(6, 2, 3) ===> Proc #267
+(6, 2, 4) ===> Proc #348
+(6, 2, 5) ===> Proc #429
+(6, 2, 6) ===> Proc #510
+(6, 2, 7) ===> Proc #591
+(6, 2, 8) ===> Proc #672
+(6, 3, 0) ===> Proc #33
+(6, 3, 1) ===> Proc #114
+(6, 3, 2) ===> Proc #195
+(6, 3, 3) ===> Proc #276
+(6, 3, 4) ===> Proc #357
+(6, 3, 5) ===> Proc #438
+(6, 3, 6) ===> Proc #519
+(6, 3, 7) ===> Proc #600
+(6, 3, 8) ===> Proc #681
+(6, 4, 0) ===> Proc #42
+(6, 4, 1) ===> Proc #123
+(6, 4, 2) ===> Proc #204
+(6, 4, 3) ===> Proc #285
+(6, 4, 4) ===> Proc #366
+(6, 4, 5) ===> Proc #447
+(6, 4, 6) ===> Proc #528
+(6, 4, 7) ===> Proc #609
+(6, 4, 8) ===> Proc #690
+(6, 5, 0) ===> Proc #51
+(6, 5, 1) ===> Proc #132
+(6, 5, 2) ===> Proc #213
+(6, 5, 3) ===> Proc #294
+(6, 5, 4) ===> Proc #375
+(6, 5, 5) ===> Proc #456
+(6, 5, 6) ===> Proc #537
+(6, 5, 7) ===> Proc #618
+(6, 5, 8) ===> Proc #699
+(6, 6, 0) ===> Proc #60
+(6, 6, 1) ===> Proc #141
+(6, 6, 2) ===> Proc #222
+(6, 6, 3) ===> Proc #303
+(6, 6, 4) ===> Proc #384
+(6, 6, 5) ===> Proc #465
+(6, 6, 6) ===> Proc #546
+(6, 6, 7) ===> Proc #627
+(6, 6, 8) ===> Proc #708
+(6, 7, 0) ===> Proc #69
+(6, 7, 1) ===> Proc #150
+(6, 7, 2) ===> Proc #231
+(6, 7, 3) ===> Proc #312
+(6, 7, 4) ===> Proc #393
+(6, 7, 5) ===> Proc #474
+(6, 7, 6) ===> Proc #555
+(6, 7, 7) ===> Proc #636
+(6, 7, 8) ===> Proc #717
+(6, 8, 0) ===> Proc #78
+(6, 8, 1) ===> Proc #159
+(6, 8, 2) ===> Proc #240
+(6, 8, 3) ===> Proc #321
+(6, 8, 4) ===> Proc #402
+(6, 8, 5) ===> Proc #483
+(6, 8, 6) ===> Proc #564
+(6, 8, 7) ===> Proc #645
+(6, 8, 8) ===> Proc #726
+(7, 0, 0) ===> Proc #7
+(7, 0, 1) ===> Proc #88
+(7, 0, 2) ===> Proc #169
+(7, 0, 3) ===> Proc #250
+(7, 0, 4) ===> Proc #331
+(7, 0, 5) ===> Proc #412
+(7, 0, 6) ===> Proc #493
+(7, 0, 7) ===> Proc #574
+(7, 0, 8) ===> Proc #655
+(7, 1, 0) ===> Proc #16
+(7, 1, 1) ===> Proc #97
+(7, 1, 2) ===> Proc #178
+(7, 1, 3) ===> Proc #259
+(7, 1, 4) ===> Proc #340
+(7, 1, 5) ===> Proc #421
+(7, 1, 6) ===> Proc #502
+(7, 1, 7) ===> Proc #583
+(7, 1, 8) ===> Proc #664
+(7, 2, 0) ===> Proc #25
+(7, 2, 1) ===> Proc #106
+(7, 2, 2) ===> Proc #187
+(7, 2, 3) ===> Proc #268
+(7, 2, 4) ===> Proc #349
+(7, 2, 5) ===> Proc #430
+(7, 2, 6) ===> Proc #511
+(7, 2, 7) ===> Proc #592
+(7, 2, 8) ===> Proc #673
+(7, 3, 0) ===> Proc #34
+(7, 3, 1) ===> Proc #115
+(7, 3, 2) ===> Proc #196
+(7, 3, 3) ===> Proc #277
+(7, 3, 4) ===> Proc #358
+(7, 3, 5) ===> Proc #439
+(7, 3, 6) ===> Proc #520
+(7, 3, 7) ===> Proc #601
+(7, 3, 8) ===> Proc #682
+(7, 4, 0) ===> Proc #43
+(7, 4, 1) ===> Proc #124
+(7, 4, 2) ===> Proc #205
+(7, 4, 3) ===> Proc #286
+(7, 4, 4) ===> Proc #367
+(7, 4, 5) ===> Proc #448
+(7, 4, 6) ===> Proc #529
+(7, 4, 7) ===> Proc #610
+(7, 4, 8) ===> Proc #691
+(7, 5, 0) ===> Proc #52
+(7, 5, 1) ===> Proc #133
+(7, 5, 2) ===> Proc #214
+(7, 5, 3) ===> Proc #295
+(7, 5, 4) ===> Proc #376
+(7, 5, 5) ===> Proc #457
+(7, 5, 6) ===> Proc #538
+(7, 5, 7) ===> Proc #619
+(7, 5, 8) ===> Proc #700
+(7, 6, 0) ===> Proc #61
+(7, 6, 1) ===> Proc #142
+(7, 6, 2) ===> Proc #223
+(7, 6, 3) ===> Proc #304
+(7, 6, 4) ===> Proc #385
+(7, 6, 5) ===> Proc #466
+(7, 6, 6) ===> Proc #547
+(7, 6, 7) ===> Proc #628
+(7, 6, 8) ===> Proc #709
+(7, 7, 0) ===> Proc #70
+(7, 7, 1) ===> Proc #151
+(7, 7, 2) ===> Proc #232
+(7, 7, 3) ===> Proc #313
+(7, 7, 4) ===> Proc #394
+(7, 7, 5) ===> Proc #475
+(7, 7, 6) ===> Proc #556
+(7, 7, 7) ===> Proc #637
+(7, 7, 8) ===> Proc #718
+(7, 8, 0) ===> Proc #79
+(7, 8, 1) ===> Proc #160
+(7, 8, 2) ===> Proc #241
+(7, 8, 3) ===> Proc #322
+(7, 8, 4) ===> Proc #403
+(7, 8, 5) ===> Proc #484
+(7, 8, 6) ===> Proc #565
+(7, 8, 7) ===> Proc #646
+(7, 8, 8) ===> Proc #727
+(8, 0, 0) ===> Proc #8
+(8, 0, 1) ===> Proc #89
+(8, 0, 2) ===> Proc #170
+(8, 0, 3) ===> Proc #251
+(8, 0, 4) ===> Proc #332
+(8, 0, 5) ===> Proc #413
+(8, 0, 6) ===> Proc #494
+(8, 0, 7) ===> Proc #575
+(8, 0, 8) ===> Proc #656
+(8, 1, 0) ===> Proc #17
+(8, 1, 1) ===> Proc #98
+(8, 1, 2) ===> Proc #179
+(8, 1, 3) ===> Proc #260
+(8, 1, 4) ===> Proc #341
+(8, 1, 5) ===> Proc #422
+(8, 1, 6) ===> Proc #503
+(8, 1, 7) ===> Proc #584
+(8, 1, 8) ===> Proc #665
+(8, 2, 0) ===> Proc #26
+(8, 2, 1) ===> Proc #107
+(8, 2, 2) ===> Proc #188
+(8, 2, 3) ===> Proc #269
+(8, 2, 4) ===> Proc #350
+(8, 2, 5) ===> Proc #431
+(8, 2, 6) ===> Proc #512
+(8, 2, 7) ===> Proc #593
+(8, 2, 8) ===> Proc #674
+(8, 3, 0) ===> Proc #35
+(8, 3, 1) ===> Proc #116
+(8, 3, 2) ===> Proc #197
+(8, 3, 3) ===> Proc #278
+(8, 3, 4) ===> Proc #359
+(8, 3, 5) ===> Proc #440
+(8, 3, 6) ===> Proc #521
+(8, 3, 7) ===> Proc #602
+(8, 3, 8) ===> Proc #683
+(8, 4, 0) ===> Proc #44
+(8, 4, 1) ===> Proc #125
+(8, 4, 2) ===> Proc #206
+(8, 4, 3) ===> Proc #287
+(8, 4, 4) ===> Proc #368
+(8, 4, 5) ===> Proc #449
+(8, 4, 6) ===> Proc #530
+(8, 4, 7) ===> Proc #611
+(8, 4, 8) ===> Proc #692
+(8, 5, 0) ===> Proc #53
+(8, 5, 1) ===> Proc #134
+(8, 5, 2) ===> Proc #215
+(8, 5, 3) ===> Proc #296
+(8, 5, 4) ===> Proc #377
+(8, 5, 5) ===> Proc #458
+(8, 5, 6) ===> Proc #539
+(8, 5, 7) ===> Proc #620
+(8, 5, 8) ===> Proc #701
+(8, 6, 0) ===> Proc #62
+(8, 6, 1) ===> Proc #143
+(8, 6, 2) ===> Proc #224
+(8, 6, 3) ===> Proc #305
+(8, 6, 4) ===> Proc #386
+(8, 6, 5) ===> Proc #467
+(8, 6, 6) ===> Proc #548
+(8, 6, 7) ===> Proc #629
+(8, 6, 8) ===> Proc #710
+(8, 7, 0) ===> Proc #71
+(8, 7, 1) ===> Proc #152
+(8, 7, 2) ===> Proc #233
+(8, 7, 3) ===> Proc #314
+(8, 7, 4) ===> Proc #395
+(8, 7, 5) ===> Proc #476
+(8, 7, 6) ===> Proc #557
+(8, 7, 7) ===> Proc #638
+(8, 7, 8) ===> Proc #719
+(8, 8, 0) ===> Proc #80
+(8, 8, 1) ===> Proc #161
+(8, 8, 2) ===> Proc #242
+(8, 8, 3) ===> Proc #323
+(8, 8, 4) ===> Proc #404
+(8, 8, 5) ===> Proc #485
+(8, 8, 6) ===> Proc #566
+(8, 8, 7) ===> Proc #647
+(8, 8, 8) ===> Proc #728
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> RED
+Proc #11 ---> BLACK
+Proc #12 ---> RED
+Proc #13 ---> BLACK
+Proc #14 ---> RED
+Proc #15 ---> BLACK
+Proc #16 ---> RED
+Proc #17 ---> BLACK
+Proc #18 ---> RED
+Proc #19 ---> BLACK
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+Proc #27 ---> BLACK
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> RED
+Proc #31 ---> BLACK
+Proc #32 ---> RED
+Proc #33 ---> BLACK
+Proc #34 ---> RED
+Proc #35 ---> BLACK
+Proc #36 ---> RED
+Proc #37 ---> BLACK
+Proc #38 ---> RED
+Proc #39 ---> BLACK
+Proc #40 ---> RED
+Proc #41 ---> BLACK
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> RED
+Proc #45 ---> BLACK
+Proc #46 ---> RED
+Proc #47 ---> BLACK
+Proc #48 ---> RED
+Proc #49 ---> BLACK
+Proc #50 ---> RED
+Proc #51 ---> BLACK
+Proc #52 ---> RED
+Proc #53 ---> BLACK
+Proc #54 ---> RED
+Proc #55 ---> BLACK
+Proc #56 ---> RED
+Proc #57 ---> BLACK
+Proc #58 ---> RED
+Proc #59 ---> BLACK
+Proc #60 ---> RED
+Proc #61 ---> BLACK
+Proc #62 ---> RED
+Proc #63 ---> BLACK
+Proc #64 ---> RED
+Proc #65 ---> BLACK
+Proc #66 ---> RED
+Proc #67 ---> BLACK
+Proc #68 ---> RED
+Proc #69 ---> BLACK
+Proc #70 ---> RED
+Proc #71 ---> BLACK
+Proc #72 ---> RED
+Proc #73 ---> BLACK
+Proc #74 ---> RED
+Proc #75 ---> BLACK
+Proc #76 ---> RED
+Proc #77 ---> BLACK
+Proc #78 ---> RED
+Proc #79 ---> BLACK
+Proc #80 ---> RED
+Proc #81 ---> BLACK
+Proc #82 ---> RED
+Proc #83 ---> BLACK
+Proc #84 ---> RED
+Proc #85 ---> BLACK
+Proc #86 ---> RED
+Proc #87 ---> BLACK
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> RED
+Proc #91 ---> BLACK
+Proc #92 ---> RED
+Proc #93 ---> BLACK
+Proc #94 ---> RED
+Proc #95 ---> BLACK
+Proc #96 ---> RED
+Proc #97 ---> BLACK
+Proc #98 ---> RED
+Proc #99 ---> BLACK
+Proc #100 ---> RED
+Proc #101 ---> BLACK
+Proc #102 ---> RED
+Proc #103 ---> BLACK
+Proc #104 ---> RED
+Proc #105 ---> BLACK
+Proc #106 ---> RED
+Proc #107 ---> BLACK
+Proc #108 ---> RED
+Proc #109 ---> BLACK
+Proc #110 ---> RED
+Proc #111 ---> BLACK
+Proc #112 ---> RED
+Proc #113 ---> BLACK
+Proc #114 ---> RED
+Proc #115 ---> BLACK
+Proc #116 ---> RED
+Proc #117 ---> BLACK
+Proc #118 ---> RED
+Proc #119 ---> BLACK
+Proc #120 ---> RED
+Proc #121 ---> BLACK
+Proc #122 ---> RED
+Proc #123 ---> BLACK
+Proc #124 ---> RED
+Proc #125 ---> BLACK
+Proc #126 ---> RED
+Proc #127 ---> BLACK
+Proc #128 ---> RED
+Proc #129 ---> BLACK
+Proc #130 ---> RED
+Proc #131 ---> BLACK
+Proc #132 ---> RED
+Proc #133 ---> BLACK
+Proc #134 ---> RED
+Proc #135 ---> BLACK
+Proc #136 ---> RED
+Proc #137 ---> BLACK
+Proc #138 ---> RED
+Proc #139 ---> BLACK
+Proc #140 ---> RED
+Proc #141 ---> BLACK
+Proc #142 ---> RED
+Proc #143 ---> BLACK
+Proc #144 ---> RED
+Proc #145 ---> BLACK
+Proc #146 ---> RED
+Proc #147 ---> BLACK
+Proc #148 ---> RED
+Proc #149 ---> BLACK
+Proc #150 ---> RED
+Proc #151 ---> BLACK
+Proc #152 ---> RED
+Proc #153 ---> BLACK
+Proc #154 ---> RED
+Proc #155 ---> BLACK
+Proc #156 ---> RED
+Proc #157 ---> BLACK
+Proc #158 ---> RED
+Proc #159 ---> BLACK
+Proc #160 ---> RED
+Proc #161 ---> BLACK
+Proc #162 ---> RED
+Proc #163 ---> BLACK
+Proc #164 ---> RED
+Proc #165 ---> BLACK
+Proc #166 ---> RED
+Proc #167 ---> BLACK
+Proc #168 ---> RED
+Proc #169 ---> BLACK
+Proc #170 ---> RED
+Proc #171 ---> BLACK
+Proc #172 ---> RED
+Proc #173 ---> BLACK
+Proc #174 ---> RED
+Proc #175 ---> BLACK
+Proc #176 ---> RED
+Proc #177 ---> BLACK
+Proc #178 ---> RED
+Proc #179 ---> BLACK
+Proc #180 ---> RED
+Proc #181 ---> BLACK
+Proc #182 ---> RED
+Proc #183 ---> BLACK
+Proc #184 ---> RED
+Proc #185 ---> BLACK
+Proc #186 ---> RED
+Proc #187 ---> BLACK
+Proc #188 ---> RED
+Proc #189 ---> BLACK
+Proc #190 ---> RED
+Proc #191 ---> BLACK
+Proc #192 ---> RED
+Proc #193 ---> BLACK
+Proc #194 ---> RED
+Proc #195 ---> BLACK
+Proc #196 ---> RED
+Proc #197 ---> BLACK
+Proc #198 ---> RED
+Proc #199 ---> BLACK
+Proc #200 ---> RED
+Proc #201 ---> BLACK
+Proc #202 ---> RED
+Proc #203 ---> BLACK
+Proc #204 ---> RED
+Proc #205 ---> BLACK
+Proc #206 ---> RED
+Proc #207 ---> BLACK
+Proc #208 ---> RED
+Proc #209 ---> BLACK
+Proc #210 ---> RED
+Proc #211 ---> BLACK
+Proc #212 ---> RED
+Proc #213 ---> BLACK
+Proc #214 ---> RED
+Proc #215 ---> BLACK
+Proc #216 ---> RED
+Proc #217 ---> BLACK
+Proc #218 ---> RED
+Proc #219 ---> BLACK
+Proc #220 ---> RED
+Proc #221 ---> BLACK
+Proc #222 ---> RED
+Proc #223 ---> BLACK
+Proc #224 ---> RED
+Proc #225 ---> BLACK
+Proc #226 ---> RED
+Proc #227 ---> BLACK
+Proc #228 ---> RED
+Proc #229 ---> BLACK
+Proc #230 ---> RED
+Proc #231 ---> BLACK
+Proc #232 ---> RED
+Proc #233 ---> BLACK
+Proc #234 ---> RED
+Proc #235 ---> BLACK
+Proc #236 ---> RED
+Proc #237 ---> BLACK
+Proc #238 ---> RED
+Proc #239 ---> BLACK
+Proc #240 ---> RED
+Proc #241 ---> BLACK
+Proc #242 ---> RED
+Proc #243 ---> BLACK
+Proc #244 ---> RED
+Proc #245 ---> BLACK
+Proc #246 ---> RED
+Proc #247 ---> BLACK
+Proc #248 ---> RED
+Proc #249 ---> BLACK
+Proc #250 ---> RED
+Proc #251 ---> BLACK
+Proc #252 ---> RED
+Proc #253 ---> BLACK
+Proc #254 ---> RED
+Proc #255 ---> BLACK
+Proc #256 ---> RED
+Proc #257 ---> BLACK
+Proc #258 ---> RED
+Proc #259 ---> BLACK
+Proc #260 ---> RED
+Proc #261 ---> BLACK
+Proc #262 ---> RED
+Proc #263 ---> BLACK
+Proc #264 ---> RED
+Proc #265 ---> BLACK
+Proc #266 ---> RED
+Proc #267 ---> BLACK
+Proc #268 ---> RED
+Proc #269 ---> BLACK
+Proc #270 ---> RED
+Proc #271 ---> BLACK
+Proc #272 ---> RED
+Proc #273 ---> BLACK
+Proc #274 ---> RED
+Proc #275 ---> BLACK
+Proc #276 ---> RED
+Proc #277 ---> BLACK
+Proc #278 ---> RED
+Proc #279 ---> BLACK
+Proc #280 ---> RED
+Proc #281 ---> BLACK
+Proc #282 ---> RED
+Proc #283 ---> BLACK
+Proc #284 ---> RED
+Proc #285 ---> BLACK
+Proc #286 ---> RED
+Proc #287 ---> BLACK
+Proc #288 ---> RED
+Proc #289 ---> BLACK
+Proc #290 ---> RED
+Proc #291 ---> BLACK
+Proc #292 ---> RED
+Proc #293 ---> BLACK
+Proc #294 ---> RED
+Proc #295 ---> BLACK
+Proc #296 ---> RED
+Proc #297 ---> BLACK
+Proc #298 ---> RED
+Proc #299 ---> BLACK
+Proc #300 ---> RED
+Proc #301 ---> BLACK
+Proc #302 ---> RED
+Proc #303 ---> BLACK
+Proc #304 ---> RED
+Proc #305 ---> BLACK
+Proc #306 ---> RED
+Proc #307 ---> BLACK
+Proc #308 ---> RED
+Proc #309 ---> BLACK
+Proc #310 ---> RED
+Proc #311 ---> BLACK
+Proc #312 ---> RED
+Proc #313 ---> BLACK
+Proc #314 ---> RED
+Proc #315 ---> BLACK
+Proc #316 ---> RED
+Proc #317 ---> BLACK
+Proc #318 ---> RED
+Proc #319 ---> BLACK
+Proc #320 ---> RED
+Proc #321 ---> BLACK
+Proc #322 ---> RED
+Proc #323 ---> BLACK
+Proc #324 ---> RED
+Proc #325 ---> BLACK
+Proc #326 ---> RED
+Proc #327 ---> BLACK
+Proc #328 ---> RED
+Proc #329 ---> BLACK
+Proc #330 ---> RED
+Proc #331 ---> BLACK
+Proc #332 ---> RED
+Proc #333 ---> BLACK
+Proc #334 ---> RED
+Proc #335 ---> BLACK
+Proc #336 ---> RED
+Proc #337 ---> BLACK
+Proc #338 ---> RED
+Proc #339 ---> BLACK
+Proc #340 ---> RED
+Proc #341 ---> BLACK
+Proc #342 ---> RED
+Proc #343 ---> BLACK
+Proc #344 ---> RED
+Proc #345 ---> BLACK
+Proc #346 ---> RED
+Proc #347 ---> BLACK
+Proc #348 ---> RED
+Proc #349 ---> BLACK
+Proc #350 ---> RED
+Proc #351 ---> BLACK
+Proc #352 ---> RED
+Proc #353 ---> BLACK
+Proc #354 ---> RED
+Proc #355 ---> BLACK
+Proc #356 ---> RED
+Proc #357 ---> BLACK
+Proc #358 ---> RED
+Proc #359 ---> BLACK
+Proc #360 ---> RED
+Proc #361 ---> BLACK
+Proc #362 ---> RED
+Proc #363 ---> BLACK
+Proc #364 ---> RED
+Proc #365 ---> BLACK
+Proc #366 ---> RED
+Proc #367 ---> BLACK
+Proc #368 ---> RED
+Proc #369 ---> BLACK
+Proc #370 ---> RED
+Proc #371 ---> BLACK
+Proc #372 ---> RED
+Proc #373 ---> BLACK
+Proc #374 ---> RED
+Proc #375 ---> BLACK
+Proc #376 ---> RED
+Proc #377 ---> BLACK
+Proc #378 ---> RED
+Proc #379 ---> BLACK
+Proc #380 ---> RED
+Proc #381 ---> BLACK
+Proc #382 ---> RED
+Proc #383 ---> BLACK
+Proc #384 ---> RED
+Proc #385 ---> BLACK
+Proc #386 ---> RED
+Proc #387 ---> BLACK
+Proc #388 ---> RED
+Proc #389 ---> BLACK
+Proc #390 ---> RED
+Proc #391 ---> BLACK
+Proc #392 ---> RED
+Proc #393 ---> BLACK
+Proc #394 ---> RED
+Proc #395 ---> BLACK
+Proc #396 ---> RED
+Proc #397 ---> BLACK
+Proc #398 ---> RED
+Proc #399 ---> BLACK
+Proc #400 ---> RED
+Proc #401 ---> BLACK
+Proc #402 ---> RED
+Proc #403 ---> BLACK
+Proc #404 ---> RED
+Proc #405 ---> BLACK
+Proc #406 ---> RED
+Proc #407 ---> BLACK
+Proc #408 ---> RED
+Proc #409 ---> BLACK
+Proc #410 ---> RED
+Proc #411 ---> BLACK
+Proc #412 ---> RED
+Proc #413 ---> BLACK
+Proc #414 ---> RED
+Proc #415 ---> BLACK
+Proc #416 ---> RED
+Proc #417 ---> BLACK
+Proc #418 ---> RED
+Proc #419 ---> BLACK
+Proc #420 ---> RED
+Proc #421 ---> BLACK
+Proc #422 ---> RED
+Proc #423 ---> BLACK
+Proc #424 ---> RED
+Proc #425 ---> BLACK
+Proc #426 ---> RED
+Proc #427 ---> BLACK
+Proc #428 ---> RED
+Proc #429 ---> BLACK
+Proc #430 ---> RED
+Proc #431 ---> BLACK
+Proc #432 ---> RED
+Proc #433 ---> BLACK
+Proc #434 ---> RED
+Proc #435 ---> BLACK
+Proc #436 ---> RED
+Proc #437 ---> BLACK
+Proc #438 ---> RED
+Proc #439 ---> BLACK
+Proc #440 ---> RED
+Proc #441 ---> BLACK
+Proc #442 ---> RED
+Proc #443 ---> BLACK
+Proc #444 ---> RED
+Proc #445 ---> BLACK
+Proc #446 ---> RED
+Proc #447 ---> BLACK
+Proc #448 ---> RED
+Proc #449 ---> BLACK
+Proc #450 ---> RED
+Proc #451 ---> BLACK
+Proc #452 ---> RED
+Proc #453 ---> BLACK
+Proc #454 ---> RED
+Proc #455 ---> BLACK
+Proc #456 ---> RED
+Proc #457 ---> BLACK
+Proc #458 ---> RED
+Proc #459 ---> BLACK
+Proc #460 ---> RED
+Proc #461 ---> BLACK
+Proc #462 ---> RED
+Proc #463 ---> BLACK
+Proc #464 ---> RED
+Proc #465 ---> BLACK
+Proc #466 ---> RED
+Proc #467 ---> BLACK
+Proc #468 ---> RED
+Proc #469 ---> BLACK
+Proc #470 ---> RED
+Proc #471 ---> BLACK
+Proc #472 ---> RED
+Proc #473 ---> BLACK
+Proc #474 ---> RED
+Proc #475 ---> BLACK
+Proc #476 ---> RED
+Proc #477 ---> BLACK
+Proc #478 ---> RED
+Proc #479 ---> BLACK
+Proc #480 ---> RED
+Proc #481 ---> BLACK
+Proc #482 ---> RED
+Proc #483 ---> BLACK
+Proc #484 ---> RED
+Proc #485 ---> BLACK
+Proc #486 ---> RED
+Proc #487 ---> BLACK
+Proc #488 ---> RED
+Proc #489 ---> BLACK
+Proc #490 ---> RED
+Proc #491 ---> BLACK
+Proc #492 ---> RED
+Proc #493 ---> BLACK
+Proc #494 ---> RED
+Proc #495 ---> BLACK
+Proc #496 ---> RED
+Proc #497 ---> BLACK
+Proc #498 ---> RED
+Proc #499 ---> BLACK
+Proc #500 ---> RED
+Proc #501 ---> BLACK
+Proc #502 ---> RED
+Proc #503 ---> BLACK
+Proc #504 ---> RED
+Proc #505 ---> BLACK
+Proc #506 ---> RED
+Proc #507 ---> BLACK
+Proc #508 ---> RED
+Proc #509 ---> BLACK
+Proc #510 ---> RED
+Proc #511 ---> BLACK
+Proc #512 ---> RED
+Proc #513 ---> BLACK
+Proc #514 ---> RED
+Proc #515 ---> BLACK
+Proc #516 ---> RED
+Proc #517 ---> BLACK
+Proc #518 ---> RED
+Proc #519 ---> BLACK
+Proc #520 ---> RED
+Proc #521 ---> BLACK
+Proc #522 ---> RED
+Proc #523 ---> BLACK
+Proc #524 ---> RED
+Proc #525 ---> BLACK
+Proc #526 ---> RED
+Proc #527 ---> BLACK
+Proc #528 ---> RED
+Proc #529 ---> BLACK
+Proc #530 ---> RED
+Proc #531 ---> BLACK
+Proc #532 ---> RED
+Proc #533 ---> BLACK
+Proc #534 ---> RED
+Proc #535 ---> BLACK
+Proc #536 ---> RED
+Proc #537 ---> BLACK
+Proc #538 ---> RED
+Proc #539 ---> BLACK
+Proc #540 ---> RED
+Proc #541 ---> BLACK
+Proc #542 ---> RED
+Proc #543 ---> BLACK
+Proc #544 ---> RED
+Proc #545 ---> BLACK
+Proc #546 ---> RED
+Proc #547 ---> BLACK
+Proc #548 ---> RED
+Proc #549 ---> BLACK
+Proc #550 ---> RED
+Proc #551 ---> BLACK
+Proc #552 ---> RED
+Proc #553 ---> BLACK
+Proc #554 ---> RED
+Proc #555 ---> BLACK
+Proc #556 ---> RED
+Proc #557 ---> BLACK
+Proc #558 ---> RED
+Proc #559 ---> BLACK
+Proc #560 ---> RED
+Proc #561 ---> BLACK
+Proc #562 ---> RED
+Proc #563 ---> BLACK
+Proc #564 ---> RED
+Proc #565 ---> BLACK
+Proc #566 ---> RED
+Proc #567 ---> BLACK
+Proc #568 ---> RED
+Proc #569 ---> BLACK
+Proc #570 ---> RED
+Proc #571 ---> BLACK
+Proc #572 ---> RED
+Proc #573 ---> BLACK
+Proc #574 ---> RED
+Proc #575 ---> BLACK
+Proc #576 ---> RED
+Proc #577 ---> BLACK
+Proc #578 ---> RED
+Proc #579 ---> BLACK
+Proc #580 ---> RED
+Proc #581 ---> BLACK
+Proc #582 ---> RED
+Proc #583 ---> BLACK
+Proc #584 ---> RED
+Proc #585 ---> BLACK
+Proc #586 ---> RED
+Proc #587 ---> BLACK
+Proc #588 ---> RED
+Proc #589 ---> BLACK
+Proc #590 ---> RED
+Proc #591 ---> BLACK
+Proc #592 ---> RED
+Proc #593 ---> BLACK
+Proc #594 ---> RED
+Proc #595 ---> BLACK
+Proc #596 ---> RED
+Proc #597 ---> BLACK
+Proc #598 ---> RED
+Proc #599 ---> BLACK
+Proc #600 ---> RED
+Proc #601 ---> BLACK
+Proc #602 ---> RED
+Proc #603 ---> BLACK
+Proc #604 ---> RED
+Proc #605 ---> BLACK
+Proc #606 ---> RED
+Proc #607 ---> BLACK
+Proc #608 ---> RED
+Proc #609 ---> BLACK
+Proc #610 ---> RED
+Proc #611 ---> BLACK
+Proc #612 ---> RED
+Proc #613 ---> BLACK
+Proc #614 ---> RED
+Proc #615 ---> BLACK
+Proc #616 ---> RED
+Proc #617 ---> BLACK
+Proc #618 ---> RED
+Proc #619 ---> BLACK
+Proc #620 ---> RED
+Proc #621 ---> BLACK
+Proc #622 ---> RED
+Proc #623 ---> BLACK
+Proc #624 ---> RED
+Proc #625 ---> BLACK
+Proc #626 ---> RED
+Proc #627 ---> BLACK
+Proc #628 ---> RED
+Proc #629 ---> BLACK
+Proc #630 ---> RED
+Proc #631 ---> BLACK
+Proc #632 ---> RED
+Proc #633 ---> BLACK
+Proc #634 ---> RED
+Proc #635 ---> BLACK
+Proc #636 ---> RED
+Proc #637 ---> BLACK
+Proc #638 ---> RED
+Proc #639 ---> BLACK
+Proc #640 ---> RED
+Proc #641 ---> BLACK
+Proc #642 ---> RED
+Proc #643 ---> BLACK
+Proc #644 ---> RED
+Proc #645 ---> BLACK
+Proc #646 ---> RED
+Proc #647 ---> BLACK
+Proc #648 ---> RED
+Proc #649 ---> BLACK
+Proc #650 ---> RED
+Proc #651 ---> BLACK
+Proc #652 ---> RED
+Proc #653 ---> BLACK
+Proc #654 ---> RED
+Proc #655 ---> BLACK
+Proc #656 ---> RED
+Proc #657 ---> BLACK
+Proc #658 ---> RED
+Proc #659 ---> BLACK
+Proc #660 ---> RED
+Proc #661 ---> BLACK
+Proc #662 ---> RED
+Proc #663 ---> BLACK
+Proc #664 ---> RED
+Proc #665 ---> BLACK
+Proc #666 ---> RED
+Proc #667 ---> BLACK
+Proc #668 ---> RED
+Proc #669 ---> BLACK
+Proc #670 ---> RED
+Proc #671 ---> BLACK
+Proc #672 ---> RED
+Proc #673 ---> BLACK
+Proc #674 ---> RED
+Proc #675 ---> BLACK
+Proc #676 ---> RED
+Proc #677 ---> BLACK
+Proc #678 ---> RED
+Proc #679 ---> BLACK
+Proc #680 ---> RED
+Proc #681 ---> BLACK
+Proc #682 ---> RED
+Proc #683 ---> BLACK
+Proc #684 ---> RED
+Proc #685 ---> BLACK
+Proc #686 ---> RED
+Proc #687 ---> BLACK
+Proc #688 ---> RED
+Proc #689 ---> BLACK
+Proc #690 ---> RED
+Proc #691 ---> BLACK
+Proc #692 ---> RED
+Proc #693 ---> BLACK
+Proc #694 ---> RED
+Proc #695 ---> BLACK
+Proc #696 ---> RED
+Proc #697 ---> BLACK
+Proc #698 ---> RED
+Proc #699 ---> BLACK
+Proc #700 ---> RED
+Proc #701 ---> BLACK
+Proc #702 ---> RED
+Proc #703 ---> BLACK
+Proc #704 ---> RED
+Proc #705 ---> BLACK
+Proc #706 ---> RED
+Proc #707 ---> BLACK
+Proc #708 ---> RED
+Proc #709 ---> BLACK
+Proc #710 ---> RED
+Proc #711 ---> BLACK
+Proc #712 ---> RED
+Proc #713 ---> BLACK
+Proc #714 ---> RED
+Proc #715 ---> BLACK
+Proc #716 ---> RED
+Proc #717 ---> BLACK
+Proc #718 ---> RED
+Proc #719 ---> BLACK
+Proc #720 ---> RED
+Proc #721 ---> BLACK
+Proc #722 ---> RED
+Proc #723 ---> BLACK
+Proc #724 ---> RED
+Proc #725 ---> BLACK
+Proc #726 ---> RED
+Proc #727 ---> BLACK
+Proc #728 ---> RED
+99999999999999
+
+
+9
+
+
+9
+
+
+
+
+
+
+
+
+
+999999999999
+9
+
+9
+
+
+
+
+
+
+
+
+
+
+9
+9
+9999999999
+9
+
+
+99
+99
+
+
+
+
+
+
+
+
+9
+
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.7544
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 7028696
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+10
+
+10
+10
+10
+10
+101010101010101010
+10
+
+
+
+
+
+
+
+101010
+
+10
+
+10
+
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010101010101010101010
+
+1010
+
+
+
+10
+
+
+10
+
+
+
+
+
+10
+101010
+10
+
+10
+10
+10
+10
+
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+10
+10101010101010
+
+10
+
+10
+101010
+10
+10
+
+
+
+
+10
+
+
+freq(Hz): 5e+10 wavelen(m): 0.006
+lx: 0.012 ly: 0.012
+dx: 2.58532e-05
+nnodesx: 464.159
+ 
+********* Parametric Model 3D Summary **********
+Model Name: Empty
+*********************************************
+ 
+10
+1010
+
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+1010
+
+10101010101010101010101010
+
+
+
+
+
+
+
+
+101010
+
+
+
+
+
+10
+10
+
+10
+101010
+10
+
+
+10
+1010
+
+10
+10
+10
+10101010101010101010
+
+
+1010
+1010
+
+
+10
+
+
+
+
+
+
+
+10
+10
+10
+101010
+
+
+10
+1010
+
+10
+10
+1010
+
+10
+10
+10
+101010101010101010101010101010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+10
+1010
+
+10
+10
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+1010
+
+1010
+10
+10
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+1010
+
+1010
+
+10
+10
+1010
+
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+101010
+
+
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+101010
+10
+10
+10
+1010
+
+
+1010
+
+10
+10
+
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+1010
+10
+
+10
+1010
+10
+10
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+1010
+
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+101010
+
+
+10
+10
+10
+10
+10
+101010
+
+
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10101010
+
+
+
+10
+10
+10
+10
+1010
+
+1010
+
+1010
+10
+
+1010
+
+10
+1010
+
+10
+101010
+
+
+101010
+
+
+10
+10
+10
+1010
+
+1010
+
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+1010
+10
+
+10
+1010
+
+101010101010101010
+
+
+
+
+
+
+101010
+10
+1010
+
+
+
+
+
+The proc grid looks like this: 
+Size (10 x 10 x 10)
+(0, 0, 0) ===> Proc #0
+(0, 0, 1) ===> Proc #100
+(0, 0, 2) ===> Proc #200
+(0, 0, 3) ===> Proc #300
+(0, 0, 4) ===> Proc #400
+(0, 0, 5) ===> Proc #500
+(0, 0, 1010
+
+1010
+
+6) ===> Proc #10
+10
+600
+(0, 010
+, 710
+) ===> Proc #7001010
+
+
+(0, 010
+, 8) ===> Proc #800
+(0, 0, 10
+109) ===> Proc #
+900
+(0, 110
+, 0) ===> Proc #1010
+
+(10
+0, 1, 1) ===> Proc #110
+(0, 1, 2) ===> Proc #210
+(0, 1, 3) ===> Proc #310
+(0, 1, 4) ===> Proc #410
+(0, 1, 5) ===> Proc #510
+(0, 1, 6) ===> Proc #610
+(0, 1, 7) ===> Proc #710
+(0, 1, 8) ===> Proc #810
+(0, 1, 9) ===> Proc #910
+(0, 210
+10
+10
+, 0) ===> Proc #20
+(0, 2, 1) ===> Proc #10
+120
+1010101010101010
+
+101010
+
+1010
+
+
+
+
+1010
+10
+
+
+
+
+
+(01010
+
+10, 2
+10
+, 2) ===> Proc #10
+10220
+
+(010
+, 2, 3) ===> Proc #320
+(0, 2, 4) ===> Proc #420
+(010
+10
+, 210
+10
+, 5) ===> Proc #10
+10
+520
+(1010
+100, 2
+10
+
+10
+, 6) ===> Proc #620
+101010
+
+10
+
+1010(0, 
+
+10
+10
+2, 7) ===> Proc #720
+(0, 10
+2, 10
+8) ===> Proc #820
+(0, 2, 9) ===> Proc #920
+(0, 3, 0) ===> Proc #30
+(0, 3, 1) ===> Proc #130
+(0, 3, 2) ===> Proc #230
+(0, 3, 3) ===> Proc #330
+(0, 3, 4) ===> Proc #430
+(0, 3, 5) ===> Proc #530
+(0, 3, 6) ===> Proc #630
+(0, 3, 7) ===> Proc #730
+(0, 3, 8) ===> Proc #830
+(0, 3, 9) ===> Proc #930
+(0, 4, 0) ===> Proc #40
+(0, 4, 1) ===> Proc #140
+(101010101010101010101010
+10
+
+
+
+
+
+101010
+
+
+
+
+
+
+
+
+0, 4, 2) ===> Proc #240
+(0, 4, 3) ===> Proc #340
+(0, 4, 4) ===> Proc #440
+(0, 4, 5) ===> Proc #540
+(0, 4, 6) ===> Proc #10
+1010
+
+101010
+
+
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010101010101010101010101010
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+10
+
+10
+1010
+
+10
+1010
+
+1010
+
+10
+10
+1010
+
+10
+10
+10
+1010
+1010
+10
+10
+10
+10
+
+1010
+
+1010
+
+
+10
+10
+10
+1010
+
+1010
+
+10
+10
+10
+10
+10
+10
+1010
+
+10
+1010
+
+10
+640
+(0, 4, 7) ===> Proc #740
+(0, 4, 8) ===> Proc #840
+(0, 4, 9) ===> Proc #940
+(0, 5, 0) ===> Proc #50
+(0, 5, 1) ===> Proc #150
+(0, 5, 2) ===> Proc #250
+(0, 5, 3) ===> Proc #350
+(0, 5, 4) ===> Proc #450
+(0, 5, 5) ===> Proc #550
+(0, 5, 6) ===> Proc #650
+(0, 5, 7) ===> Proc #750
+(0, 5, 8) ===> Proc #850
+(0, 5, 9) ===> Proc #950
+(0, 6, 0) ===> Proc #60
+(0, 6, 1) ===> Proc #160
+(0, 6, 2) ===> Proc #260
+(0, 6, 3) ===> Proc #360
+(0, 6, 4) ===> Proc #460
+(0, 6, 5) ===> Proc #560
+(0, 6, 6) ===> Proc #660
+(0, 6, 7) ===> Proc #760
+(0, 6, 8) ===> Proc #860
+(0, 6, 9) ===> Proc #960
+(0, 7, 0) ===> Proc #70
+(0, 7, 1) ===> Proc #170
+(0, 7, 2) ===> Proc #270
+(0, 7, 3) ===> Proc #370
+(0, 7, 4) ===> Proc #470
+(0, 7, 5) ===> Proc #570
+(0, 7, 6) ===> Proc #670
+(0, 7, 7) ===> Proc #770
+(0, 7, 8) ===> Proc #870
+(0, 7, 9) ===> Proc #970
+(0, 8, 0) ===> Proc #80
+(0, 8, 1) ===> Proc #180
+(0, 8, 2) ===> Proc #280
+(0, 8, 3) ===> Proc #380
+(0, 8, 4) ===> Proc #480
+(0, 8, 5) ===> Proc #580
+(0, 8, 6) ===> Proc #680
+(0, 8, 7) ===> Proc #780
+(0, 8, 8) ===> Proc #880
+(0, 8, 9) ===> Proc #980
+(0, 9, 0) ===> Proc #90
+(0, 9, 1) ===> Proc #190
+(0, 9, 2) ===> Proc #290
+(0, 9, 3) ===> Proc #390
+(0, 9, 4) ===> Proc #490
+(0, 9, 5) ===> Proc #590
+(0, 9, 6) ===> Proc #690
+(0, 9, 7) ===> Proc #790
+(0, 9, 8) ===> Proc #890
+(0, 9, 9) ===> Proc #990
+(1, 0, 0) ===> Proc #1
+(1, 0, 1) ===> Proc #101
+(1, 0, 2) ===> Proc #201
+(1, 0, 3) ===> Proc #301
+(1, 0, 4) ===> Proc #401
+(1, 0, 5) ===> Proc #501
+(1, 0, 6) ===> Proc #601
+(1, 0, 7) ===> Proc #701
+(1, 0, 8) ===> Proc #801
+(1, 0, 9) ===> Proc #901
+(1, 1, 0) ===> Proc #11
+(1, 1, 1) ===> Proc #111
+(1, 1, 2) ===> Proc #211
+(1, 1, 3) ===> Proc #311
+(1, 1, 4) ===> Proc #411
+(1, 1, 5) ===> Proc #511
+(1, 1, 6) ===> Proc #611
+(1, 1, 7) ===> Proc #711
+(1, 1, 8) ===> Proc #811
+(1, 1, 9) ===> Proc #911
+(1, 2, 0) ===> Proc #21
+(1, 2, 1) ===> Proc #121
+(1, 2, 2) ===> Proc #221
+(1, 2, 3) ===> Proc #321
+(1, 2, 4) ===> Proc #421
+(1, 2, 5) ===> Proc #521
+(1, 2, 6) ===> Proc #621
+(1, 2, 7) ===> Proc #721
+(1, 2, 8) ===> Proc #821
+(1, 2, 9) ===> Proc #921
+(1, 3, 0) ===> Proc #31
+(1, 3, 1) ===> Proc #131
+(1, 3, 2) ===> Proc #231
+(1, 3, 3) ===> Proc #331
+(1, 3, 4) ===> Proc #431
+(1, 3, 5) ===> Proc #531
+(1, 3, 6) ===> Proc #631
+(1, 3, 7) ===> Proc #731
+(1, 3, 8) ===> Proc #831
+(1, 3, 9) ===> Proc #931
+(1, 4, 0) ===> Proc #41
+(1, 4, 1) ===> Proc #141
+(1, 4, 2) ===> Proc #241
+(1, 4, 3) ===> Proc #341
+(1, 4, 4) ===> Proc #441
+(1, 4, 5) ===> Proc #541
+(1, 4, 6) ===> Proc #641
+(1, 4, 7) ===> Proc #741
+(1, 4, 8) ===> Proc #841
+(1, 4, 9) ===> Proc #941
+(1, 5, 0) ===> Proc #51
+(1, 5, 1) ===> Proc #151
+(1, 5, 2) ===> Proc #251
+(1, 5, 3) ===> Proc #351
+(1, 5, 4) ===> Proc #451
+(1, 5, 5) ===> Proc #551
+(1, 5, 6) ===> Proc #651
+(1, 5, 7) ===> Proc #751
+(1, 5, 8) ===> Proc #851
+(1, 5, 9) ===> Proc #951
+(1, 6, 0) ===> Proc #61
+(1, 6, 1) ===> Proc #161
+(1, 6, 2) ===> Proc #261
+(1, 6, 3) ===> Proc #361
+(1, 6, 4) ===> Proc #461
+(1, 6, 5) ===> Proc #561
+(1, 6, 6) ===> Proc #661
+(1, 6, 7) ===> Proc #761
+(1, 6, 8) ===> Proc #861
+(1, 6, 9) ===> Proc #961
+(1, 7, 0) ===> Proc #71
+(1, 7, 1) ===> Proc #171
+(1, 7, 2) ===> Proc #271
+(1, 7, 3) ===> Proc #371
+(1, 7, 4) ===> Proc #471
+(1, 7, 5) ===> Proc #571
+(1, 7, 6) ===> Proc #671
+(1, 7, 7) ===> Proc #771
+(1, 7, 8) ===> Proc #871
+(1, 7, 9) ===> Proc #971
+(1, 8, 0) ===> Proc #81
+(1, 8, 1) ===> Proc #181
+(1, 8, 2) ===> Proc #281
+(1, 8, 3) ===> Proc #381
+(1, 8, 4) ===> Proc #481
+(1, 8, 5) ===> Proc #581
+(1, 8, 6) ===> Proc #681
+(1, 8, 7) ===> Proc #781
+(1, 8, 8) ===> Proc #881
+(1, 8, 9) ===> Proc #981
+(1, 9, 0) ===> Proc #91
+(1, 9, 1) ===> Proc #191
+(1, 9, 2) ===> Proc #291
+(1, 9, 3) ===> Proc #391
+(1, 9, 4) ===> Proc #491
+(1, 9, 5) ===> Proc #591
+(1, 9, 6) ===> Proc #691
+(1, 9, 7) ===> Proc #791
+(1, 9, 8) ===> Proc #891
+(1, 9, 9) ===> Proc #991
+(2, 0, 0) ===> Proc #2
+(2, 0, 1) ===> Proc #102
+(2, 0, 2) ===> Proc #202
+(2, 0, 3) ===> Proc #302
+(2, 0, 4) ===> Proc #402
+(2, 0, 5) ===> Proc #502
+(2, 0, 6) ===> Proc #602
+(2, 0, 7) ===> Proc #702
+(2, 0, 8) ===> Proc #802
+(2, 0, 9) ===> Proc #902
+(2, 1, 0) ===> Proc #12
+(2, 1, 1) ===> Proc #112
+(2, 1, 2) ===> Proc #212
+(2, 1, 3) ===> Proc #312
+(2, 1, 4) ===> Proc #412
+(2, 1, 5) ===> Proc #512
+(2, 1, 6) ===> Proc #612
+(2, 1, 7) ===> Proc #712
+(2, 1, 8) ===> Proc #812
+(2, 1, 9) ===> Proc #912
+(2, 2, 0) ===> Proc #22
+(2, 2, 1) ===> Proc #122
+(2, 2, 2) ===> Proc #222
+(2, 2, 3) ===> Proc #322
+(2, 2, 4) ===> Proc #422
+(2, 2, 5) ===> Proc #522
+(2, 2, 6) ===> Proc #622
+(2, 2, 7) ===> Proc #722
+(2, 2, 8) ===> Proc #822
+(2, 2, 9) ===> Proc #922
+(2, 3, 0) ===> Proc #32
+(2, 3, 1) ===> Proc #132
+(2, 3, 2) ===> Proc #232
+(2, 3, 3) ===> Proc #332
+(2, 3, 4) ===> Proc #432
+(2, 3, 5) ===> Proc #532
+(2, 3, 6) ===> Proc #632
+(2, 3, 7) ===> Proc #732
+(2, 3, 8) ===> Proc #832
+(2, 3, 9) ===> Proc #932
+(2, 4, 0) ===> Proc #42
+(2, 4, 1) ===> Proc #142
+(2, 4, 2) ===> Proc #242
+(2, 4, 3) ===> Proc #342
+(2, 4, 4) ===> Proc #442
+(2, 4, 5) ===> Proc #542
+(2, 4, 6) ===> Proc #642
+(2, 4, 7) ===> Proc #742
+(2, 4, 8) ===> Proc #842
+(2, 4, 9) ===> Proc #942
+(2, 5, 0) ===> Proc #52
+(2, 5, 1) ===> Proc #152
+(2, 5, 2) ===> Proc #252
+(2, 5, 3) ===> Proc #352
+(2, 5, 4) ===> Proc #452
+(2, 5, 5) ===> Proc #552
+(2, 5, 6) ===> Proc #652
+(2, 5, 7) ===> Proc #752
+(2, 5, 8) ===> Proc #852
+(2, 5, 9) ===> Proc #952
+(2, 6, 0) ===> Proc #62
+(2, 6, 1) ===> Proc #162
+(2, 6, 2) ===> Proc #262
+(2, 6, 3) ===> Proc #362
+(2, 6, 4) ===> Proc #462
+(2, 6, 5) ===> Proc #562
+(2, 6, 6) ===> Proc #662
+(2, 6, 7) ===> Proc #762
+(2, 6, 8) ===> Proc #862
+(2, 6, 9) ===> Proc #962
+(2, 7, 0) ===> Proc #72
+(2, 7, 1) ===> Proc #172
+(2, 7, 2) ===> Proc #272
+(2, 7, 3) ===> Proc #372
+(2, 7, 4) ===> Proc #472
+(2, 7, 5) ===> Proc #572
+(2, 7, 6) ===> Proc #672
+(2, 7, 7) ===> Proc #772
+(2, 7, 8) ===> Proc #872
+(2, 7, 9) ===> Proc #972
+(2, 8, 0) ===> Proc #82
+(2, 8, 1) ===> Proc #182
+(2, 8, 2) ===> Proc #282
+(2, 8, 3) ===> Proc #382
+(2, 8, 4) ===> Proc #482
+(2, 8, 5) ===> Proc #582
+(2, 8, 6) ===> Proc #682
+(2, 8, 7) ===> Proc #782
+(2, 8, 8) ===> Proc #882
+(2, 8, 9) ===> Proc #982
+(2, 9, 0) ===> Proc #92
+(2, 9, 1) ===> Proc #192
+(2, 9, 2) ===> Proc #292
+(2, 9, 3) ===> Proc #392
+(2, 9, 4) ===> Proc #492
+(2, 9, 5) ===> Proc #592
+(2, 9, 6) ===> Proc #692
+(2, 9, 7) ===> Proc #792
+(2, 9, 8) ===> Proc #892
+(2, 9, 9) ===> Proc #992
+(3, 0, 0) ===> Proc #3
+(3, 0, 1) ===> Proc #103
+(3, 0, 2) ===> Proc #203
+(3, 0, 3) ===> Proc #303
+(3, 0, 4) ===> Proc #403
+(3, 0, 5) ===> Proc #503
+(3, 0, 6) ===> Proc #603
+(3, 0, 7) ===> Proc #703
+(3, 0, 8) ===> Proc #803
+(3, 0, 9) ===> Proc #903
+(3, 1, 0) ===> Proc #13
+(3, 1, 1) ===> Proc #113
+(3, 1, 2) ===> Proc #213
+(3, 1, 3) ===> Proc #313
+(3, 1, 4) ===> Proc #413
+(3, 1, 5) ===> Proc #513
+(3, 1, 6) ===> Proc #613
+(3, 1, 7) ===> Proc #713
+(3, 1, 8) ===> Proc #813
+(3, 1, 9) ===> Proc #913
+(3, 2, 0) ===> Proc #23
+(3, 2, 1) ===> Proc #123
+(3, 2, 2) ===> Proc #223
+(3, 2, 3) ===> Proc #323
+(3, 2, 4) ===> Proc #423
+(3, 2, 5) ===> Proc #523
+(3, 2, 6) ===> Proc #623
+(3, 2, 7) ===> Proc #723
+(3, 2, 8) ===> Proc #823
+(3, 2, 9) ===> Proc #923
+(3, 3, 0) ===> Proc #33
+(3, 3, 1) ===> Proc #133
+(3, 3, 2) ===> Proc #233
+(3, 3, 3) ===> Proc #333
+(3, 3, 4) ===> Proc #433
+(3, 3, 5) ===> Proc #533
+(3, 3, 6) ===> Proc #633
+(3, 3, 7) ===> Proc #733
+(3, 3, 8) ===> Proc #833
+(3, 3, 9) ===> Proc #933
+(3, 4, 0) ===> Proc #43
+(3, 4, 1) ===> Proc #143
+(3, 4, 2) ===> Proc #243
+(3, 4, 3) ===> Proc #343
+(3, 4, 4) ===> Proc #443
+(3, 4, 5) ===> Proc #543
+(3, 4, 6) ===> Proc #643
+(3, 4, 7) ===> Proc #743
+(3, 4, 8) ===> Proc #843
+(3, 4, 9) ===> Proc #943
+(3, 5, 0) ===> Proc #53
+(3, 5, 1) ===> Proc #153
+(3, 5, 2) ===> Proc #253
+(3, 5, 3) ===> Proc #353
+(3, 5, 4) ===> Proc #453
+(3, 5, 5) ===> Proc #553
+(3, 5, 6) ===> Proc #653
+(3, 5, 7) ===> Proc #753
+(3, 5, 8) ===> Proc #853
+(3, 5, 9) ===> Proc #953
+(3, 6, 0) ===> Proc #63
+(3, 6, 1) ===> Proc #163
+(3, 6, 2) ===> Proc #263
+(3, 6, 3) ===> Proc #363
+(3, 6, 4) ===> Proc #463
+(3, 6, 5) ===> Proc #563
+(3, 6, 6) ===> Proc #663
+(3, 6, 7) ===> Proc #763
+(3, 6, 8) ===> Proc #863
+(3, 6, 9) ===> Proc #963
+(3, 7, 0) ===> Proc #73
+(3, 7, 1) ===> Proc #173
+(3, 7, 2) ===> Proc #273
+(3, 7, 3) ===> Proc #373
+(3, 7, 4) ===> Proc #473
+(3, 7, 5) ===> Proc #573
+(3, 7, 6) ===> Proc #673
+(3, 7, 7) ===> Proc #773
+(3, 7, 8) ===> Proc #873
+(3, 7, 9) ===> Proc #973
+(3, 8, 0) ===> Proc #83
+(3, 8, 1) ===> Proc #183
+(3, 8, 2) ===> Proc #283
+(3, 8, 3) ===> Proc #383
+(3, 8, 4) ===> Proc #483
+(3, 8, 5) ===> Proc #583
+(3, 8, 6) ===> Proc #683
+(3, 8, 7) ===> Proc #783
+(3, 8, 8) ===> Proc #883
+(3, 8, 9) ===> Proc #983
+(3, 9, 0) ===> Proc #93
+(3, 9, 1) ===> Proc #193
+(3, 9, 2) ===> Proc #293
+(3, 9, 3) ===> Proc #393
+(3, 9, 4) ===> Proc #493
+(3, 9, 5) ===> Proc #593
+(3, 9, 6) ===> Proc #693
+(3, 9, 7) ===> Proc #793
+(3, 9, 8) ===> Proc #893
+(3, 9, 9) ===> Proc #993
+(4, 0, 0) ===> Proc #4
+(4, 0, 1) ===> Proc #104
+(4, 0, 2) ===> Proc #204
+(4, 0, 3) ===> Proc #304
+(4, 0, 4) ===> Proc #404
+(4, 0, 5) ===> Proc #504
+(4, 0, 6) ===> Proc #604
+(4, 0, 7) ===> Proc #704
+(4, 0, 8) ===> Proc #804
+(4, 0, 9) ===> Proc #904
+(4, 1, 0) ===> Proc #14
+(4, 1, 1) ===> Proc #114
+(4, 1, 2) ===> Proc #214
+(4, 1, 3) ===> Proc #314
+(4, 1, 4) ===> Proc #414
+(4, 1, 5) ===> Proc #514
+(4, 1, 6) ===> Proc #614
+(4, 1, 7) ===> Proc #714
+(4, 1, 8) ===> Proc #814
+(4, 1, 9) ===> Proc #914
+(4, 2, 0) ===> Proc #24
+(4, 2, 1) ===> Proc #124
+(4, 2, 2) ===> Proc #224
+(4, 2, 3) ===> Proc #324
+(4, 2, 4) ===> Proc #424
+(4, 2, 5) ===> Proc #524
+(4, 2, 6) ===> Proc #624
+(4, 2, 7) ===> Proc #724
+(4, 2, 8) ===> Proc #824
+(4, 2, 9) ===> Proc #924
+(4, 3, 0) ===> Proc #34
+(4, 3, 1) ===> Proc #134
+(4, 3, 2) ===> Proc #234
+(4, 3, 3) ===> Proc #334
+(4, 3, 4) ===> Proc #434
+(4, 3, 5) ===> Proc #534
+(4, 3, 6) ===> Proc #634
+(4, 3, 7) ===> Proc #734
+(4, 3, 8) ===> Proc #834
+(4, 3, 9) ===> Proc #934
+(4, 4, 0) ===> Proc #44
+(4, 4, 1) ===> Proc #144
+(4, 4, 2) ===> Proc #244
+(4, 4, 3) ===> Proc #344
+(4, 4, 4) ===> Proc #444
+(4, 4, 5) ===> Proc #544
+(4, 4, 6) ===> Proc #644
+(4, 4, 7) ===> Proc #744
+(4, 4, 8) ===> Proc #844
+(4, 4, 9) ===> Proc #944
+(4, 5, 0) ===> Proc #54
+(4, 5, 1) ===> Proc #154
+(4, 5, 2) ===> Proc #254
+(4, 5, 3) ===> Proc #354
+(4, 5, 4) ===> Proc #454
+(4, 5, 5) ===> Proc #554
+(4, 5, 6) ===> Proc #654
+(4, 5, 7) ===> Proc #754
+(4, 5, 8) ===> Proc #854
+(4, 5, 9) ===> Proc #954
+(4, 6, 0) ===> Proc #64
+(4, 6, 1) ===> Proc #164
+(4, 6, 2) ===> Proc #264
+(4, 6, 3) ===> Proc #364
+(4, 6, 4) ===> Proc #464
+(4, 6, 5) ===> Proc #564
+(4, 6, 6) ===> Proc #664
+(4, 6, 7) ===> Proc #764
+(4, 6, 8) ===> Proc #864
+(4, 6, 9) ===> Proc #964
+(4, 7, 0) ===> Proc #74
+(4, 7, 1) ===> Proc #174
+(4, 7, 2) ===> Proc #274
+(4, 7, 3) ===> Proc #374
+(4, 7, 4) ===> Proc #474
+(4, 7, 5) ===> Proc #574
+(4, 7, 6) ===> Proc #674
+(4, 7, 7) ===> Proc #774
+(4, 7, 8) ===> Proc #874
+(4, 7, 9) ===> Proc #974
+(4, 8, 0) ===> Proc #84
+(4, 8, 1) ===> Proc #184
+(4, 8, 2) ===> Proc #284
+(4, 8, 3) ===> Proc #384
+(4, 8, 4) ===> Proc #484
+(4, 8, 5) ===> Proc #584
+(4, 8, 6) ===> Proc #684
+(4, 8, 7) ===> Proc #784
+(4, 8, 8) ===> Proc #884
+(4, 8, 9) ===> Proc #984
+(4, 9, 0) ===> Proc #94
+(4, 9, 1) ===> Proc #194
+(4, 9, 2) ===> Proc #294
+(4, 9, 3) ===> Proc #394
+(4, 9, 4) ===> Proc #494
+(4, 9, 5) ===> Proc #594
+(4, 9, 6) ===> Proc #694
+(4, 9, 7) ===> Proc #794
+(4, 9, 8) ===> Proc #894
+(4, 9, 9) ===> Proc #994
+(5, 0, 0) ===> Proc #5
+(5, 0, 1) ===> Proc #105
+(5, 0, 2) ===> Proc #205
+(5, 0, 3) ===> Proc #305
+(5, 0, 4) ===> Proc #405
+(5, 0, 5) ===> Proc #505
+(5, 0, 6) ===> Proc #605
+(5, 0, 7) ===> Proc #705
+(5, 0, 8) ===> Proc #805
+(5, 0, 9) ===> Proc #905
+(5, 1, 0) ===> Proc #15
+(5, 1, 1) ===> Proc #115
+(5, 1, 2) ===> Proc #215
+(5, 1, 3) ===> Proc #315
+(5, 1, 4) ===> Proc #415
+(5, 1, 5) ===> Proc #515
+(5, 1, 6) ===> Proc #615
+(5, 1, 7) ===> Proc #715
+(5, 1, 8) ===> Proc #815
+(5, 1, 9) ===> Proc #915
+(5, 2, 0) ===> Proc #25
+(5, 2, 1) ===> Proc #125
+(5, 2, 2) ===> Proc #225
+(5, 2, 3) ===> Proc #325
+(5, 2, 4) ===> Proc #425
+(5, 2, 5) ===> Proc #525
+(5, 2, 6) ===> Proc #625
+(5, 2, 7) ===> Proc #725
+(5, 2, 8) ===> Proc #825
+(5, 2, 9) ===> Proc #925
+(5, 3, 0) ===> Proc #35
+(5, 3, 1) ===> Proc #135
+(5, 3, 2) ===> Proc #235
+(5, 3, 3) ===> Proc #335
+(5, 3, 4) ===> Proc #435
+(5, 3, 5) ===> Proc #535
+(5, 3, 6) ===> Proc #635
+(5, 3, 7) ===> Proc #735
+(5, 3, 8) ===> Proc #835
+(5, 3, 9) ===> Proc #935
+(5, 4, 0) ===> Proc #45
+(5, 4, 1) ===> Proc #145
+(5, 4, 2) ===> Proc #245
+(5, 4, 3) ===> Proc #345
+(5, 4, 4) ===> Proc #445
+(5, 4, 5) ===> Proc #545
+(5, 4, 6) ===> Proc #645
+(5, 4, 7) ===> Proc #745
+(5, 4, 8) ===> Proc #845
+(5, 4, 9) ===> Proc #945
+(5, 5, 0) ===> Proc #55
+(5, 5, 1) ===> Proc #155
+(5, 5, 2) ===> Proc #255
+(5, 5, 3) ===> Proc #355
+(5, 5, 4) ===> Proc #455
+(5, 5, 5) ===> Proc #555
+(5, 5, 6) ===> Proc #655
+(5, 5, 7) ===> Proc #755
+(5, 5, 8) ===> Proc #855
+(5, 5, 9) ===> Proc #955
+(5, 6, 0) ===> Proc #65
+(5, 6, 1) ===> Proc #165
+(5, 6, 2) ===> Proc #265
+(5, 6, 3) ===> Proc #365
+(5, 6, 4) ===> Proc #465
+(5, 6, 5) ===> Proc #565
+(5, 6, 6) ===> Proc #665
+(5, 6, 7) ===> Proc #765
+(5, 6, 8) ===> Proc #865
+(5, 6, 9) ===> Proc #965
+(5, 7, 0) ===> Proc #75
+(5, 7, 1) ===> Proc #175
+(5, 7, 2) ===> Proc #275
+(5, 7, 3) ===> Proc #375
+(5, 7, 4) ===> Proc #475
+(5, 7, 5) ===> Proc #575
+(5, 7, 6) ===> Proc #675
+(5, 7, 7) ===> Proc #775
+(5, 7, 8) ===> Proc #875
+(5, 7, 9) ===> Proc #975
+(5, 8, 0) ===> Proc #85
+(5, 8, 1) ===> Proc #185
+(5, 8, 2) ===> Proc #285
+(5, 8, 3) ===> Proc #385
+(5, 8, 4) ===> Proc #485
+(5, 8, 5) ===> Proc #585
+(5, 8, 6) ===> Proc #685
+(5, 8, 7) ===> Proc #785
+(5, 8, 8) ===> Proc #885
+(5, 8, 9) ===> Proc #985
+(5, 9, 0) ===> Proc #95
+(5, 9, 1) ===> Proc #195
+(5, 9, 2) ===> Proc #295
+(5, 9, 3) ===> Proc #395
+(5, 9, 4) ===> Proc #495
+(5, 9, 5) ===> Proc #595
+(5, 9, 6) ===> Proc #695
+(5, 9, 7) ===> Proc #795
+(5, 9, 8) ===> Proc #895
+(5, 9, 9) ===> Proc #995
+(6, 0, 0) ===> Proc #6
+(6, 0, 1) ===> Proc #106
+(6, 0, 2) ===> Proc #206
+(6, 0, 3) ===> Proc #306
+(6, 0, 4) ===> Proc #406
+(6, 0, 5) ===> Proc #506
+(6, 0, 6) ===> Proc #606
+(6, 0, 7) ===> Proc #706
+(6, 0, 8) ===> Proc #806
+(6, 0, 9) ===> Proc #906
+(6, 1, 0) ===> Proc #16
+(6, 1, 1) ===> Proc #116
+(6, 1, 2) ===> Proc #216
+(6, 1, 3) ===> Proc #316
+(6, 1, 4) ===> Proc #416
+(6, 1, 5) ===> Proc #516
+(6, 1, 6) ===> Proc #616
+(6, 1, 7) ===> Proc #716
+(6, 1, 8) ===> Proc #816
+(6, 1, 9) ===> Proc #916
+(6, 2, 0) ===> Proc #26
+(6, 2, 1) ===> Proc #126
+(6, 2, 2) ===> Proc #226
+(6, 2, 3) ===> Proc #326
+(6, 2, 4) ===> Proc #426
+(6, 2, 5) ===> Proc #526
+(6, 2, 6) ===> Proc #626
+(6, 2, 7) ===> Proc #726
+(6, 2, 8) ===> Proc #826
+(6, 2, 9) ===> Proc #926
+(6, 3, 0) ===> Proc #36
+(6, 3, 1) ===> Proc #136
+(6, 3, 2) ===> Proc #236
+(6, 3, 3) ===> Proc #336
+(6, 3, 4) ===> Proc #436
+(6, 3, 5) ===> Proc #536
+(6, 3, 6) ===> Proc #636
+(6, 3, 7) ===> Proc #736
+(6, 3, 8) ===> Proc #836
+(6, 3, 9) ===> Proc #936
+(6, 4, 0) ===> Proc #46
+(6, 4, 1) ===> Proc #146
+(6, 4, 2) ===> Proc #246
+(6, 4, 3) ===> Proc #346
+(6, 4, 4) ===> Proc #446
+(6, 4, 5) ===> Proc #546
+(6, 4, 6) ===> Proc #646
+(6, 4, 7) ===> Proc #746
+(6, 4, 8) ===> Proc #846
+(6, 4, 9) ===> Proc #946
+(6, 5, 0) ===> Proc #56
+(6, 5, 1) ===> Proc #156
+(6, 5, 2) ===> Proc #256
+(6, 5, 3) ===> Proc #356
+(6, 5, 4) ===> Proc #456
+(6, 5, 5) ===> Proc #556
+(6, 5, 6) ===> Proc #656
+(6, 5, 7) ===> Proc #756
+(6, 5, 8) ===> Proc #856
+(6, 5, 9) ===> Proc #956
+(6, 6, 0) ===> Proc #66
+(6, 6, 1) ===> Proc #166
+(6, 6, 2) ===> Proc #266
+(6, 6, 3) ===> Proc #366
+(6, 6, 4) ===> Proc #466
+(6, 6, 5) ===> Proc #566
+(6, 6, 6) ===> Proc #666
+(6, 6, 7) ===> Proc #766
+(6, 6, 8) ===> Proc #866
+(6, 6, 9) ===> Proc #966
+(6, 7, 0) ===> Proc #76
+(6, 7, 1) ===> Proc #176
+(6, 7, 2) ===> Proc #276
+(6, 7, 3) ===> Proc #376
+(6, 7, 4) ===> Proc #476
+(6, 7, 5) ===> Proc #576
+(6, 7, 6) ===> Proc #676
+(6, 7, 7) ===> Proc #776
+(6, 7, 8) ===> Proc #876
+(6, 7, 9) ===> Proc #976
+(6, 8, 0) ===> Proc #86
+(6, 8, 1) ===> Proc #186
+(6, 8, 2) ===> Proc #286
+(6, 8, 3) ===> Proc #386
+(6, 8, 4) ===> Proc #486
+(6, 8, 5) ===> Proc #586
+(6, 8, 6) ===> Proc #686
+(6, 8, 7) ===> Proc #786
+(6, 8, 8) ===> Proc #886
+(6, 8, 9) ===> Proc #986
+(6, 9, 0) ===> Proc #96
+(6, 9, 1) ===> Proc #196
+(6, 9, 2) ===> Proc #296
+(6, 9, 3) ===> Proc #396
+(6, 9, 4) ===> Proc #496
+(6, 9, 5) ===> Proc #596
+(6, 9, 6) ===> Proc #696
+(6, 9, 7) ===> Proc #796
+(6, 9, 8) ===> Proc #896
+(6, 9, 9) ===> Proc #996
+(7, 0, 0) ===> Proc #7
+(7, 0, 1) ===> Proc #107
+(7, 0, 2) ===> Proc #207
+(7, 0, 3) ===> Proc #307
+(7, 0, 4) ===> Proc #407
+(7,1010
+
+10
+10
+10
+ 0, 5) ===> Proc #507
+(7, 0, 6) ===> Proc #607
+(7, 0, 7) ===> Proc #707
+(7, 0, 8) ===> Proc #807
+(7, 0, 9) ===> Proc #907
+(7, 1, 0) ===> Proc #17
+(7, 1, 1) ===> Proc #117
+(7, 1, 2) ===> Proc #217
+(7, 1, 3) ===> Proc #317
+(7, 1, 4) ===> Proc #417
+(7, 1, 5) ===> Proc #517
+(7, 1, 6) ===> Proc #617
+(7, 1, 7) ===> Proc #717
+(7, 1, 8) ===> Proc #817
+(7, 1, 9) ===> Proc #917
+(7, 2, 0) ===> Proc #27
+(7, 2, 1) ===> Proc #127
+(7, 2, 2) ===> Proc #227
+(7, 2, 3) ===> Proc #327
+(7, 2, 4) ===> Proc #427
+(7, 2, 5) ===> Proc #527
+(7, 2, 6) ===> Proc #627
+(7, 2, 7) ===> Proc #727
+(7, 2, 8) ===> Proc #827
+(7, 2, 9) ===> Proc #927
+(7, 3, 0) ===> Proc #37
+(7, 3, 1) ===> Proc #137
+(7, 3, 2) ===> Proc #237
+(7, 3, 3) ===> Proc #337
+(7, 3, 4) ===> Proc #437
+(7, 3, 5) ===> Proc #537
+(7, 3, 6) ===> Proc #637
+(7, 3, 7) ===> Proc #737
+(7, 3, 8) ===> Proc #837
+(7, 3, 9) ===> Proc #937
+(7, 4, 0) ===> Proc #47
+(7, 4, 1) ===> Proc #147
+(7, 4, 2) ===> Proc #247
+(7, 4, 3) ===> Proc #347
+(7, 4, 4) ===> Proc #447
+(7, 4, 5) ===> Proc #547
+(7, 4, 6) ===> Proc #647
+(7, 4, 7) ===> Proc #747
+(7, 4, 8) ===> Proc #847
+(7, 4, 9) ===> Proc #947
+(7, 5, 0) ===> Proc #57
+(7, 5, 1) ===> Proc #157
+(7, 5, 2) ===> Proc #257
+(7, 5, 3) ===> Proc #357
+(7, 5, 4) ===> Proc #457
+(7, 5, 5) ===> Proc #557
+(7, 5, 6) ===> Proc #657
+(7, 5, 7) ===> Proc #757
+(7, 5, 8) ===> Proc #857
+(7, 5, 9) ===> Proc #957
+(7, 6, 0) ===> Proc #67
+(7, 6, 1) ===> Proc #167
+(7, 6, 2) ===> Proc #267
+(7, 6, 3) ===> Proc #367
+(7, 6, 4) ===> Proc #467
+(7, 6, 5) ===> Proc #567
+(7, 6, 6) ===> Proc #667
+(7, 6, 7) ===> Proc #767
+(7, 6, 8) ===> Proc #867
+(7, 6, 9) ===> Proc #967
+(7, 7, 0) ===> Proc #77
+(7, 7, 1) ===> Proc #177
+(7, 7, 2) ===> Proc #277
+(7, 7, 3) ===> Proc #377
+(7, 7, 4) ===> Proc #477
+(7, 7, 5) ===> Proc #577
+(7, 7, 6) ===> Proc #677
+(7, 7, 7) ===> Proc #777
+(7, 7, 8) ===> Proc #877
+(7, 7, 9) ===> Proc #977
+(7, 8, 0) ===> Proc #87
+(7, 8, 1) ===> Proc #187
+(7, 8, 2) ===> Proc #287
+(7, 8, 3) ===> Proc #387
+(7, 8, 4) ===> Proc #487
+(7, 8, 5) ===> Proc #587
+(7, 8, 6) ===> Proc #687
+(7, 8, 7) ===> Proc #787
+(7, 8, 8) ===> Proc #887
+(7, 8, 9) ===> Proc #987
+(7, 9, 0) ===> Proc #97
+(7, 9, 1) ===> Proc #197
+(7, 9, 2) ===> Proc #297
+(7, 9, 3) ===> Proc #397
+(7, 9, 4) ===> Proc #497
+(7, 9, 5) ===> Proc #597
+(7, 9, 6) ===> Proc #697
+(7, 9, 7) ===> Proc #797
+(7, 9, 8) ===> Proc #897
+(7, 9, 9) ===> Proc #997
+(8, 0, 0) ===> Proc #8
+(8, 0, 1) ===> Proc #108
+(8, 0, 2) ===> Proc #208
+(8, 0, 3) ===> Proc #308
+(8, 0, 4) ===> Proc #408
+(8, 0, 5) ===> Proc #508
+(8, 0, 6) ===> Proc #608
+(8, 0, 7) ===> Proc #708
+(8, 0, 8) ===> Proc #808
+(8, 0, 9) ===> Proc #908
+(8, 1, 0) ===> Proc #18
+(8, 1, 1) ===> Proc #118
+(8, 1, 2) ===> Proc #218
+(8, 1, 3) ===> Proc #318
+(8, 1, 4) ===> Proc #418
+(8, 1, 5) ===> Proc #518
+(8, 1, 6) ===> Proc #618
+(8, 1, 7) ===> Proc #718
+(8, 1, 8) ===> Proc #818
+(8, 1, 9) ===> Proc #918
+(8, 2, 0) ===> Proc #28
+(8, 2, 1) ===> Proc #128
+(8, 2, 2) ===> Proc #228
+(8, 2, 3) ===> Proc #328
+(8, 2, 4) ===> Proc #428
+(8, 2, 5) ===> Proc #528
+(8, 2, 6) ===> Proc #628
+(8, 2, 7) ===> Proc #728
+(8, 2, 8) ===> Proc #828
+(8, 2, 9) ===> Proc #928
+(8, 3, 0) ===> Proc #38
+(8, 3, 1) ===> Proc #138
+(8, 3, 2) ===> Proc #238
+(8, 3, 3) ===> Proc #338
+(8, 3, 4) ===> Proc #438
+(8, 3, 5) ===> Proc #538
+(8, 3, 6) ===> Proc #638
+(8, 3, 7) ===> Proc #738
+(8, 3, 8) ===> Proc #838
+(8, 3, 9) ===> Proc #938
+(8, 4, 0) ===> Proc #48
+(8, 4, 1) ===> Proc #148
+(8, 4, 2) ===> Proc #248
+(8, 4, 3) ===> Proc #348
+(8, 4, 4) ===> Proc #448
+(8, 4, 5) ===> Proc #548
+(8, 4, 6) ===> Proc #648
+(8, 4, 7) ===> Proc #748
+(8, 4, 8) ===> Proc #848
+(8, 4, 9) ===> Proc #948
+(8, 5, 0) ===> Proc #58
+(8, 5, 1) ===> Proc #158
+(8, 5, 2) ===> Proc #258
+(8, 5, 3) ===> Proc #358
+(8, 5, 4) ===> Proc #458
+(8, 5, 5) ===> Proc #558
+(8, 5, 6) ===> Proc #658
+(8, 5, 7) ===> Proc #758
+(8, 5, 8) ===> Proc #858
+(8, 5, 9) ===> Proc #958
+(8, 6, 0) ===> Proc #68
+(8, 6, 1) ===> Proc #168
+(8, 6, 2) ===> Proc #268
+(8, 6, 3) ===> Proc #368
+(8, 6, 4) ===> Proc #468
+(8, 6, 5) ===> Proc #568
+(8, 6, 6) ===> Proc #668
+(8, 6, 7) ===> Proc #768
+(8, 6, 8) ===> Proc #868
+(8, 6, 9) ===> Proc #968
+(8, 7, 0) ===> Proc #78
+(8, 7, 1) ===> Proc #178
+(8, 7, 2) ===> Proc #278
+(8, 7, 3) ===> Proc #378
+(8, 7, 4) ===> Proc #478
+(8, 7, 5) ===> Proc #578
+(8, 7, 6) ===> Proc #678
+(8, 7, 7) ===> Proc #778
+(8, 7, 8) ===> Proc #878
+(8, 7, 9) ===> Proc #978
+(8, 8, 0) ===> Proc #88
+(8, 8, 1) ===> Proc #188
+(8, 8, 2) ===> Proc #288
+(8, 8, 3) ===> Proc #388
+(8, 8, 4) ===> Proc #488
+(8, 8, 5) ===> Proc #588
+(8, 8, 6) ===> Proc #688
+(8, 8, 7) ===> Proc #788
+(8, 8, 8) ===> Proc #888
+(8, 8, 9) ===> Proc #988
+(8, 9, 0) ===> Proc #98
+(8, 9, 1) ===> Proc #198
+(8, 9, 2) ===> Proc #298
+(8, 9, 3) ===> Proc #398
+(8, 9, 4) ===> Proc #498
+(8, 9, 5) ===> Proc #598
+(8, 9, 6) ===> Proc #698
+(8, 9, 7) ===> Proc #798
+(8, 9, 8) ===> Proc #898
+(8, 9, 9) ===> Proc #998
+(9, 0, 0) ===> Proc #9
+(9, 0, 1) ===> Proc #109
+(9, 0, 2) ===> Proc #209
+(9, 0, 3) ===> Proc #309
+(9, 0, 4) ===> Proc #409
+(9, 0, 5) ===> Proc #509
+(9, 0, 6) ===> Proc #609
+(9, 0, 7) ===> Proc #709
+(9, 0, 8) ===> Proc #809
+(9, 0, 9) ===> Proc #909
+(9, 1, 0) ===> Proc #19
+(9, 1, 1) ===> Proc #119
+(9, 1, 2) ===> Proc #219
+(9, 1, 3) ===> Proc #319
+(9, 1, 4) ===> Proc #419
+(9, 1, 5) ===> Proc #519
+(9, 1, 6) ===> Proc #619
+(9, 1, 7) ===> Proc #719
+(9, 1, 8) ===> Proc #819
+(9, 1, 9) ===> Proc #919
+(9, 2, 0) ===> Proc #29
+(9, 2, 1) ===> Proc #129
+(9, 2, 2) ===> Proc #229
+(9, 2, 3) ===> Proc #329
+(9, 2, 4) ===> Proc #429
+(9, 2, 5) ===> Proc #529
+(9, 2, 6) ===> Proc #629
+(9, 2, 7) ===> Proc #729
+(9, 2, 8) ===> Proc #829
+(9, 2, 9) ===> Proc #929
+(9, 3, 0) ===> Proc #39
+(9, 3, 1) ===> Proc #139
+(9, 3, 2) ===> Proc #239
+(9, 3, 3) ===> Proc #339
+(9, 3, 4) ===> Proc #439
+(9, 3, 5) ===> Proc #539
+(9, 3, 6) ===> Proc #639
+(9, 3, 7) ===> Proc #739
+(9, 3, 8) ===> Proc #839
+(9, 3, 9) ===> Proc #939
+(9, 4, 0) ===> Proc #49
+(9, 4, 1) ===> Proc #149
+(9, 4, 2) ===> Proc #249
+(9, 4, 3) ===> Proc #349
+(9, 4, 4) ===> Proc #449
+(9, 4, 5) ===> Proc #549
+(9, 4, 6) ===> Proc #649
+(9, 4, 7) ===> Proc #749
+(9, 4, 8) ===> Proc #849
+(9, 4, 9) ===> Proc #949
+(9, 5, 0) ===> Proc #59
+(9, 5, 1) ===> Proc #159
+(9, 5, 2) ===> Proc #259
+(9, 5, 3) ===> Proc #359
+(9, 5, 4) ===> Proc #459
+(9, 5, 5) ===> Proc #559
+(9, 5, 6) ===> Proc #659
+(9, 5, 7) ===> Proc #759
+(9, 5, 8) ===> Proc #859
+(9, 5, 9) ===> Proc #959
+(9, 6, 0) ===> Proc #69
+(9, 6, 1) ===> Proc #169
+(9, 6, 2) ===> Proc #269
+(9, 6, 3) ===> Proc #369
+(9, 6, 4) ===> Proc #469
+(9, 6, 5) ===> Proc #569
+(9, 6, 6) ===> Proc #669
+(9, 6, 7) ===> Proc #769
+(9, 6, 8) ===> Proc #869
+(9, 6, 9) ===> Proc #969
+(9, 7, 0) ===> Proc #79
+(9, 7, 1) ===> Proc #179
+(9, 7, 2) ===> Proc #279
+(9, 7, 3) ===> Proc #379
+(9, 7, 4) ===> Proc #479
+(9, 7, 5) ===> Proc #579
+(9, 7, 6) ===> Proc #679
+(9, 7, 7) ===> Proc #779
+(9, 7, 8) ===> Proc #879
+(9, 7, 9) ===> Proc #979
+(9, 8, 0) ===> Proc #89
+(9, 8, 1) ===> Proc #189
+(9, 8, 2) ===> Proc #289
+(9, 8, 3) ===> Proc #389
+(9, 8, 4) ===> Proc #489
+(9, 8, 5) ===> Proc #589
+(9, 8, 6) ===> Proc #689
+(9, 8, 7) ===> Proc #789
+(9, 8, 8) ===> Proc #889
+(9, 8, 9) ===> Proc #989
+(9, 9, 0) ===> Proc #99
+(9, 9, 1) ===> Proc #199
+(9, 9, 2) ===> Proc #299
+(9, 9, 3) ===> Proc #399
+(9, 9, 4) ===> Proc #499
+(9, 9, 5) ===> Proc #599
+(9, 9, 6) ===> Proc #699
+(9, 9, 7) ===> Proc #799
+(9, 9, 8) ===> Proc #899
+(9, 9, 9) ===> Proc #999
+Proc #0 ---> RED
+Proc #1 ---> BLACK
+Proc #2 ---> RED
+Proc #3 ---> BLACK
+Proc #4 ---> RED
+Proc #5 ---> BLACK
+Proc #6 ---> RED
+Proc #7 ---> BLACK
+Proc #8 ---> RED
+Proc #9 ---> BLACK
+Proc #10 ---> BLACK
+Proc #11 ---> RED
+Proc #12 ---> BLACK
+Proc #13 ---> RED
+Proc #14 ---> BLACK
+Proc #15 ---> RED
+Proc #16 ---> BLACK
+Proc #17 ---> RED
+Proc #18 ---> BLACK
+Proc #19 ---> RED
+Proc #20 ---> RED
+Proc #21 ---> BLACK
+Proc #22 ---> RED
+Proc #23 ---> BLACK
+Proc #24 ---> RED
+Proc #25 ---> BLACK
+Proc #26 ---> RED
+Proc #27 ---> BLACK
+Proc #28 ---> RED
+Proc #29 ---> BLACK
+Proc #30 ---> BLACK
+Proc #31 ---> RED
+Proc #32 ---> BLACK
+Proc #33 ---> RED
+Proc #34 ---> BLACK
+Proc #35 ---> RED
+Proc #36 ---> BLACK
+Proc #37 ---> RED
+Proc #38 ---> BLACK
+Proc #39 ---> RED
+Proc #40 ---> RED
+Proc #41 ---> BLACK
+Proc #42 ---> RED
+Proc #43 ---> BLACK
+Proc #44 ---> RED
+Proc #45 ---> BLACK
+Proc #46 ---> RED
+Proc #47 ---> BLACK
+Proc #48 ---> RED
+Proc #49 ---> BLACK
+Proc #50 ---> BLACK
+Proc #51 ---> RED
+Proc #52 ---> BLACK
+Proc #53 ---> RED
+Proc #54 ---> BLACK
+Proc #55 ---> RED
+Proc #56 ---> BLACK
+Proc #57 ---> RED
+Proc #58 ---> BLACK
+Proc #59 ---> RED
+Proc #60 ---> RED
+Proc #61 ---> BLACK
+Proc #62 ---> RED
+Proc #63 ---> BLACK
+Proc #64 ---> RED
+Proc #65 ---> BLACK
+Proc #66 ---> RED
+Proc #67 ---> BLACK
+Proc #68 ---> RED
+Proc #69 ---> BLACK
+Proc #70 ---> BLACK
+Proc #71 ---> RED
+Proc #72 ---> BLACK
+Proc #73 ---> RED
+Proc #74 ---> BLACK
+Proc #75 ---> RED
+Proc #76 ---> BLACK
+Proc #77 ---> RED
+Proc #78 ---> BLACK
+Proc #79 ---> RED
+Proc #80 ---> RED
+Proc #81 ---> BLACK
+Proc #82 ---> RED
+Proc #83 ---> BLACK
+Proc #84 ---> RED
+Proc #85 ---> BLACK
+Proc #86 ---> RED
+Proc #87 ---> BLACK
+Proc #88 ---> RED
+Proc #89 ---> BLACK
+Proc #90 ---> BLACK
+Proc #91 ---> RED
+Proc #92 ---> BLACK
+Proc #93 ---> RED
+Proc #94 ---> BLACK
+Proc #95 ---> RED
+Proc #96 ---> BLACK
+Proc #97 ---> RED
+Proc #98 ---> BLACK
+Proc #99 ---> RED
+Proc #100 ---> BLACK
+Proc #101 ---> RED
+Proc #102 ---> BLACK
+Proc #103 ---> RED
+Proc #104 ---> BLACK
+Proc #105 ---> RED
+Proc #106 ---> BLACK
+Proc #107 ---> RED
+Proc #108 ---> BLACK
+Proc #109 ---> RED
+Proc #110 ---> RED
+Proc #111 ---> BLACK
+Proc #112 ---> RED
+Proc #113 ---> BLACK
+Proc #114 ---> RED
+Proc #115 ---> BLACK
+Proc #116 ---> RED
+Proc #117 ---> BLACK
+Proc #118 ---> RED
+Proc #119 ---> BLACK
+Proc #120 ---> BLACK
+Proc #121 ---> RED
+Proc #122 ---> BLACK
+Proc #123 ---> RED
+Proc #124 ---> BLACK
+Proc #125 ---> RED
+Proc #126 ---> BLACK
+Proc #127 ---> RED
+Proc #128 ---> BLACK
+Proc #129 ---> RED
+Proc #130 ---> RED
+Proc #131 ---> BLACK
+Proc #132 ---> RED
+Proc #133 ---> BLACK
+Proc #134 ---> RED
+Proc #135 ---> BLACK
+Proc #136 ---> RED
+Proc #137 ---> BLACK
+Proc #138 ---> RED
+Proc #139 ---> BLACK
+Proc #140 ---> BLACK
+Proc #141 ---> RED
+Proc #142 ---> BLACK
+Proc #143 ---> RED
+Proc #144 ---> BLACK
+Proc #145 ---> RED
+Proc #146 ---> BLACK
+Proc #147 ---> RED
+Proc #148 ---> BLACK
+Proc #149 ---> RED
+Proc #150 ---> RED
+Proc #151 ---> BLACK
+Proc #152 ---> RED
+Proc #153 ---> BLACK
+Proc #154 ---> RED
+Proc #155 ---> BLACK
+Proc #156 ---> RED
+Proc #157 ---> BLACK
+Proc #158 ---> RED
+Proc #159 ---> BLACK
+Proc #160 ---> BLACK
+Proc #161 ---> RED
+Proc #162 ---> BLACK
+Proc #163 ---> RED
+Proc #164 ---> BLACK
+Proc #165 ---> RED
+Proc #166 ---> BLACK
+Proc #167 ---> RED
+Proc #168 ---> BLACK
+Proc #169 ---> RED
+Proc #170 ---> RED
+Proc #171 ---> BLACK
+Proc #172 ---> RED
+Proc #173 ---> BLACK
+Proc #174 ---> RED
+Proc #175 ---> BLACK
+Proc #176 ---> RED
+Proc #177 ---> BLACK
+Proc #178 ---> RED
+Proc #179 ---> BLACK
+Proc #180 ---> BLACK
+Proc #181 ---> RED
+Proc #182 ---> BLACK
+Proc #183 ---> RED
+Proc #184 ---> BLACK
+Proc #185 ---> RED
+Proc #186 ---> BLACK
+Proc #187 ---> RED
+Proc #188 ---> BLACK
+Proc #189 ---> RED
+Proc #190 ---> RED
+Proc #191 ---> BLACK
+Proc #192 ---> RED
+Proc #193 ---> BLACK
+Proc #194 ---> RED
+Proc #195 ---> BLACK
+Proc #196 ---> RED
+Proc #197 ---> BLACK
+Proc #198 ---> RED
+Proc #199 ---> BLACK
+Proc #200 ---> RED
+Proc #201 ---> BLACK
+Proc #202 ---> RED
+Proc #203 ---> BLACK
+Proc #204 ---> RED
+Proc #205 ---> BLACK
+Proc #206 ---> RED
+Proc #207 ---> BLACK
+Proc #208 ---> RED
+Proc #209 ---> BLACK
+Proc #210 ---> BLACK
+Proc #211 ---> RED
+Proc #212 ---> BLACK
+Proc #213 ---> RED
+Proc #214 ---> BLACK
+Proc #215 ---> RED
+Proc #216 ---> BLACK
+Proc #217 ---> RED
+Proc #218 ---> BLACK
+Proc #219 ---> RED
+Proc #220 ---> RED
+Proc #221 ---> BLACK
+Proc #222 ---> RED
+Proc #223 ---> BLACK
+Proc #224 ---> RED
+Proc #225 ---> BLACK
+Proc #226 ---> RED
+Proc #227 ---> BLACK
+Proc #228 ---> RED
+Proc #229 ---> BLACK
+Proc #230 ---> BLACK
+Proc #231 ---> RED
+Proc #232 ---> BLACK
+Proc #233 ---> RED
+Proc #234 ---> BLACK
+Proc #235 ---> RED
+Proc #236 ---> BLACK
+Proc #237 ---> RED
+Proc #238 ---> BLACK
+Proc #239 ---> RED
+Proc #240 ---> RED
+Proc #241 ---> BLACK
+Proc #242 ---> RED
+Proc #243 ---> BLACK
+Proc #244 ---> RED
+Proc #245 ---> BLACK
+Proc #246 ---> RED
+Proc #247 ---> BLACK
+Proc #248 ---> RED
+Proc #249 ---> BLACK
+Proc #250 ---> BLACK
+Proc #251 ---> RED
+Proc #252 ---> BLACK
+Proc #253 ---> RED
+Proc #254 ---> BLACK
+Proc #255 ---> RED
+Proc #256 ---> BLACK
+Proc #257 ---> RED
+Proc #258 ---> BLACK
+Proc #259 ---> RED
+Proc #260 ---> RED
+Proc #261 ---> BLACK
+Proc #262 ---> RED
+Proc #263 ---> BLACK
+Proc #264 ---> RED
+Proc #265 ---> BLACK
+Proc #266 ---> RED
+Proc #267 ---> BLACK
+Proc #268 ---> RED
+Proc #269 ---> BLACK
+Proc #270 ---> BLACK
+Proc #271 ---> RED
+Proc #272 ---> BLACK
+Proc #273 ---> RED
+Proc #274 ---> BLACK
+Proc #275 ---> RED
+Proc #276 ---> BLACK
+Proc #277 ---> RED
+Proc #278 ---> BLACK
+Proc #279 ---> RED
+Proc #280 ---> RED
+Proc #281 ---> BLACK
+Proc #282 ---> RED
+Proc #283 ---> BLACK
+Proc #284 ---> RED
+Proc #285 ---> BLACK
+Proc #286 ---> RED
+Proc #287 ---> BLACK
+Proc #288 ---> RED
+Proc #289 ---> BLACK
+Proc #290 ---> BLACK
+Proc #291 ---> RED
+Proc #292 ---> BLACK
+Proc #293 ---> RED
+Proc #294 ---> BLACK
+Proc #295 ---> RED
+Proc #296 ---> BLACK
+Proc #297 ---> RED
+Proc #298 ---> BLACK
+Proc #299 ---> RED
+Proc #300 ---> BLACK
+Proc #301 ---> RED
+Proc #302 ---> BLACK
+Proc #303 ---> RED
+Proc #304 ---> BLACK
+Proc #305 ---> RED
+Proc #306 ---> BLACK
+Proc #307 ---> RED
+Proc #308 ---> BLACK
+Proc #309 ---> RED
+Proc #310 ---> RED
+Proc #311 ---> BLACK
+Proc #312 ---> RED
+Proc #313 ---> BLACK
+Proc #314 ---> RED
+Proc #315 ---> BLACK
+Proc #316 ---> RED
+Proc #317 ---> BLACK
+Proc #318 ---> RED
+Proc #319 ---> BLACK
+Proc #320 ---> BLACK
+Proc #321 ---> RED
+Proc #322 ---> BLACK
+Proc #323 ---> RED
+Proc #324 ---> BLACK
+Proc #325 ---> RED
+Proc #326 ---> BLACK
+Proc #327 ---> RED
+Proc #328 ---> BLACK
+Proc #329 ---> RED
+Proc #330 ---> RED
+Proc #331 ---> BLACK
+Proc #332 ---> RED
+Proc #333 ---> BLACK
+Proc #334 ---> RED
+Proc #335 ---> BLACK
+Proc #336 ---> RED
+Proc #337 ---> BLACK
+Proc #338 ---> RED
+Proc #339 ---> BLACK
+Proc #340 ---> BLACK
+Proc #341 ---> RED
+Proc #342 ---> BLACK
+Proc #343 ---> RED
+Proc #344 ---> BLACK
+Proc #345 ---> RED
+Proc #346 ---> BLACK
+Proc #347 ---> RED
+Proc #348 ---> BLACK
+Proc #349 ---> RED
+Proc #350 ---> RED
+Proc #351 ---> BLACK
+Proc #352 ---> RED
+Proc #353 ---> BLACK
+Proc #354 ---> RED
+Proc #355 ---> BLACK
+Proc #356 ---> RED
+Proc #357 ---> BLACK
+Proc #358 ---> RED
+Proc #359 ---> BLACK
+Proc #360 ---> BLACK
+Proc #361 ---> RED
+Proc #362 ---> BLACK
+Proc #363 ---> RED
+Proc #364 ---> BLACK
+Proc #365 ---> RED
+Proc #366 ---> BLACK
+Proc #367 ---> RED
+Proc #368 ---> BLACK
+Proc #369 ---> RED
+Proc #370 ---> RED
+Proc #371 ---> BLACK
+Proc #372 ---> RED
+Proc #373 ---> BLACK
+Proc #374 ---> RED
+Proc #375 ---> BLACK
+Proc #376 ---> RED
+Proc #377 ---> BLACK
+Proc #378 ---> RED
+Proc #379 ---> BLACK
+Proc #380 ---> BLACK
+Proc #381 ---> RED
+Proc #382 ---> BLACK
+Proc #383 ---> RED
+Proc #384 ---> BLACK
+Proc #385 ---> RED
+Proc #386 ---> BLACK
+Proc #387 ---> RED
+Proc #388 ---> BLACK
+Proc #389 ---> RED
+Proc #390 ---> RED
+Proc #391 ---> BLACK
+Proc #392 ---> RED
+Proc #393 ---> BLACK
+Proc #394 ---> RED
+Proc #395 ---> BLACK
+Proc #396 ---> RED
+Proc #397 ---> BLACK
+Proc #398 ---> RED
+Proc #399 ---> BLACK
+Proc #400 ---> RED
+Proc #401 ---> BLACK
+Proc #402 ---> RED
+Proc #403 ---> BLACK
+Proc #404 ---> RED
+Proc #405 ---> BLACK
+Proc #406 ---> RED
+Proc #407 ---> BLACK
+Proc #408 ---> RED
+Proc #409 ---> BLACK
+Proc #410 ---> BLACK
+Proc #411 ---> RED
+Proc #412 ---> BLACK
+Proc #413 ---> RED
+Proc #414 ---> BLACK
+Proc #415 ---> RED
+Proc #416 ---> BLACK
+Proc #417 ---> RED
+Proc #418 ---> BLACK
+Proc #419 ---> RED
+Proc #420 ---> RED
+Proc #421 ---> BLACK
+Proc #422 ---> RED
+Proc #423 ---> BLACK
+Proc #424 ---> RED
+Proc #425 ---> BLACK
+Proc #426 ---> RED
+Proc #427 ---> BLACK
+Proc #428 ---> RED
+Proc #429 ---> BLACK
+Proc #430 ---> BLACK
+Proc #431 ---> RED
+Proc #432 ---> BLACK
+Proc #433 ---> RED
+Proc #434 ---> BLACK
+Proc #435 ---> RED
+Proc #436 ---> BLACK
+Proc #437 ---> RED
+Proc #438 ---> BLACK
+Proc #439 ---> RED
+Proc #440 ---> RED
+Proc #441 ---> BLACK
+Proc #442 ---> RED
+Proc #443 ---> BLACK
+Proc #444 ---> RED
+Proc #445 ---> BLACK
+Proc #446 ---> RED
+Proc #447 ---> BLACK
+Proc #448 ---> RED
+Proc #449 ---> BLACK
+Proc #450 ---> BLACK
+Proc #451 ---> RED
+Proc #452 ---> BLACK
+Proc #453 ---> RED
+Proc #454 ---> BLACK
+Proc #455 ---> RED
+Proc #456 ---> BLACK
+Proc #457 --10
+10
+-> RED
+Proc #458 ---> BLACK
+Proc #459 ---> RED
+Proc #460 ---> RED
+Proc #461 ---> BLACK
+Proc #462 ---> RED
+Proc #463 ---> BLACK
+Proc #464 ---> RED
+Proc #465 ---> BLACK
+Proc #466 ---> RED
+Proc #467 ---> BLACK
+Proc #468 ---> RED
+Proc #469 ---> BLACK
+Proc #470 ---> BLACK
+Proc #471 ---> RED
+Proc #472 ---> BLACK
+Proc #473 ---> RED
+Proc #474 ---> BLACK
+Proc #475 ---> RED
+Proc #476 ---> BLACK
+Proc #477 ---> RED
+Proc #478 ---> BLACK
+Proc #479 ---> RED
+Proc #480 ---> RED
+Proc #481 ---> BLACK
+Proc #482 ---> RED
+Proc #483 ---> BLACK
+Proc #484 ---> RED
+Proc #485 ---> BLACK
+Proc #486 ---> RED
+Proc #487 ---> BLACK
+Proc #488 ---> RED
+Proc #489 ---> BLACK
+Proc #490 ---> BLACK
+Proc #491 ---> RED
+Proc #492 ---> BLACK
+Proc #493 ---> RED
+Proc #494 ---> BLACK
+Proc #495 ---> RED
+Proc #496 ---> BLACK
+Proc #497 ---> RED
+Proc #498 ---> BLACK
+Proc #499 ---> RED
+Proc #500 ---> BLACK
+Proc #501 ---> RED
+Proc #502 ---> BLACK
+Proc #503 ---> RED
+Proc #504 ---> BLACK
+Proc #505 ---> RED
+Proc #506 ---> BLACK
+Proc #507 ---> RED
+Proc #508 ---> BLACK
+Proc #509 ---> RED
+Proc #510 ---> RED
+Proc #511 ---> BLACK
+Proc #512 ---> RED
+Proc #513 ---> BLACK
+Proc #514 ---> RED
+Proc #515 ---> BLACK
+Proc #516 ---> RED
+Proc #517 ---> BLACK
+Proc #518 ---> RED
+Proc #519 ---> BLACK
+Proc #520 ---> BLACK
+Proc #521 ---> RED
+Proc #522 ---> BLACK
+Proc #523 ---> RED
+Proc #524 ---> BLACK
+Proc #525 ---> RED
+Proc #526 ---> BLACK
+Proc #527 ---> RED
+Proc #528 ---> BLACK
+Proc #529 ---> RED
+Proc #530 ---> RED
+Proc #531 ---> BLACK
+Proc #532 ---> RED
+Proc #533 ---> BLACK
+Proc #534 ---> RED
+Proc #535 ---> BLACK
+Proc #536 ---> RED
+Proc #537 ---> BLACK
+Proc #538 ---> RED
+Proc #539 ---> BLACK
+Proc #540 ---> BLACK
+Proc #541 ---> RED
+Proc #542 ---> BLACK
+Proc #543 ---> RED
+Proc #544 ---> BLACK
+Proc #545 ---> RED
+Proc #546 ---> BLACK
+Proc #547 ---> RED
+Proc #548 ---> BLACK
+Proc #549 ---> RED
+Proc #550 ---> RED
+Proc #551 ---> BLACK
+Proc #552 ---> RED
+Proc #553 ---> BLACK
+Proc #554 ---> RED
+Proc #555 ---> BLACK
+Proc #556 ---> RED
+Proc #557 ---> BLACK
+Proc #558 ---> RED
+Proc #559 ---> BLACK
+Proc #560 ---> BLACK
+Proc #561 ---> RED
+Proc #562 ---> BLACK
+Proc #563 ---> RED
+Proc #564 ---> BLACK
+Proc #565 ---> RED
+Proc #566 ---> BLACK
+Proc #567 ---> RED
+Proc #568 ---> BLACK
+Proc #569 ---> RED
+Proc #570 ---> RED
+Proc #571 ---> BLACK
+Proc #572 ---> RED
+Proc #573 ---> BLACK
+Proc #574 ---> RED
+Proc #575 ---> BLACK
+Proc #576 ---> RED
+Proc #577 ---> BLACK
+Proc #578 ---> RED
+Proc #579 ---> BLACK
+Proc #580 ---> BLACK
+Proc #581 ---> RED
+Proc #582 ---> BLACK
+Proc #583 ---> RED
+Proc #584 ---> BLACK
+Proc #585 ---> RED
+Proc #586 ---> BLACK
+Proc #587 ---> RED
+Proc #588 ---> BLACK
+Proc #589 ---> RED
+Proc #590 ---> RED
+Proc #591 ---> BLACK
+Proc #592 ---> RED
+Proc #593 ---> BLACK
+Proc #594 ---> RED
+Proc #595 ---> BLACK
+Proc #596 ---> RED
+Proc #597 ---> BLACK
+Proc #598 ---> RED
+Proc #599 ---> BLACK
+Proc #600 ---> RED
+Proc #601 ---> BLACK
+Proc #602 ---> RED
+Proc #603 ---> BLACK
+Proc #604 ---> RED
+Proc #605 ---> BLACK
+Proc #606 ---> RED
+Proc #607 ---> BLACK
+Proc #608 ---> RED
+Proc #609 ---> BLACK
+Proc #610 ---> BLACK
+Proc #611 ---> RED
+Proc #612 ---> BLACK
+Proc #613 ---> RED
+Proc #614 ---> BLACK
+Proc #615 ---> RED
+Proc #616 ---> BLACK
+Proc #617 ---> RED
+Proc #618 ---> BLACK
+Proc #619 ---> RED
+Proc #620 ---> RED
+Proc #621 ---> BLACK
+Proc #622 ---> RED
+Proc #623 ---> BLACK
+Proc #624 ---> RED
+Proc #625 ---> BLACK
+Proc #626 ---> RED
+Proc #627 ---> BLACK
+Proc #628 ---> RED
+Proc #629 ---> BLACK
+Proc #630 ---> BLACK
+Proc #631 ---> RED
+Proc #632 ---> BLACK
+Proc #633 ---> RED
+Proc #634 ---> BLACK
+Proc #635 ---> RED
+Proc #636 ---> BLACK
+Proc #637 ---> RED
+Proc #638 ---> BLACK
+Proc #639 ---> RED
+Proc #640 ---> RED
+Proc #641 ---> BLACK
+Proc #642 ---> RED
+Proc #643 ---> BLACK
+Proc #644 ---> RED
+Proc #645 ---> BLACK
+Proc #646 ---> RED
+Proc #647 ---> BLACK
+Proc #648 ---> RED
+Proc #649 ---> BLACK
+Proc #650 ---> BLACK
+Proc #651 ---> RED
+Proc #652 ---> BLACK
+Proc #653 ---> RED
+Proc #654 ---> BLACK
+Proc #655 ---> RED
+Proc #656 ---> BLACK
+Proc #657 ---> RED
+Proc #658 ---> BLACK
+Proc #659 ---> RED
+Proc #660 ---> RED
+Proc #661 ---> BLACK
+Proc #662 ---> RED
+Proc #663 ---> BLACK
+Proc #664 ---> RED
+Proc #665 ---> BLACK
+Proc #666 ---> RED
+Proc #667 ---> BLACK
+Proc #668 ---> RED
+Proc #669 ---> BLACK
+Proc #670 ---> BLACK
+Proc #671 ---> RED
+Proc #672 ---> BLACK
+Proc #673 ---> RED
+Proc #674 ---> BLACK
+Proc #675 ---> RED
+Proc #676 ---> BLACK
+Proc #677 ---> RED
+Proc #678 ---> BLACK
+Proc #679 ---> RED
+Proc #680 ---> RED
+Proc #681 ---> BLACK
+Proc #682 ---> RED
+Proc #683 ---> BLACK
+Proc #684 ---> RED
+Proc #685 ---> BLACK
+Proc #686 ---> RED
+Proc #687 ---> BLACK
+Proc #688 ---> RED
+Proc #689 ---> BLACK
+Proc #690 ---> BLACK
+Proc #691 ---> RED
+Proc #692 ---> BLACK
+Proc #693 ---> RED
+Proc #694 ---> BLACK
+Proc #695 ---> RED
+Proc #696 ---> BLACK
+Proc #697 ---> RED
+Proc #698 ---> BLACK
+Proc #699 ---> RED
+Proc #700 ---> BLACK
+Proc #701 ---> RED
+Proc #702 ---> BLACK
+Proc #703 ---> RED
+Proc #704 ---> BLACK
+Proc #705 ---> RED
+Proc #706 ---> BLACK
+Proc #707 ---> RED
+Proc #708 ---> BLACK
+Proc #709 ---> RED
+Proc #710 ---> RED
+Proc #711 ---> BLACK
+Proc #712 ---> RED
+Proc #713 ---> BLACK
+Proc #714 ---> RED
+Proc #715 ---> BLACK
+Proc #716 ---> RED
+Proc #717 ---> BLACK
+Proc #718 ---> RED
+Proc #719 ---> BLACK
+Proc #720 ---> BLACK
+Proc #721 ---> RED
+Proc #722 ---> BLACK
+Proc #723 ---> RED
+Proc #724 ---> BLACK
+Proc #725 ---> RED
+Proc #726 ---> BLACK
+Proc #727 ---> RED
+Proc #728 ---> BLACK
+Proc #729 ---> RED
+Proc #730 ---> RED
+Proc #731 ---> BLACK
+Proc #732 ---> RED
+Proc #733 ---> BLACK
+Proc #734 ---> RED
+Proc #735 ---> BLACK
+Proc #736 ---> RED
+Proc #737 ---> BLACK
+Proc #738 ---> RED
+Proc #739 ---> BLACK
+Proc #740 ---> BLACK
+Proc #741 ---> RED
+Proc #742 ---> BLACK
+Proc #743 ---> RED
+Proc #744 ---> BLACK
+Proc #745 ---> RED
+Proc #746 ---> BLACK
+Proc #747 ---> RED
+Proc #748 ---> BLACK
+Proc #749 ---> RED
+Proc #750 ---> RED
+Proc #751 ---> BLACK
+Proc #752 ---> RED
+Proc #753 ---> BLACK
+Proc #754 ---> RED
+Proc #755 ---> BLACK
+Proc #756 ---> RED
+Proc #757 ---> BLACK
+Proc #758 ---> RED
+Proc #759 ---> BLACK
+Proc #760 ---> BLACK
+Proc #761 ---> RED
+Proc #762 ---> BLACK
+Proc #763 ---> RED
+Proc #764 ---> BLACK
+Proc #765 ---> RED
+Proc #766 ---> BLACK
+Proc #767 ---> RED
+Proc #768 ---> BLACK
+Proc #769 ---> RED
+Proc #770 ---> RED
+Proc #771 ---> BLACK
+Proc #772 ---> RED
+Proc #773 ---> BLACK
+Proc #774 ---> RED
+Proc #775 ---> BLACK
+Proc #776 ---> RED
+Proc #777 ---> BLACK
+Proc #778 ---> RED
+Proc #779 ---> BLACK
+Proc #780 ---> BLACK
+Proc #781 ---> RED
+Proc #782 ---> BLACK
+Proc #783 ---> RED
+Proc #784 ---> BLACK
+Proc #785 ---> RED
+Proc #786 ---> BLACK
+Proc #787 ---> RED
+Proc #788 ---> BLACK
+Proc #789 ---> RED
+Proc #790 ---> RED
+Proc #791 ---> BLACK
+Proc #792 ---> RED
+Proc #793 ---> BLACK
+Proc #794 ---> RED
+Proc #795 ---> BLACK
+Proc #796 ---> RED
+Proc #797 ---> BLACK
+Proc #798 ---> RED
+Proc #799 ---> BLACK
+Proc #800 ---> RED
+Proc #801 ---> BLACK
+Proc #802 ---> RED
+Proc #803 ---> BLACK
+Proc #804 ---> RED
+Proc #805 ---> BLACK
+Proc #806 ---> RED
+Proc #807 ---> BLACK
+Proc #808 ---> RED
+Proc #809 ---> BLACK
+Proc #810 ---> BLACK
+Proc #811 ---> RED
+Proc #812 ---> BLACK
+Proc #813 ---> RED
+Proc #814 ---> BLACK
+Proc #815 ---> RED
+Proc #816 ---> BLACK
+Proc #817 ---> RED
+Proc #818 ---> BLACK
+Proc #819 ---> RED
+Proc #820 ---> RED
+Proc #821 ---> BLACK
+Proc #822 ---> RED
+Proc #823 ---> BLACK
+Proc #824 ---> RED
+Proc #825 ---> BLACK
+Proc #826 ---> RED
+Proc #827 ---> BLACK
+Proc #828 ---> RED
+Proc #829 ---> BLACK
+Proc #830 ---> BLACK
+Proc #831 ---> RED
+Proc #832 ---> BLACK
+Proc #833 ---> RED
+Proc #834 ---> BLACK
+Proc #835 ---> RED
+Proc #836 ---> BLACK
+Proc #837 ---> RED
+Proc #838 ---> BLACK
+Proc #839 ---> RED
+Proc #840 ---> RED
+Proc #841 ---> BLACK
+Proc #842 ---> RED
+Proc #843 ---> BLACK
+Proc #844 ---> RED
+Proc #845 ---> BLACK
+Proc #846 ---> RED
+Proc #847 ---> BLACK
+Proc #848 ---> RED
+Proc #849 ---> BLACK
+Proc #850 ---> BLACK
+Proc #851 ---> RED
+Proc #852 ---> BLACK
+Proc #853 ---> RED
+Proc #854 ---> BLACK
+Proc #855 ---> RED
+Proc #856 ---> BLACK
+Proc #857 ---> RED
+Proc #858 ---> BLACK
+Proc #859 ---> RED
+Proc #860 ---> RED
+Proc #861 ---> BLACK
+Proc #862 ---> RED
+Proc #863 ---> BLACK
+Proc #864 ---> RED
+Proc #865 ---> BLACK
+Proc #866 ---> RED
+Proc #867 ---> BLACK
+Proc #868 ---> RED
+Proc #869 ---> BLACK
+Proc #870 ---> BLACK
+Proc #871 ---> RED
+Proc #872 ---> BLACK
+Proc #873 ---> RED
+Proc #874 ---> BLACK
+Proc #875 ---> RED
+Proc #876 ---> BLACK
+Proc #877 ---> RED
+Proc #878 ---> BLACK
+Proc #879 ---> RED
+Proc #880 ---> RED
+Proc #881 ---> BLACK
+Proc #882 ---> RED
+Proc #883 ---> BLACK
+Proc #884 ---> RED
+Proc #885 ---> BLACK
+Proc #886 ---> RED
+Proc #887 ---> BLACK
+Proc #888 ---> RED
+Proc #889 ---> BLACK
+Proc #890 ---> BLACK
+Proc #891 ---> RED
+Proc #892 ---> BLACK
+Proc #893 ---> RED
+Proc #894 ---> BLACK
+Proc #895 ---> RED
+Proc #896 ---> BLACK
+Proc #897 ---> RED
+Proc #898 ---> BLACK
+Proc #899 ---> RED
+Proc #900 ---> BLACK
+Proc #901 ---> RED
+Proc #902 ---> BLACK
+Proc #903 ---> RED
+Proc #904 ---> BLACK
+Proc #905 ---> RED
+Proc #906 ---> BLACK
+Proc #907 ---> RED
+Proc #908 ---> BLACK
+Proc #909 ---> RED
+Proc #910 ---> RED
+Proc #911 ---> BLACK
+Proc #912 ---> RED
+Proc #913 ---> BLACK
+Proc #914 ---> RED
+Proc #915 ---> BLACK
+Proc #916 ---> RED
+Proc #917 ---> BLACK
+Proc #918 ---> RED
+Proc #919 ---> BLACK
+Proc #920 ---> BLACK
+Proc #921 ---> RED
+Proc #922 ---> BLACK
+Proc #923 ---> RED
+Proc #924 ---> BLACK
+Proc #925 ---> RED
+Proc #926 ---> BLACK
+Proc #927 ---> RED
+Proc #928 ---> BLACK
+Proc #929 ---> RED
+Proc #930 ---> RED
+Proc #931 ---> BLACK
+Proc #932 ---> RED
+Proc #933 ---> BLACK
+Proc #934 ---> RED
+Proc #935 ---> BLACK
+Proc #936 ---> RED
+Proc #937 ---> BLACK
+Proc #938 ---> RED
+Proc #939 ---> BLACK
+Proc #940 ---> BLACK
+Proc #941 ---> RED
+Proc #942 ---> BLACK
+Proc #943 ---> RED
+Proc #944 ---> BLACK
+Proc #945 ---> RED
+Proc #946 ---> BLACK
+Proc #947 ---> RED
+Proc #948 ---> BLACK
+Proc #949 ---> RED
+Proc #950 ---> RED
+Proc #951 ---> BLACK
+Proc #952 ---> RED
+Proc #953 ---> BLACK
+Proc #954 ---> RED
+Proc #955 ---> BLACK
+Proc #956 ---> RED
+Proc #957 ---> BLACK
+Proc #958 ---> RED
+Proc #959 ---> BLACK
+Proc #960 ---> BLACK
+Proc #961 ---> RED
+Proc #962 ---> BLACK
+Proc #963 ---> RED
+Proc #964 ---> BLACK
+Proc #965 ---> RED
+Proc #966 ---> BLACK
+Proc #967 ---> RED
+Proc #968 ---> BLACK
+Proc #969 ---> RED
+Proc #970 ---> RED
+Proc #971 ---> BLACK
+Proc #972 ---> RED
+Proc #973 ---> BLACK
+Proc #974 ---> RED
+Proc #975 ---> BLACK
+Proc #976 ---> RED
+Proc #977 ---> BLACK
+Proc #978 ---> RED
+Proc #979 ---> BLACK
+Proc #980 ---> BLACK
+Proc #981 ---> RED
+Proc #982 ---> BLACK
+Proc #983 ---> RED
+Proc #984 ---> BLACK
+Proc #985 ---> RED
+Proc #986 ---> BLACK
+Proc #987 ---> RED
+Proc #988 ---> BLACK
+Proc #989 ---> RED
+Proc #990 ---> RED
+Proc #991 ---> BLACK
+Proc #992 ---> RED
+Proc #993 ---> BLACK
+Proc #994 ---> RED
+Proc #995 ---> BLACK
+Proc #996 ---> RED
+Proc #997 ---> BLACK
+Proc #998 ---> RED
+Proc #999 ---> BLACK
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+1010
+
+10
+10
+10
+1010
+
+10
+10
+10
+1010
+101010
+
+
+10
+
+10
+10
+1010
+
+10
+1010
+
+101010
+
+
+10
+1010
+10
+
+1010
+
+10
+1010
+
+10
+10
+10
+10
+1010
+10
+10
+
+10
+1010
+
+10
+10
+10
+10
+1010
+
+1010
+
+101010
+
+
+10
+10
+1010
+
+1010
+
+10
+10
+101010
+
+
+101010
+
+
+10
+101010
+
+
+10
+10
+10
+101010
+
+10
+
+10
+10
+10
+10
+10
+10
+10
+101010
+
+
+1010
+
+1010
+
+101010101010101010101010
+
+
+
+
+
+
+
+
+
+
+10101010
+
+
+
+1010
+
+
+10
+10
+10
+1010
+1010
+
+
+1010
+10
+10
+
+1010
+
+1010
+
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1010
+
+1010
+
+1010
+10
+10
+
+10
+10
+10
+10
+10
+10
+10
+101010101010
+101010
+
+
+10
+
+1010
+
+10
+
+
+
+101010
+
+
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+101010
+
+
+1010
+
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+10
+10
+101010
+
+
+10
+10
+1010
+
+10
+10
+1010
+
+10
+10
+10
+10
+10
+10
+10
+1010
+10
+10
+10
+
+1010
+
+10
+1010
+
+1010
+10
+
+10
+10
+10
+10
+10
+10
+1010
+
+10
+10
+10101010101010
+
+10
+10
+10
+
+
+1010
+
+1010
+
+
+10
+
+10
+
+101010101010
+1010
+10
+
+
+
+
+
+101010
+10
+
+
+1010
+10
+
+
+101010101010101010101010101010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+101010101010101010101010101010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+1010101010101010101010101010
+
+
+
+
+
+
+
+10
+
+
+
+
+
+
+on time step 1/99on time step 2/99on time step 3/99on time step 4/99on time step 5/99on time step 6/99on time step 7/99on time step 8/99on time step 9/99on time step 10/99on time step 11/99on time step 12/99on time step 13/99on time step 14/99on time step 15/99on time step 16/99on time step 17/99on time step 18/99on time step 19/99on time step 20/99on time step 21/99on time step 22/99on time step 23/99on time step 24/99on time step 25/99on time step 26/99on time step 27/99on time step 28/99on time step 29/99on time step 30/99on time step 31/99on time step 32/99on time step 33/99on time step 34/99on time step 35/99on time step 36/99on time step 37/99on time step 38/99on time step 39/99on time step 40/99on time step 41/99on time step 42/99on time step 43/99on time step 44/99on time step 45/99on time step 46/99on time step 47/99on time step 48/99on time step 49/99on time step 50/99on time step 51/99on time step 52/99on time step 53/99on time step 54/99on time step 55/99on time step 56/99on time step 57/99on time step 58/99on time step 59/99on time step 60/99on time step 61/99on time step 62/99on time step 63/99on time step 64/99on time step 65/99on time step 66/99on time step 67/99on time step 68/99on time step 69/99on time step 70/99on time step 71/99on time step 72/99on time step 73/99on time step 74/99on time step 75/99on time step 76/99on time step 77/99on time step 78/99on time step 79/99on time step 80/99on time step 81/99on time step 82/99on time step 83/99on time step 84/99on time step 85/99on time step 86/99on time step 87/99on time step 88/99on time step 89/99on time step 90/99on time step 91/99on time step 92/99on time step 93/99on time step 94/99on time step 95/99on time step 96/99on time step 97/99on time step 98/99on time step 99/99Simulation Time (s): 14.8574
+ 
+TACC: Shutdown complete. Exiting.
